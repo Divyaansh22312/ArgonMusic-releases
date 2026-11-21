@@ -10,3 +10,5 @@ All downloads and verified release packages are available under the [Releases ta
 - **Windows**: Inno Setup (ArgonMusic-Setup-x64-v*.exe) and Standalone Portable ZIP (ArgonMusic-v*-Windows-x64-Portable.zip)
 - **Android**: Universal APK (ArgonMusic-v*-universal.apk) and Split APKs (rm64-v8a, rmeabi-v7a, x86_64)
 - **Security & Integrity**: Manifests are cryptographically signed with Ed25519 (update.json) and SHA-256 (SHA256SUMS).
+
+<!-- verified by Divyaansh22312 -->
