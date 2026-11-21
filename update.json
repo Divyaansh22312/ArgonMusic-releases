@@ -3,7 +3,7 @@
     "latest_version": "2.14.2",
     "build_number": 9,
     "min_supported_version": "2.0.0",
-    "published_at": "2026-11-21T15:07:46.242Z",
+    "published_at": "2026-11-21T15:13:23.615Z",
     "release_notes": {
       "en": "• Security and performance improvements\n• Bug fixes and stability enhancements",
       "hi": "• Security and performance improvements\n• Bug fixes and stability enhancements",
@@ -19,20 +19,20 @@
       },
       "android": {
         "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v2.14.2/ArgonMusic-v2.14.2-universal.apk",
-        "universal_size": 96187439,
-        "universal_sha256": "fdf46d6ef99d570c88549f1c7b907820d5b9aaab68c8cff24d4cd262c3c71b78",
+        "universal_size": 96187425,
+        "universal_sha256": "77f37f5f7912a3aaa1e72aa9408d47f38ecd7689f7bae770da729e37fb64601f",
         "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v2.14.2/ArgonMusic-v2.14.2-arm64-v8a.apk",
-        "arm64_size": 36276441,
-        "arm64_sha256": "e0e0fc522d848f276ea5fb06bca10e4afb39d73df7ecf428586b020123ba20d0"
+        "arm64_size": 36276438,
+        "arm64_sha256": "ac8778a130b5d16efdb55e66ab9eaaf42d7f8e7fe6b89db90b0bf075d34c768e"
       }
     }
   },
-  "signature": "5bf02af0b64ff431f3c847b052d4cb867dbfcaa39bb62965a706f199cdb2fd8740206afcfb32d70f98be54b5d215b8ef29efa0720ad51ef52fca0c115550530a",
+  "signature": "90c56e07b0717f847e2921ebd143406d6ad5c0161922fcc7f6863d3d3740982b69e7a326f2aada6fe7e9816e841081baff69957105093aebf7b77366fd707201",
   "public_key": "7c91e1fad4cb6660894dd265d705e2b7fc8dd4f77517e702b49598ebc57e319f",
   "latest_version": "2.14.2",
   "build_number": 9,
   "min_supported_version": "2.0.0",
-  "published_at": "2026-11-21T15:07:46.242Z",
+  "published_at": "2026-11-21T15:13:23.615Z",
   "release_notes": {
     "en": "• Security and performance improvements\n• Bug fixes and stability enhancements",
     "hi": "• Security and performance improvements\n• Bug fixes and stability enhancements",
@@ -48,11 +48,11 @@
     },
     "android": {
       "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v2.14.2/ArgonMusic-v2.14.2-universal.apk",
-      "universal_size": 96187439,
-      "universal_sha256": "fdf46d6ef99d570c88549f1c7b907820d5b9aaab68c8cff24d4cd262c3c71b78",
+      "universal_size": 96187425,
+      "universal_sha256": "77f37f5f7912a3aaa1e72aa9408d47f38ecd7689f7bae770da729e37fb64601f",
       "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v2.14.2/ArgonMusic-v2.14.2-arm64-v8a.apk",
-      "arm64_size": 36276441,
-      "arm64_sha256": "e0e0fc522d848f276ea5fb06bca10e4afb39d73df7ecf428586b020123ba20d0"
+      "arm64_size": 36276438,
+      "arm64_sha256": "ac8778a130b5d16efdb55e66ab9eaaf42d7f8e7fe6b89db90b0bf075d34c768e"
     }
   }
 }
