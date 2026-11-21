@@ -8,7 +8,7 @@ a771573826f80cfd33bf2a9f4d4ab10ab6626314b3092c550d624f290a84ecdd  ArgonMusic-Set
 65cde4a1874bf730f78e5e771072800086a12c2831fdff2b8cd3e2ab107a71c4  ArgonMusic-Setup-x64-v2.13.4.exe
 e5661055ee2bbd9a3b145997b5c28826cc841319869d8a6b81200728d3d9799a  ArgonMusic-Setup-x64-v2.14.0.exe
 0af0cbf5f37b409f918c9e07be6a870f549111166eb4783a46b1464596615a62  ArgonMusic-Setup-x64-v2.14.1.exe
-da46c79d99c31a197593351662027241564d9231648f0667542e52edd706d35a  ArgonMusic-Setup-x64-v2.14.3.exe
+fab4e96e93dc78223b38f8ea65669506fac1873cd101249f4fe2b9e820f26a68  ArgonMusic-Setup-x64-v2.14.3.exe
 65cde4a1874bf730f78e5e771072800086a12c2831fdff2b8cd3e2ab107a71c4  ArgonMusic-Setup-x64.exe
 d7443423cdb4687432f4e636f48edc4263418b57f32fb9fdcf35385173bea98b  ArgonMusic-v1.0.0-Windows-x64-Portable.zip
 9889e2f88d754138abdc7e8a18b774408a2d24f79a313a098575058d5e70d083  ArgonMusic-v2.0-Android-arm64.apk
@@ -43,7 +43,7 @@ c816518a4cad06a111798649b570bc0906ec4adb0bb012b0c82d7713ad366a3f  ArgonMusic-v2.
 ccc90a17d1cafbb4c2ada848c80e1872ab52ab25b3af0f1287a1c5b9fb41113a  ArgonMusic-v2.14.0-Windows-x64-Portable.zip
 0d6b59ae29a68aaab42e976bbffc0e4fc5670e3f357971683d9afcd5c9080059  ArgonMusic-v2.14.1-Windows-x64-Portable.zip
 e75aa3e03326d9ec43ce842b6c97f654c890f230092637e0985144e956c63573  ArgonMusic-v2.14.2-Windows-x64-Portable.zip
-2e240e982464e01cdb7075c151d79adfe62865bdf00978550119469dc87927f3  ArgonMusic-v2.14.3-Windows-x64-Portable.zip
+adacf1b9d531c8b9c4cf19a6af55cc1252f631eb5c0ee1d933592b4ad005a0d3  ArgonMusic-v2.14.3-Windows-x64-Portable.zip
 c263a156eb7e8a26ccb7d610b7e08eda073210c2f91fae01abf508fa26fd6ec8  android/ArgonMusic-1.0.0-arm64-v8a.apk
 85054b6d0a9f55cc9b48f28c1e912d4388f8edd3d843f8748b9585934206e7f4  android/ArgonMusic-1.0.0-armeabi-v7a.apk
 db6e2ff24ec2511bdceb0025a90efdbcc5d95fc9d4635ecb492ec4bb76e936cd  android/ArgonMusic-1.0.0-universal.apk
@@ -100,3 +100,7 @@ ac8778a130b5d16efdb55e66ab9eaaf42d7f8e7fe6b89db90b0bf075d34c768e  android/ArgonM
 8e7ab1ab8e44744b25d22922797fea52f7c9151e0f11917414a3c237566c923c  android/ArgonMusic-v2.14.2-armeabi-v7a.apk
 77f37f5f7912a3aaa1e72aa9408d47f38ecd7689f7bae770da729e37fb64601f  android/ArgonMusic-v2.14.2-universal.apk
 20d4ab503d0eae00d3eafc6c83e7745cdee1e8231ed0b7cc2baeea31a1da2019  android/ArgonMusic-v2.14.2-x86_64.apk
+0809936205330d9a75dc6d6bd3d7cc1c323597ae5b6ba442a4c31d894a522f52  android/ArgonMusic-v2.14.3-arm64-v8a.apk
+71c45ac9103c641680713c31dc02caeb618d08a240ccc6ef1cffaaa6d99f1de9  android/ArgonMusic-v2.14.3-armeabi-v7a.apk
+f86efd3f9e5c4d4f38f3972310b0aea94674ee27125d97d57cc0f1b3eccc22c5  android/ArgonMusic-v2.14.3-universal.apk
+b59b0b49aeed0a431bbfa501eb5b1bb259508d4d72f64c64d51b0c2ea933e98e  android/ArgonMusic-v2.14.3-x86_64.apk
