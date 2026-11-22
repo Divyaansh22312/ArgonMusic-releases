@@ -3,7 +3,7 @@
     "latest_version": "2.15.0",
     "build_number": 18,
     "min_supported_version": "2.0.0",
-    "published_at": "2026-11-22T13:00:14.630Z",
+    "published_at": "2026-11-22T13:25:30.627Z",
     "release_notes": {
       "en": "• Security and performance improvements\n• Bug fixes and stability enhancements",
       "hi": "• Security and performance improvements\n• Bug fixes and stability enhancements",
@@ -14,25 +14,25 @@
       "windows": {
         "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v2.15.0/ArgonMusic-Setup-x64-v2.15.0.exe",
         "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v2.15.0/ArgonMusic-v2.15.0-Windows-x64-Portable.zip",
-        "size": 15107766,
-        "sha256": "e9f00d99bbf37af6268c4f9a8b691ff24df20b8f035419596d834f6e3047db88"
+        "size": 15111772,
+        "sha256": "285775fd2fe06cbfa68930508ecf5f391fa4181e96e734000cd2dfecb27b721f"
       },
       "android": {
         "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v2.15.0/ArgonMusic-v2.15.0-universal.apk",
-        "universal_size": 97786500,
-        "universal_sha256": "8b064247589e5249255d50b95c96fe3bf7514ce81625e02f7b2ac1de84a597e7",
+        "universal_size": 97802884,
+        "universal_sha256": "fca43b986368ef9b8c72f3f3f683fda7d0da0b61935f97964efc823f74a27988",
         "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v2.15.0/ArgonMusic-v2.15.0-arm64-v8a.apk",
-        "arm64_size": 36792237,
-        "arm64_sha256": "07d3385a2e33bbf145678b66ba16a35d8511931694db412209a1eaad00b0a645"
+        "arm64_size": 36808621,
+        "arm64_sha256": "41f115b71caf8d20e2b97c9e46ddd9695b4347536634f98b5d6575a4ee1db5e6"
       }
     }
   },
-  "signature": "f0ff97c279640bec2e9f1f76059ca6a18b3fd36186bca93e5bb38eb89bb068fef49b25d35cfa1f7b3bd046f584aba0efb8d52d811706b5643823b45a6882fc02",
+  "signature": "f711b28b7afe9393fb5067ecb455477e2532a542182166819ca946d9fcddb8cf82e7cb8270ff8af181c1e49fab09119441815668ce06d9cd2b76cc896e67d808",
   "public_key": "7c91e1fad4cb6660894dd265d705e2b7fc8dd4f77517e702b49598ebc57e319f",
   "latest_version": "2.15.0",
   "build_number": 18,
   "min_supported_version": "2.0.0",
-  "published_at": "2026-11-22T13:00:14.630Z",
+  "published_at": "2026-11-22T13:25:30.627Z",
   "release_notes": {
     "en": "• Security and performance improvements\n• Bug fixes and stability enhancements",
     "hi": "• Security and performance improvements\n• Bug fixes and stability enhancements",
@@ -43,16 +43,16 @@
     "windows": {
       "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v2.15.0/ArgonMusic-Setup-x64-v2.15.0.exe",
       "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v2.15.0/ArgonMusic-v2.15.0-Windows-x64-Portable.zip",
-      "size": 15107766,
-      "sha256": "e9f00d99bbf37af6268c4f9a8b691ff24df20b8f035419596d834f6e3047db88"
+      "size": 15111772,
+      "sha256": "285775fd2fe06cbfa68930508ecf5f391fa4181e96e734000cd2dfecb27b721f"
     },
     "android": {
       "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v2.15.0/ArgonMusic-v2.15.0-universal.apk",
-      "universal_size": 97786500,
-      "universal_sha256": "8b064247589e5249255d50b95c96fe3bf7514ce81625e02f7b2ac1de84a597e7",
+      "universal_size": 97802884,
+      "universal_sha256": "fca43b986368ef9b8c72f3f3f683fda7d0da0b61935f97964efc823f74a27988",
       "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v2.15.0/ArgonMusic-v2.15.0-arm64-v8a.apk",
-      "arm64_size": 36792237,
-      "arm64_sha256": "07d3385a2e33bbf145678b66ba16a35d8511931694db412209a1eaad00b0a645"
+      "arm64_size": 36808621,
+      "arm64_sha256": "41f115b71caf8d20e2b97c9e46ddd9695b4347536634f98b5d6575a4ee1db5e6"
     }
   }
 }
