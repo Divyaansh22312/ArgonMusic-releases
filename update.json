@@ -1,58 +1,58 @@
 {
   "manifest": {
-    "latest_version": "3.1.1",
-    "build_number": 33,
+    "latest_version": "3.1.15",
+    "build_number": 48,
     "min_supported_version": "2.0.0",
-    "published_at": "2026-11-25T10:17:52.603Z",
+    "published_at": "2026-11-25T13:12:20.858Z",
     "release_notes": {
-      "en": "### What's New in ArgonMusic v3.1.1\n\n• **Animated Live Lyrics Instagram Story Video**: Story Studio now encodes 15fps MP4 videos using Android GPU EGL Surface compositing with smoothly scrolling karaoke lyrics, reactive equalizer bars, and a live moving playback bar.\n• **Automatic Paused-Position Story Audio**: Added Rust sample-accurate fallback seeking + Android native MediaExtractor/MediaCodec fallback and automatic stereo PCM normalization so Instagram Stories receives an actual MP4 video playing the song right from where you paused.\n• **Interactive Live Preview**: Preview live continuing lyrics and beat motion right inside Story Studio before exporting or sharing.",
-      "hi": "### What's New in ArgonMusic v3.1.1\n\n• **Animated Live Lyrics Instagram Story Video**: Story Studio now encodes 15fps MP4 videos using Android GPU EGL Surface compositing with smoothly scrolling karaoke lyrics, reactive equalizer bars, and a live moving playback bar.\n• **Automatic Paused-Position Story Audio**: Added Rust sample-accurate fallback seeking + Android native MediaExtractor/MediaCodec fallback and automatic stereo PCM normalization so Instagram Stories receives an actual MP4 video playing the song right from where you paused.\n• **Interactive Live Preview**: Preview live continuing lyrics and beat motion right inside Story Studio before exporting or sharing.",
-      "es": "### What's New in ArgonMusic v3.1.1\n\n• **Animated Live Lyrics Instagram Story Video**: Story Studio now encodes 15fps MP4 videos using Android GPU EGL Surface compositing with smoothly scrolling karaoke lyrics, reactive equalizer bars, and a live moving playback bar.\n• **Automatic Paused-Position Story Audio**: Added Rust sample-accurate fallback seeking + Android native MediaExtractor/MediaCodec fallback and automatic stereo PCM normalization so Instagram Stories receives an actual MP4 video playing the song right from where you paused.\n• **Interactive Live Preview**: Preview live continuing lyrics and beat motion right inside Story Studio before exporting or sharing."
+      "en": "### What's New in ArgonMusic v3.1.15\n\n• **Official HD Music Video Playback (720p/1080p)**: Music Video mode now streams YouTube HLS master playlists via iOS InnerTube client, filtered through a loopback HTTP proxy to only serve ≥720p H.264+AAC variants — no more 360p.\n• **Strict Official-Only Video Matching**: Two-pass YouTube search with token-based title/artist verification, verified-artist badge checking, and hard rejection of covers, reactions, fan edits, remixes, and topic channels.\n• **Audio ↔ Video Handoff**: Switching to Video mode pauses the Rust audio engine and plays the video's own audio; switching back restores playback from the video's last position.\n• **Video Not Available Fallback**: Songs without an official music video or lyric video show a clean 'Video not available' card instead of random content.",
+      "hi": "### What's New in ArgonMusic v3.1.15\n\n• **Official HD Music Video Playback (720p/1080p)**: Music Video mode now streams YouTube HLS master playlists via iOS InnerTube client, filtered through a loopback HTTP proxy to only serve ≥720p H.264+AAC variants — no more 360p.\n• **Strict Official-Only Video Matching**: Two-pass YouTube search with token-based title/artist verification, verified-artist badge checking, and hard rejection of covers, reactions, fan edits, remixes, and topic channels.\n• **Audio ↔ Video Handoff**: Switching to Video mode pauses the Rust audio engine and plays the video's own audio; switching back restores playback from the video's last position.\n• **Video Not Available Fallback**: Songs without an official music video or lyric video show a clean 'Video not available' card instead of random content.",
+      "es": "### What's New in ArgonMusic v3.1.15\n\n• **Official HD Music Video Playback (720p/1080p)**: Music Video mode now streams YouTube HLS master playlists via iOS InnerTube client, filtered through a loopback HTTP proxy to only serve ≥720p H.264+AAC variants — no more 360p.\n• **Strict Official-Only Video Matching**: Two-pass YouTube search with token-based title/artist verification, verified-artist badge checking, and hard rejection of covers, reactions, fan edits, remixes, and topic channels.\n• **Audio ↔ Video Handoff**: Switching to Video mode pauses the Rust audio engine and plays the video's own audio; switching back restores playback from the video's last position.\n• **Video Not Available Fallback**: Songs without an official music video or lyric video show a clean 'Video not available' card instead of random content."
     },
     "mandatory": false,
     "platforms": {
       "windows": {
-        "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.1.1/ArgonMusic-Setup-x64-v3.1.1.exe",
-        "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.1.1/ArgonMusic-v3.1.1-Windows-x64-Portable.zip",
-        "size": 15405869,
-        "sha256": "a592374979d9c5459fd80fbbadc3309a0d67ffe27578c622d373c9afa37315b3"
+        "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.1.15/ArgonMusic-Setup-x64-v3.1.15.exe",
+        "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.1.15/ArgonMusic-v3.1.15-Windows-x64-Portable.zip",
+        "size": 15417321,
+        "sha256": "15849c71891ea0b66138cdb65a5d15664703ca51321e2f83dbd809537c666f80"
       },
       "android": {
-        "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.1.1/ArgonMusic-v3.1.1-universal.apk",
-        "universal_size": 101010261,
-        "universal_sha256": "cbecbd5ff65ffa6389c9f56ad90ebbcf6d0e0e5c96561faacffa59e17a4b05f5",
-        "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.1.1/ArgonMusic-v3.1.1-arm64-v8a.apk",
-        "arm64_size": 38246526,
-        "arm64_sha256": "eb8ca7483238b6632c6e9ff2a79f3b5aac76d922bb7fdc6ec2ea48be0c08eb8b"
+        "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.1.15/ArgonMusic-v3.1.15-universal.apk",
+        "universal_size": 101108565,
+        "universal_sha256": "8b55eee3f939acd7df4c53d4571a44344add36af45a20c38d3cb8be4faf19d87",
+        "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.1.15/ArgonMusic-v3.1.15-arm64-v8a.apk",
+        "arm64_size": 38312062,
+        "arm64_sha256": "8f3be5b2d015037dc8efdc7e3e496fb3129c57071aae220dbce90d66f47f738b"
       }
     }
   },
-  "signature": "7db4561a2c0a6e8e2161050bb73de42d76dda2e002ff09c8586dfaa9c3058ae58a2da1504d25969c5670c8340d143da76bd8551f37fc777386fead5d32171b09",
+  "signature": "78bb3ae804951f1b19b669f86c8eb2d8d23a2a1e042f500e3761669cd6e9d6d6ca3eedf46a442a11bc37b97a7c9324e30a9a38a38e0f941f768e25cec4e64d03",
   "public_key": "7c91e1fad4cb6660894dd265d705e2b7fc8dd4f77517e702b49598ebc57e319f",
-  "latest_version": "3.1.1",
-  "build_number": 33,
+  "latest_version": "3.1.15",
+  "build_number": 48,
   "min_supported_version": "2.0.0",
-  "published_at": "2026-11-25T10:17:52.603Z",
+  "published_at": "2026-11-25T13:12:20.858Z",
   "release_notes": {
-    "en": "### What's New in ArgonMusic v3.1.1\n\n• **Animated Live Lyrics Instagram Story Video**: Story Studio now encodes 15fps MP4 videos using Android GPU EGL Surface compositing with smoothly scrolling karaoke lyrics, reactive equalizer bars, and a live moving playback bar.\n• **Automatic Paused-Position Story Audio**: Added Rust sample-accurate fallback seeking + Android native MediaExtractor/MediaCodec fallback and automatic stereo PCM normalization so Instagram Stories receives an actual MP4 video playing the song right from where you paused.\n• **Interactive Live Preview**: Preview live continuing lyrics and beat motion right inside Story Studio before exporting or sharing.",
-    "hi": "### What's New in ArgonMusic v3.1.1\n\n• **Animated Live Lyrics Instagram Story Video**: Story Studio now encodes 15fps MP4 videos using Android GPU EGL Surface compositing with smoothly scrolling karaoke lyrics, reactive equalizer bars, and a live moving playback bar.\n• **Automatic Paused-Position Story Audio**: Added Rust sample-accurate fallback seeking + Android native MediaExtractor/MediaCodec fallback and automatic stereo PCM normalization so Instagram Stories receives an actual MP4 video playing the song right from where you paused.\n• **Interactive Live Preview**: Preview live continuing lyrics and beat motion right inside Story Studio before exporting or sharing.",
-    "es": "### What's New in ArgonMusic v3.1.1\n\n• **Animated Live Lyrics Instagram Story Video**: Story Studio now encodes 15fps MP4 videos using Android GPU EGL Surface compositing with smoothly scrolling karaoke lyrics, reactive equalizer bars, and a live moving playback bar.\n• **Automatic Paused-Position Story Audio**: Added Rust sample-accurate fallback seeking + Android native MediaExtractor/MediaCodec fallback and automatic stereo PCM normalization so Instagram Stories receives an actual MP4 video playing the song right from where you paused.\n• **Interactive Live Preview**: Preview live continuing lyrics and beat motion right inside Story Studio before exporting or sharing."
+    "en": "### What's New in ArgonMusic v3.1.15\n\n• **Official HD Music Video Playback (720p/1080p)**: Music Video mode now streams YouTube HLS master playlists via iOS InnerTube client, filtered through a loopback HTTP proxy to only serve ≥720p H.264+AAC variants — no more 360p.\n• **Strict Official-Only Video Matching**: Two-pass YouTube search with token-based title/artist verification, verified-artist badge checking, and hard rejection of covers, reactions, fan edits, remixes, and topic channels.\n• **Audio ↔ Video Handoff**: Switching to Video mode pauses the Rust audio engine and plays the video's own audio; switching back restores playback from the video's last position.\n• **Video Not Available Fallback**: Songs without an official music video or lyric video show a clean 'Video not available' card instead of random content.",
+    "hi": "### What's New in ArgonMusic v3.1.15\n\n• **Official HD Music Video Playback (720p/1080p)**: Music Video mode now streams YouTube HLS master playlists via iOS InnerTube client, filtered through a loopback HTTP proxy to only serve ≥720p H.264+AAC variants — no more 360p.\n• **Strict Official-Only Video Matching**: Two-pass YouTube search with token-based title/artist verification, verified-artist badge checking, and hard rejection of covers, reactions, fan edits, remixes, and topic channels.\n• **Audio ↔ Video Handoff**: Switching to Video mode pauses the Rust audio engine and plays the video's own audio; switching back restores playback from the video's last position.\n• **Video Not Available Fallback**: Songs without an official music video or lyric video show a clean 'Video not available' card instead of random content.",
+    "es": "### What's New in ArgonMusic v3.1.15\n\n• **Official HD Music Video Playback (720p/1080p)**: Music Video mode now streams YouTube HLS master playlists via iOS InnerTube client, filtered through a loopback HTTP proxy to only serve ≥720p H.264+AAC variants — no more 360p.\n• **Strict Official-Only Video Matching**: Two-pass YouTube search with token-based title/artist verification, verified-artist badge checking, and hard rejection of covers, reactions, fan edits, remixes, and topic channels.\n• **Audio ↔ Video Handoff**: Switching to Video mode pauses the Rust audio engine and plays the video's own audio; switching back restores playback from the video's last position.\n• **Video Not Available Fallback**: Songs without an official music video or lyric video show a clean 'Video not available' card instead of random content."
   },
   "mandatory": false,
   "platforms": {
     "windows": {
-      "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.1.1/ArgonMusic-Setup-x64-v3.1.1.exe",
-      "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.1.1/ArgonMusic-v3.1.1-Windows-x64-Portable.zip",
-      "size": 15405869,
-      "sha256": "a592374979d9c5459fd80fbbadc3309a0d67ffe27578c622d373c9afa37315b3"
+      "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.1.15/ArgonMusic-Setup-x64-v3.1.15.exe",
+      "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.1.15/ArgonMusic-v3.1.15-Windows-x64-Portable.zip",
+      "size": 15417321,
+      "sha256": "15849c71891ea0b66138cdb65a5d15664703ca51321e2f83dbd809537c666f80"
     },
     "android": {
-      "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.1.1/ArgonMusic-v3.1.1-universal.apk",
-      "universal_size": 101010261,
-      "universal_sha256": "cbecbd5ff65ffa6389c9f56ad90ebbcf6d0e0e5c96561faacffa59e17a4b05f5",
-      "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.1.1/ArgonMusic-v3.1.1-arm64-v8a.apk",
-      "arm64_size": 38246526,
-      "arm64_sha256": "eb8ca7483238b6632c6e9ff2a79f3b5aac76d922bb7fdc6ec2ea48be0c08eb8b"
+      "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.1.15/ArgonMusic-v3.1.15-universal.apk",
+      "universal_size": 101108565,
+      "universal_sha256": "8b55eee3f939acd7df4c53d4571a44344add36af45a20c38d3cb8be4faf19d87",
+      "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.1.15/ArgonMusic-v3.1.15-arm64-v8a.apk",
+      "arm64_size": 38312062,
+      "arm64_sha256": "8f3be5b2d015037dc8efdc7e3e496fb3129c57071aae220dbce90d66f47f738b"
     }
   }
 }
