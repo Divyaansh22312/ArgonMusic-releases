@@ -1,58 +1,58 @@
 {
   "manifest": {
-    "latest_version": "3.1.15",
-    "build_number": 48,
+    "latest_version": "3.2.0",
+    "build_number": 49,
     "min_supported_version": "2.0.0",
-    "published_at": "2026-11-25T13:12:20.858Z",
+    "published_at": "2026-11-25T13:51:15.682Z",
     "release_notes": {
-      "en": "### What's New in ArgonMusic v3.1.15\n\n• **Official HD Music Video Playback (720p/1080p)**: Music Video mode now streams YouTube HLS master playlists via iOS InnerTube client, filtered through a loopback HTTP proxy to only serve ≥720p H.264+AAC variants — no more 360p.\n• **Strict Official-Only Video Matching**: Two-pass YouTube search with token-based title/artist verification, verified-artist badge checking, and hard rejection of covers, reactions, fan edits, remixes, and topic channels.\n• **Audio ↔ Video Handoff**: Switching to Video mode pauses the Rust audio engine and plays the video's own audio; switching back restores playback from the video's last position.\n• **Video Not Available Fallback**: Songs without an official music video or lyric video show a clean 'Video not available' card instead of random content.",
-      "hi": "### What's New in ArgonMusic v3.1.15\n\n• **Official HD Music Video Playback (720p/1080p)**: Music Video mode now streams YouTube HLS master playlists via iOS InnerTube client, filtered through a loopback HTTP proxy to only serve ≥720p H.264+AAC variants — no more 360p.\n• **Strict Official-Only Video Matching**: Two-pass YouTube search with token-based title/artist verification, verified-artist badge checking, and hard rejection of covers, reactions, fan edits, remixes, and topic channels.\n• **Audio ↔ Video Handoff**: Switching to Video mode pauses the Rust audio engine and plays the video's own audio; switching back restores playback from the video's last position.\n• **Video Not Available Fallback**: Songs without an official music video or lyric video show a clean 'Video not available' card instead of random content.",
-      "es": "### What's New in ArgonMusic v3.1.15\n\n• **Official HD Music Video Playback (720p/1080p)**: Music Video mode now streams YouTube HLS master playlists via iOS InnerTube client, filtered through a loopback HTTP proxy to only serve ≥720p H.264+AAC variants — no more 360p.\n• **Strict Official-Only Video Matching**: Two-pass YouTube search with token-based title/artist verification, verified-artist badge checking, and hard rejection of covers, reactions, fan edits, remixes, and topic channels.\n• **Audio ↔ Video Handoff**: Switching to Video mode pauses the Rust audio engine and plays the video's own audio; switching back restores playback from the video's last position.\n• **Video Not Available Fallback**: Songs without an official music video or lyric video show a clean 'Video not available' card instead of random content."
+      "en": "### What's New in ArgonMusic v3.2.0\n\n• **Fixed Official Music Video Playback (Windows & Android)**: Restored InnerTube session resolution (1080p/720p HLS on Android and instant native MP4 playback on Windows), wired Home's Music Videos shelf into Video mode, and fixed audio handoff on close.\n• **HoloDeck 3D, Pixel Shift & Live Motion Covers Everywhere**: Enabled 3D gyroscope/mouse tilt, Pixel Shift tile transitions, and Live Animated Cover Art across default Immersive, Minimalist Focus, Framed, and Cinematic Now Playing modes.\n• **Fixed Live Motion Cover Providers**: Restored Apple Music motion artwork and Community Canvas track matching.\n• **Mobile MiniPlayer Swipe-Up Restored**: Swipe up on the mobile mini-player to expand Now Playing smoothly.",
+      "hi": "### What's New in ArgonMusic v3.2.0\n\n• **Fixed Official Music Video Playback (Windows & Android)**: Restored InnerTube session resolution (1080p/720p HLS on Android and instant native MP4 playback on Windows), wired Home's Music Videos shelf into Video mode, and fixed audio handoff on close.\n• **HoloDeck 3D, Pixel Shift & Live Motion Covers Everywhere**: Enabled 3D gyroscope/mouse tilt, Pixel Shift tile transitions, and Live Animated Cover Art across default Immersive, Minimalist Focus, Framed, and Cinematic Now Playing modes.\n• **Fixed Live Motion Cover Providers**: Restored Apple Music motion artwork and Community Canvas track matching.\n• **Mobile MiniPlayer Swipe-Up Restored**: Swipe up on the mobile mini-player to expand Now Playing smoothly.",
+      "es": "### What's New in ArgonMusic v3.2.0\n\n• **Fixed Official Music Video Playback (Windows & Android)**: Restored InnerTube session resolution (1080p/720p HLS on Android and instant native MP4 playback on Windows), wired Home's Music Videos shelf into Video mode, and fixed audio handoff on close.\n• **HoloDeck 3D, Pixel Shift & Live Motion Covers Everywhere**: Enabled 3D gyroscope/mouse tilt, Pixel Shift tile transitions, and Live Animated Cover Art across default Immersive, Minimalist Focus, Framed, and Cinematic Now Playing modes.\n• **Fixed Live Motion Cover Providers**: Restored Apple Music motion artwork and Community Canvas track matching.\n• **Mobile MiniPlayer Swipe-Up Restored**: Swipe up on the mobile mini-player to expand Now Playing smoothly."
     },
     "mandatory": false,
     "platforms": {
       "windows": {
-        "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.1.15/ArgonMusic-Setup-x64-v3.1.15.exe",
-        "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.1.15/ArgonMusic-v3.1.15-Windows-x64-Portable.zip",
-        "size": 15417321,
-        "sha256": "15849c71891ea0b66138cdb65a5d15664703ca51321e2f83dbd809537c666f80"
+        "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.0/ArgonMusic-Setup-x64-v3.2.0.exe",
+        "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.0/ArgonMusic-v3.2.0-Windows-x64-Portable.zip",
+        "size": 15421376,
+        "sha256": "a90f802da996aaaf27e247275d1ca3eb6f5012d3318a2ac5d610a373da1cc7ed"
       },
       "android": {
-        "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.1.15/ArgonMusic-v3.1.15-universal.apk",
+        "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.0/ArgonMusic-v3.2.0-universal.apk",
         "universal_size": 101108565,
-        "universal_sha256": "8b55eee3f939acd7df4c53d4571a44344add36af45a20c38d3cb8be4faf19d87",
-        "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.1.15/ArgonMusic-v3.1.15-arm64-v8a.apk",
+        "universal_sha256": "549c90845a977ad252c8d31ff27ed05edaedf7dbe2a01fcdda903df0b2c2c086",
+        "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.0/ArgonMusic-v3.2.0-arm64-v8a.apk",
         "arm64_size": 38312062,
-        "arm64_sha256": "8f3be5b2d015037dc8efdc7e3e496fb3129c57071aae220dbce90d66f47f738b"
+        "arm64_sha256": "e557dbb8e41d055d4f142bb485aae6d8b460f542ffd5ff9ab7f9fa0297e144e8"
       }
     }
   },
-  "signature": "78bb3ae804951f1b19b669f86c8eb2d8d23a2a1e042f500e3761669cd6e9d6d6ca3eedf46a442a11bc37b97a7c9324e30a9a38a38e0f941f768e25cec4e64d03",
+  "signature": "9f3c29301a61988aee5ad58d493f8de7f7c1950b74c00b91fbffe0c89518f5aa68a81dc894ed933c8af18472fec5d38e11517f40ebe4654c186c82486612aa03",
   "public_key": "7c91e1fad4cb6660894dd265d705e2b7fc8dd4f77517e702b49598ebc57e319f",
-  "latest_version": "3.1.15",
-  "build_number": 48,
+  "latest_version": "3.2.0",
+  "build_number": 49,
   "min_supported_version": "2.0.0",
-  "published_at": "2026-11-25T13:12:20.858Z",
+  "published_at": "2026-11-25T13:51:15.682Z",
   "release_notes": {
-    "en": "### What's New in ArgonMusic v3.1.15\n\n• **Official HD Music Video Playback (720p/1080p)**: Music Video mode now streams YouTube HLS master playlists via iOS InnerTube client, filtered through a loopback HTTP proxy to only serve ≥720p H.264+AAC variants — no more 360p.\n• **Strict Official-Only Video Matching**: Two-pass YouTube search with token-based title/artist verification, verified-artist badge checking, and hard rejection of covers, reactions, fan edits, remixes, and topic channels.\n• **Audio ↔ Video Handoff**: Switching to Video mode pauses the Rust audio engine and plays the video's own audio; switching back restores playback from the video's last position.\n• **Video Not Available Fallback**: Songs without an official music video or lyric video show a clean 'Video not available' card instead of random content.",
-    "hi": "### What's New in ArgonMusic v3.1.15\n\n• **Official HD Music Video Playback (720p/1080p)**: Music Video mode now streams YouTube HLS master playlists via iOS InnerTube client, filtered through a loopback HTTP proxy to only serve ≥720p H.264+AAC variants — no more 360p.\n• **Strict Official-Only Video Matching**: Two-pass YouTube search with token-based title/artist verification, verified-artist badge checking, and hard rejection of covers, reactions, fan edits, remixes, and topic channels.\n• **Audio ↔ Video Handoff**: Switching to Video mode pauses the Rust audio engine and plays the video's own audio; switching back restores playback from the video's last position.\n• **Video Not Available Fallback**: Songs without an official music video or lyric video show a clean 'Video not available' card instead of random content.",
-    "es": "### What's New in ArgonMusic v3.1.15\n\n• **Official HD Music Video Playback (720p/1080p)**: Music Video mode now streams YouTube HLS master playlists via iOS InnerTube client, filtered through a loopback HTTP proxy to only serve ≥720p H.264+AAC variants — no more 360p.\n• **Strict Official-Only Video Matching**: Two-pass YouTube search with token-based title/artist verification, verified-artist badge checking, and hard rejection of covers, reactions, fan edits, remixes, and topic channels.\n• **Audio ↔ Video Handoff**: Switching to Video mode pauses the Rust audio engine and plays the video's own audio; switching back restores playback from the video's last position.\n• **Video Not Available Fallback**: Songs without an official music video or lyric video show a clean 'Video not available' card instead of random content."
+    "en": "### What's New in ArgonMusic v3.2.0\n\n• **Fixed Official Music Video Playback (Windows & Android)**: Restored InnerTube session resolution (1080p/720p HLS on Android and instant native MP4 playback on Windows), wired Home's Music Videos shelf into Video mode, and fixed audio handoff on close.\n• **HoloDeck 3D, Pixel Shift & Live Motion Covers Everywhere**: Enabled 3D gyroscope/mouse tilt, Pixel Shift tile transitions, and Live Animated Cover Art across default Immersive, Minimalist Focus, Framed, and Cinematic Now Playing modes.\n• **Fixed Live Motion Cover Providers**: Restored Apple Music motion artwork and Community Canvas track matching.\n• **Mobile MiniPlayer Swipe-Up Restored**: Swipe up on the mobile mini-player to expand Now Playing smoothly.",
+    "hi": "### What's New in ArgonMusic v3.2.0\n\n• **Fixed Official Music Video Playback (Windows & Android)**: Restored InnerTube session resolution (1080p/720p HLS on Android and instant native MP4 playback on Windows), wired Home's Music Videos shelf into Video mode, and fixed audio handoff on close.\n• **HoloDeck 3D, Pixel Shift & Live Motion Covers Everywhere**: Enabled 3D gyroscope/mouse tilt, Pixel Shift tile transitions, and Live Animated Cover Art across default Immersive, Minimalist Focus, Framed, and Cinematic Now Playing modes.\n• **Fixed Live Motion Cover Providers**: Restored Apple Music motion artwork and Community Canvas track matching.\n• **Mobile MiniPlayer Swipe-Up Restored**: Swipe up on the mobile mini-player to expand Now Playing smoothly.",
+    "es": "### What's New in ArgonMusic v3.2.0\n\n• **Fixed Official Music Video Playback (Windows & Android)**: Restored InnerTube session resolution (1080p/720p HLS on Android and instant native MP4 playback on Windows), wired Home's Music Videos shelf into Video mode, and fixed audio handoff on close.\n• **HoloDeck 3D, Pixel Shift & Live Motion Covers Everywhere**: Enabled 3D gyroscope/mouse tilt, Pixel Shift tile transitions, and Live Animated Cover Art across default Immersive, Minimalist Focus, Framed, and Cinematic Now Playing modes.\n• **Fixed Live Motion Cover Providers**: Restored Apple Music motion artwork and Community Canvas track matching.\n• **Mobile MiniPlayer Swipe-Up Restored**: Swipe up on the mobile mini-player to expand Now Playing smoothly."
   },
   "mandatory": false,
   "platforms": {
     "windows": {
-      "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.1.15/ArgonMusic-Setup-x64-v3.1.15.exe",
-      "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.1.15/ArgonMusic-v3.1.15-Windows-x64-Portable.zip",
-      "size": 15417321,
-      "sha256": "15849c71891ea0b66138cdb65a5d15664703ca51321e2f83dbd809537c666f80"
+      "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.0/ArgonMusic-Setup-x64-v3.2.0.exe",
+      "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.0/ArgonMusic-v3.2.0-Windows-x64-Portable.zip",
+      "size": 15421376,
+      "sha256": "a90f802da996aaaf27e247275d1ca3eb6f5012d3318a2ac5d610a373da1cc7ed"
     },
     "android": {
-      "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.1.15/ArgonMusic-v3.1.15-universal.apk",
+      "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.0/ArgonMusic-v3.2.0-universal.apk",
       "universal_size": 101108565,
-      "universal_sha256": "8b55eee3f939acd7df4c53d4571a44344add36af45a20c38d3cb8be4faf19d87",
-      "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.1.15/ArgonMusic-v3.1.15-arm64-v8a.apk",
+      "universal_sha256": "549c90845a977ad252c8d31ff27ed05edaedf7dbe2a01fcdda903df0b2c2c086",
+      "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.0/ArgonMusic-v3.2.0-arm64-v8a.apk",
       "arm64_size": 38312062,
-      "arm64_sha256": "8f3be5b2d015037dc8efdc7e3e496fb3129c57071aae220dbce90d66f47f738b"
+      "arm64_sha256": "e557dbb8e41d055d4f142bb485aae6d8b460f542ffd5ff9ab7f9fa0297e144e8"
     }
   }
 }
