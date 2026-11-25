@@ -1,58 +1,58 @@
 {
   "manifest": {
-    "latest_version": "3.2.1",
-    "build_number": 50,
+    "latest_version": "3.2.2",
+    "build_number": 51,
     "min_supported_version": "2.0.0",
-    "published_at": "2026-11-25T15:44:35.429Z",
+    "published_at": "2026-11-25T17:35:36.017Z",
     "release_notes": {
-      "en": "### What's New in ArgonMusic v3.2.1\n\n• **Listen Together Disabled for This Update**: The Coming Soon Listen Together button in the bottom player bar now matches Settings and shows an unavailable notice instead of opening the session modal.\n• **Official Music Video Playback (Windows & Android)**: Restored InnerTube session resolution (1080p/720p HLS on Android and native MP4 on Windows), Home Music Videos shelf launch, and audio handoff on close.\n• **HoloDeck 3D, Pixel Shift & Live Motion Covers**: Active across Immersive, Minimalist Focus, Framed, and Cinematic Now Playing modes.\n• **Mobile MiniPlayer Swipe-Up**: Swipe up on the mobile mini-player to expand Now Playing smoothly.",
-      "hi": "### What's New in ArgonMusic v3.2.1\n\n• **Listen Together Disabled for This Update**: The Coming Soon Listen Together button in the bottom player bar now matches Settings and shows an unavailable notice instead of opening the session modal.\n• **Official Music Video Playback (Windows & Android)**: Restored InnerTube session resolution (1080p/720p HLS on Android and native MP4 on Windows), Home Music Videos shelf launch, and audio handoff on close.\n• **HoloDeck 3D, Pixel Shift & Live Motion Covers**: Active across Immersive, Minimalist Focus, Framed, and Cinematic Now Playing modes.\n• **Mobile MiniPlayer Swipe-Up**: Swipe up on the mobile mini-player to expand Now Playing smoothly.",
-      "es": "### What's New in ArgonMusic v3.2.1\n\n• **Listen Together Disabled for This Update**: The Coming Soon Listen Together button in the bottom player bar now matches Settings and shows an unavailable notice instead of opening the session modal.\n• **Official Music Video Playback (Windows & Android)**: Restored InnerTube session resolution (1080p/720p HLS on Android and native MP4 on Windows), Home Music Videos shelf launch, and audio handoff on close.\n• **HoloDeck 3D, Pixel Shift & Live Motion Covers**: Active across Immersive, Minimalist Focus, Framed, and Cinematic Now Playing modes.\n• **Mobile MiniPlayer Swipe-Up**: Swipe up on the mobile mini-player to expand Now Playing smoothly."
+      "en": "### What's New in ArgonMusic v3.2.2\n\n• **PC (Windows) 1080p/720p Official Music Videos**: Powered Windows video playback with D3D11/FFmpeg hardware decoding so Official Music Videos stream in 1080p/720p HD instead of 360p, and enabled Live Animated Covers (.m3u8) on Windows.\n• **Android Downloads Fixed Across Android 8–16**: Fixed native ConnectivityManager Wi-Fi detection, Scoped Storage / write-verified fallback directories, lifecycle interruption (screen-off/app-switch no longer cancels active downloads), and paused download visibility with one-tap resume.\n• **Faster Settings & Smooth Android Discord RPC Login**: Replaced translucent dialog WebView compositing with an opaque full-screen login route, cached Settings async status futures, and lazy-rendered Settings search results.\n• **Listen Together Disabled for This Update**: The Coming Soon Listen Together button in the bottom player bar matches Settings and shows an unavailable notice.",
+      "hi": "### What's New in ArgonMusic v3.2.2\n\n• **PC (Windows) 1080p/720p Official Music Videos**: Powered Windows video playback with D3D11/FFmpeg hardware decoding so Official Music Videos stream in 1080p/720p HD instead of 360p, and enabled Live Animated Covers (.m3u8) on Windows.\n• **Android Downloads Fixed Across Android 8–16**: Fixed native ConnectivityManager Wi-Fi detection, Scoped Storage / write-verified fallback directories, lifecycle interruption (screen-off/app-switch no longer cancels active downloads), and paused download visibility with one-tap resume.\n• **Faster Settings & Smooth Android Discord RPC Login**: Replaced translucent dialog WebView compositing with an opaque full-screen login route, cached Settings async status futures, and lazy-rendered Settings search results.\n• **Listen Together Disabled for This Update**: The Coming Soon Listen Together button in the bottom player bar matches Settings and shows an unavailable notice.",
+      "es": "### What's New in ArgonMusic v3.2.2\n\n• **PC (Windows) 1080p/720p Official Music Videos**: Powered Windows video playback with D3D11/FFmpeg hardware decoding so Official Music Videos stream in 1080p/720p HD instead of 360p, and enabled Live Animated Covers (.m3u8) on Windows.\n• **Android Downloads Fixed Across Android 8–16**: Fixed native ConnectivityManager Wi-Fi detection, Scoped Storage / write-verified fallback directories, lifecycle interruption (screen-off/app-switch no longer cancels active downloads), and paused download visibility with one-tap resume.\n• **Faster Settings & Smooth Android Discord RPC Login**: Replaced translucent dialog WebView compositing with an opaque full-screen login route, cached Settings async status futures, and lazy-rendered Settings search results.\n• **Listen Together Disabled for This Update**: The Coming Soon Listen Together button in the bottom player bar matches Settings and shows an unavailable notice."
     },
     "mandatory": false,
     "platforms": {
       "windows": {
-        "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.1/ArgonMusic-Setup-x64-v3.2.1.exe",
-        "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.1/ArgonMusic-v3.2.1-Windows-x64-Portable.zip",
-        "size": 15357331,
-        "sha256": "242ddfd39c329357e8c90fb38595be26bb0704d59875ed903125df95c480226c"
+        "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.2/ArgonMusic-Setup-x64-v3.2.2.exe",
+        "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.2/ArgonMusic-v3.2.2-Windows-x64-Portable.zip",
+        "size": 21733635,
+        "sha256": "9a9df5962bcd942236476d739c3f35ee92f2b8c9d5d22b7f5e7f2382163e6f94"
       },
       "android": {
-        "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.1/ArgonMusic-v3.2.1-universal.apk",
-        "universal_size": 100567893,
-        "universal_sha256": "aa35273dced4707b918ab3d81f4472ceb73bea581445961b2698cfbd1cea06a4",
-        "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.1/ArgonMusic-v3.2.1-arm64-v8a.apk",
-        "arm64_size": 38115454,
-        "arm64_sha256": "42a357a05c3ac72025b0b1e0f2c8195fa6a595120330a725f5fbd703774f4756"
+        "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.2/ArgonMusic-v3.2.2-universal.apk",
+        "universal_size": 134450772,
+        "universal_sha256": "332e96c23e0097400473033317b15f883c81a36d9bcc892fe7f10e18b197f934",
+        "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.2/ArgonMusic-v3.2.2-arm64-v8a.apk",
+        "arm64_size": 50059669,
+        "arm64_sha256": "f8e441aaa7b9e67a890bdeb3cb5dc7dd280086a78bc552b840b04fcd2cc3ee98"
       }
     }
   },
-  "signature": "8154eeffaada3c2709baafbb3c02b0d11d32e69110d98d55d53becec848e99c2d091119950ba74d3d2e53e85c3993eaaf0d2e18c72b2a34bab9b32d3897de50b",
+  "signature": "0519ef9d361bd1511284769986def5f6d6d2e3bb4201831890ae7406d4697c8a636154671df8463639270d469c8c7472d6e3a66496bb845f87fbc456dffb0005",
   "public_key": "7c91e1fad4cb6660894dd265d705e2b7fc8dd4f77517e702b49598ebc57e319f",
-  "latest_version": "3.2.1",
-  "build_number": 50,
+  "latest_version": "3.2.2",
+  "build_number": 51,
   "min_supported_version": "2.0.0",
-  "published_at": "2026-11-25T15:44:35.429Z",
+  "published_at": "2026-11-25T17:35:36.017Z",
   "release_notes": {
-    "en": "### What's New in ArgonMusic v3.2.1\n\n• **Listen Together Disabled for This Update**: The Coming Soon Listen Together button in the bottom player bar now matches Settings and shows an unavailable notice instead of opening the session modal.\n• **Official Music Video Playback (Windows & Android)**: Restored InnerTube session resolution (1080p/720p HLS on Android and native MP4 on Windows), Home Music Videos shelf launch, and audio handoff on close.\n• **HoloDeck 3D, Pixel Shift & Live Motion Covers**: Active across Immersive, Minimalist Focus, Framed, and Cinematic Now Playing modes.\n• **Mobile MiniPlayer Swipe-Up**: Swipe up on the mobile mini-player to expand Now Playing smoothly.",
-    "hi": "### What's New in ArgonMusic v3.2.1\n\n• **Listen Together Disabled for This Update**: The Coming Soon Listen Together button in the bottom player bar now matches Settings and shows an unavailable notice instead of opening the session modal.\n• **Official Music Video Playback (Windows & Android)**: Restored InnerTube session resolution (1080p/720p HLS on Android and native MP4 on Windows), Home Music Videos shelf launch, and audio handoff on close.\n• **HoloDeck 3D, Pixel Shift & Live Motion Covers**: Active across Immersive, Minimalist Focus, Framed, and Cinematic Now Playing modes.\n• **Mobile MiniPlayer Swipe-Up**: Swipe up on the mobile mini-player to expand Now Playing smoothly.",
-    "es": "### What's New in ArgonMusic v3.2.1\n\n• **Listen Together Disabled for This Update**: The Coming Soon Listen Together button in the bottom player bar now matches Settings and shows an unavailable notice instead of opening the session modal.\n• **Official Music Video Playback (Windows & Android)**: Restored InnerTube session resolution (1080p/720p HLS on Android and native MP4 on Windows), Home Music Videos shelf launch, and audio handoff on close.\n• **HoloDeck 3D, Pixel Shift & Live Motion Covers**: Active across Immersive, Minimalist Focus, Framed, and Cinematic Now Playing modes.\n• **Mobile MiniPlayer Swipe-Up**: Swipe up on the mobile mini-player to expand Now Playing smoothly."
+    "en": "### What's New in ArgonMusic v3.2.2\n\n• **PC (Windows) 1080p/720p Official Music Videos**: Powered Windows video playback with D3D11/FFmpeg hardware decoding so Official Music Videos stream in 1080p/720p HD instead of 360p, and enabled Live Animated Covers (.m3u8) on Windows.\n• **Android Downloads Fixed Across Android 8–16**: Fixed native ConnectivityManager Wi-Fi detection, Scoped Storage / write-verified fallback directories, lifecycle interruption (screen-off/app-switch no longer cancels active downloads), and paused download visibility with one-tap resume.\n• **Faster Settings & Smooth Android Discord RPC Login**: Replaced translucent dialog WebView compositing with an opaque full-screen login route, cached Settings async status futures, and lazy-rendered Settings search results.\n• **Listen Together Disabled for This Update**: The Coming Soon Listen Together button in the bottom player bar matches Settings and shows an unavailable notice.",
+    "hi": "### What's New in ArgonMusic v3.2.2\n\n• **PC (Windows) 1080p/720p Official Music Videos**: Powered Windows video playback with D3D11/FFmpeg hardware decoding so Official Music Videos stream in 1080p/720p HD instead of 360p, and enabled Live Animated Covers (.m3u8) on Windows.\n• **Android Downloads Fixed Across Android 8–16**: Fixed native ConnectivityManager Wi-Fi detection, Scoped Storage / write-verified fallback directories, lifecycle interruption (screen-off/app-switch no longer cancels active downloads), and paused download visibility with one-tap resume.\n• **Faster Settings & Smooth Android Discord RPC Login**: Replaced translucent dialog WebView compositing with an opaque full-screen login route, cached Settings async status futures, and lazy-rendered Settings search results.\n• **Listen Together Disabled for This Update**: The Coming Soon Listen Together button in the bottom player bar matches Settings and shows an unavailable notice.",
+    "es": "### What's New in ArgonMusic v3.2.2\n\n• **PC (Windows) 1080p/720p Official Music Videos**: Powered Windows video playback with D3D11/FFmpeg hardware decoding so Official Music Videos stream in 1080p/720p HD instead of 360p, and enabled Live Animated Covers (.m3u8) on Windows.\n• **Android Downloads Fixed Across Android 8–16**: Fixed native ConnectivityManager Wi-Fi detection, Scoped Storage / write-verified fallback directories, lifecycle interruption (screen-off/app-switch no longer cancels active downloads), and paused download visibility with one-tap resume.\n• **Faster Settings & Smooth Android Discord RPC Login**: Replaced translucent dialog WebView compositing with an opaque full-screen login route, cached Settings async status futures, and lazy-rendered Settings search results.\n• **Listen Together Disabled for This Update**: The Coming Soon Listen Together button in the bottom player bar matches Settings and shows an unavailable notice."
   },
   "mandatory": false,
   "platforms": {
     "windows": {
-      "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.1/ArgonMusic-Setup-x64-v3.2.1.exe",
-      "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.1/ArgonMusic-v3.2.1-Windows-x64-Portable.zip",
-      "size": 15357331,
-      "sha256": "242ddfd39c329357e8c90fb38595be26bb0704d59875ed903125df95c480226c"
+      "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.2/ArgonMusic-Setup-x64-v3.2.2.exe",
+      "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.2/ArgonMusic-v3.2.2-Windows-x64-Portable.zip",
+      "size": 21733635,
+      "sha256": "9a9df5962bcd942236476d739c3f35ee92f2b8c9d5d22b7f5e7f2382163e6f94"
     },
     "android": {
-      "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.1/ArgonMusic-v3.2.1-universal.apk",
-      "universal_size": 100567893,
-      "universal_sha256": "aa35273dced4707b918ab3d81f4472ceb73bea581445961b2698cfbd1cea06a4",
-      "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.1/ArgonMusic-v3.2.1-arm64-v8a.apk",
-      "arm64_size": 38115454,
-      "arm64_sha256": "42a357a05c3ac72025b0b1e0f2c8195fa6a595120330a725f5fbd703774f4756"
+      "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.2/ArgonMusic-v3.2.2-universal.apk",
+      "universal_size": 134450772,
+      "universal_sha256": "332e96c23e0097400473033317b15f883c81a36d9bcc892fe7f10e18b197f934",
+      "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.2/ArgonMusic-v3.2.2-arm64-v8a.apk",
+      "arm64_size": 50059669,
+      "arm64_sha256": "f8e441aaa7b9e67a890bdeb3cb5dc7dd280086a78bc552b840b04fcd2cc3ee98"
     }
   }
 }
