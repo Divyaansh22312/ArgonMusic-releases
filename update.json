@@ -1,58 +1,58 @@
 {
   "manifest": {
-    "latest_version": "2.15.3",
-    "build_number": 26,
+    "latest_version": "3.0.0",
+    "build_number": 30,
     "min_supported_version": "2.0.0",
-    "published_at": "2026-11-24T18:07:01.732Z",
+    "published_at": "2026-11-25T08:44:51.976Z",
     "release_notes": {
-      "en": "• Security and performance improvements\n• Bug fixes and stability enhancements",
-      "hi": "• Security and performance improvements\n• Bug fixes and stability enhancements",
-      "es": "• Security and performance improvements\n• Bug fixes and stability enhancements"
+      "en": "### What's New in ArgonMusic v3.0.0\n\n• **Three New Signature Themes**: Neon Pulse, Royal Gold, and Pure Minimal, plus translucent Liquid Glass playlists, Cover Studio customizer, Adaptive Playlist Themes, and Battery Saver Mode.\n• **HoloDeck 3D, Cinematic Focus & Pixel Shift**: Interactive gyroscope/tilt HoloDeck artwork, distraction-free Cinematic Focus stage, tile-based Pixel Shift transitions, and Live Animated Cover Arts.\n• **Audio Quality, Music Videos & Lyrics**: Refined High/Ultra/Lossless tiers, restored Music Videos playback on Windows & Android with a dedicated Home shelf, BT/TWS double-tap pause/resume fix, Gentle Sleep Timer fade, and word-synced lyrics precision.\n• **Discovery, Mobile & Sharing**: Onboarding permissions & walkthrough, Android Home Widget, Android Discord Rich Presence, HumSearch melody matching, Genre Explorer, Guess The Track, Story Studio (9:16 posters), Lyric Quote Cards, and QR Connect.\n• **Personal Hub & Pro Audio**: Music Diary, Monthly Music Story, Album Relationship Scores, Forgotten Gems, Artist Timeline, Playlist Splitter, Achievements, and Argon Audio Lab.",
+      "hi": "### What's New in ArgonMusic v3.0.0\n\n• **Three New Signature Themes**: Neon Pulse, Royal Gold, and Pure Minimal, plus translucent Liquid Glass playlists, Cover Studio customizer, Adaptive Playlist Themes, and Battery Saver Mode.\n• **HoloDeck 3D, Cinematic Focus & Pixel Shift**: Interactive gyroscope/tilt HoloDeck artwork, distraction-free Cinematic Focus stage, tile-based Pixel Shift transitions, and Live Animated Cover Arts.\n• **Audio Quality, Music Videos & Lyrics**: Refined High/Ultra/Lossless tiers, restored Music Videos playback on Windows & Android with a dedicated Home shelf, BT/TWS double-tap pause/resume fix, Gentle Sleep Timer fade, and word-synced lyrics precision.\n• **Discovery, Mobile & Sharing**: Onboarding permissions & walkthrough, Android Home Widget, Android Discord Rich Presence, HumSearch melody matching, Genre Explorer, Guess The Track, Story Studio (9:16 posters), Lyric Quote Cards, and QR Connect.\n• **Personal Hub & Pro Audio**: Music Diary, Monthly Music Story, Album Relationship Scores, Forgotten Gems, Artist Timeline, Playlist Splitter, Achievements, and Argon Audio Lab.",
+      "es": "### What's New in ArgonMusic v3.0.0\n\n• **Three New Signature Themes**: Neon Pulse, Royal Gold, and Pure Minimal, plus translucent Liquid Glass playlists, Cover Studio customizer, Adaptive Playlist Themes, and Battery Saver Mode.\n• **HoloDeck 3D, Cinematic Focus & Pixel Shift**: Interactive gyroscope/tilt HoloDeck artwork, distraction-free Cinematic Focus stage, tile-based Pixel Shift transitions, and Live Animated Cover Arts.\n• **Audio Quality, Music Videos & Lyrics**: Refined High/Ultra/Lossless tiers, restored Music Videos playback on Windows & Android with a dedicated Home shelf, BT/TWS double-tap pause/resume fix, Gentle Sleep Timer fade, and word-synced lyrics precision.\n• **Discovery, Mobile & Sharing**: Onboarding permissions & walkthrough, Android Home Widget, Android Discord Rich Presence, HumSearch melody matching, Genre Explorer, Guess The Track, Story Studio (9:16 posters), Lyric Quote Cards, and QR Connect.\n• **Personal Hub & Pro Audio**: Music Diary, Monthly Music Story, Album Relationship Scores, Forgotten Gems, Artist Timeline, Playlist Splitter, Achievements, and Argon Audio Lab."
     },
     "mandatory": false,
     "platforms": {
       "windows": {
-        "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v2.15.3/ArgonMusic-Setup-x64-v2.15.3.exe",
-        "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v2.15.3/ArgonMusic-v2.15.3-Windows-x64-Portable.zip",
-        "size": 15203581,
-        "sha256": "83ed76538ef35ba6b656a6b79f1246d45e81783c965d0a2adf4caa636d32fb0c"
+        "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.0.0/ArgonMusic-Setup-x64-v3.0.0.exe",
+        "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.0.0/ArgonMusic-v3.0.0-Windows-x64-Portable.zip",
+        "size": 15397720,
+        "sha256": "e12be83783c8dd85451796197961a87f26c724aee45d305873d7080e01b2724a"
       },
       "android": {
-        "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v2.15.3/ArgonMusic-v2.15.3-universal.apk",
-        "universal_size": 99220100,
-        "universal_sha256": "8d5625c964ff4e09ff9c47af40f465a8229aac2ee2f6b7045600759c7aea0854",
-        "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v2.15.3/ArgonMusic-v2.15.3-arm64-v8a.apk",
-        "arm64_size": 37619629,
-        "arm64_sha256": "c98f720bb6890d7a0c43c8add5bba275c8ffcea7011aea3e66a3f1170598ee82"
+        "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.0.0/ArgonMusic-v3.0.0-universal.apk",
+        "universal_size": 100715349,
+        "universal_sha256": "f298da22a39c5672cac98fda63d50df3d63c1dfc1f8dd762a976d11c2c403adf",
+        "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.0.0/ArgonMusic-v3.0.0-arm64-v8a.apk",
+        "arm64_size": 38164606,
+        "arm64_sha256": "672a7d5dfe9ba462b3c29c268910f5222fd15a2794d0726ceff186cefe96e8d4"
       }
     }
   },
-  "signature": "2f7297d663335f910f8a5e04b2ff10facd539d283edc32eb3985ce9649bc6e158986dffbe3f767f0266b01b7b0befcf8ea5a719963f569a3a3d06a6dfb57b00d",
+  "signature": "1a62d767ea485fb11641029210f136436dca74994befcf1f45c3b846645cb73d46baca9d6ab1c6eab465d9a5c8eef8488121a3a7ac61482e411be9affb67610d",
   "public_key": "7c91e1fad4cb6660894dd265d705e2b7fc8dd4f77517e702b49598ebc57e319f",
-  "latest_version": "2.15.3",
-  "build_number": 26,
+  "latest_version": "3.0.0",
+  "build_number": 30,
   "min_supported_version": "2.0.0",
-  "published_at": "2026-11-24T18:07:01.732Z",
+  "published_at": "2026-11-25T08:44:51.976Z",
   "release_notes": {
-    "en": "• Security and performance improvements\n• Bug fixes and stability enhancements",
-    "hi": "• Security and performance improvements\n• Bug fixes and stability enhancements",
-    "es": "• Security and performance improvements\n• Bug fixes and stability enhancements"
+    "en": "### What's New in ArgonMusic v3.0.0\n\n• **Three New Signature Themes**: Neon Pulse, Royal Gold, and Pure Minimal, plus translucent Liquid Glass playlists, Cover Studio customizer, Adaptive Playlist Themes, and Battery Saver Mode.\n• **HoloDeck 3D, Cinematic Focus & Pixel Shift**: Interactive gyroscope/tilt HoloDeck artwork, distraction-free Cinematic Focus stage, tile-based Pixel Shift transitions, and Live Animated Cover Arts.\n• **Audio Quality, Music Videos & Lyrics**: Refined High/Ultra/Lossless tiers, restored Music Videos playback on Windows & Android with a dedicated Home shelf, BT/TWS double-tap pause/resume fix, Gentle Sleep Timer fade, and word-synced lyrics precision.\n• **Discovery, Mobile & Sharing**: Onboarding permissions & walkthrough, Android Home Widget, Android Discord Rich Presence, HumSearch melody matching, Genre Explorer, Guess The Track, Story Studio (9:16 posters), Lyric Quote Cards, and QR Connect.\n• **Personal Hub & Pro Audio**: Music Diary, Monthly Music Story, Album Relationship Scores, Forgotten Gems, Artist Timeline, Playlist Splitter, Achievements, and Argon Audio Lab.",
+    "hi": "### What's New in ArgonMusic v3.0.0\n\n• **Three New Signature Themes**: Neon Pulse, Royal Gold, and Pure Minimal, plus translucent Liquid Glass playlists, Cover Studio customizer, Adaptive Playlist Themes, and Battery Saver Mode.\n• **HoloDeck 3D, Cinematic Focus & Pixel Shift**: Interactive gyroscope/tilt HoloDeck artwork, distraction-free Cinematic Focus stage, tile-based Pixel Shift transitions, and Live Animated Cover Arts.\n• **Audio Quality, Music Videos & Lyrics**: Refined High/Ultra/Lossless tiers, restored Music Videos playback on Windows & Android with a dedicated Home shelf, BT/TWS double-tap pause/resume fix, Gentle Sleep Timer fade, and word-synced lyrics precision.\n• **Discovery, Mobile & Sharing**: Onboarding permissions & walkthrough, Android Home Widget, Android Discord Rich Presence, HumSearch melody matching, Genre Explorer, Guess The Track, Story Studio (9:16 posters), Lyric Quote Cards, and QR Connect.\n• **Personal Hub & Pro Audio**: Music Diary, Monthly Music Story, Album Relationship Scores, Forgotten Gems, Artist Timeline, Playlist Splitter, Achievements, and Argon Audio Lab.",
+    "es": "### What's New in ArgonMusic v3.0.0\n\n• **Three New Signature Themes**: Neon Pulse, Royal Gold, and Pure Minimal, plus translucent Liquid Glass playlists, Cover Studio customizer, Adaptive Playlist Themes, and Battery Saver Mode.\n• **HoloDeck 3D, Cinematic Focus & Pixel Shift**: Interactive gyroscope/tilt HoloDeck artwork, distraction-free Cinematic Focus stage, tile-based Pixel Shift transitions, and Live Animated Cover Arts.\n• **Audio Quality, Music Videos & Lyrics**: Refined High/Ultra/Lossless tiers, restored Music Videos playback on Windows & Android with a dedicated Home shelf, BT/TWS double-tap pause/resume fix, Gentle Sleep Timer fade, and word-synced lyrics precision.\n• **Discovery, Mobile & Sharing**: Onboarding permissions & walkthrough, Android Home Widget, Android Discord Rich Presence, HumSearch melody matching, Genre Explorer, Guess The Track, Story Studio (9:16 posters), Lyric Quote Cards, and QR Connect.\n• **Personal Hub & Pro Audio**: Music Diary, Monthly Music Story, Album Relationship Scores, Forgotten Gems, Artist Timeline, Playlist Splitter, Achievements, and Argon Audio Lab."
   },
   "mandatory": false,
   "platforms": {
     "windows": {
-      "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v2.15.3/ArgonMusic-Setup-x64-v2.15.3.exe",
-      "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v2.15.3/ArgonMusic-v2.15.3-Windows-x64-Portable.zip",
-      "size": 15203581,
-      "sha256": "83ed76538ef35ba6b656a6b79f1246d45e81783c965d0a2adf4caa636d32fb0c"
+      "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.0.0/ArgonMusic-Setup-x64-v3.0.0.exe",
+      "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.0.0/ArgonMusic-v3.0.0-Windows-x64-Portable.zip",
+      "size": 15397720,
+      "sha256": "e12be83783c8dd85451796197961a87f26c724aee45d305873d7080e01b2724a"
     },
     "android": {
-      "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v2.15.3/ArgonMusic-v2.15.3-universal.apk",
-      "universal_size": 99220100,
-      "universal_sha256": "8d5625c964ff4e09ff9c47af40f465a8229aac2ee2f6b7045600759c7aea0854",
-      "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v2.15.3/ArgonMusic-v2.15.3-arm64-v8a.apk",
-      "arm64_size": 37619629,
-      "arm64_sha256": "c98f720bb6890d7a0c43c8add5bba275c8ffcea7011aea3e66a3f1170598ee82"
+      "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.0.0/ArgonMusic-v3.0.0-universal.apk",
+      "universal_size": 100715349,
+      "universal_sha256": "f298da22a39c5672cac98fda63d50df3d63c1dfc1f8dd762a976d11c2c403adf",
+      "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.0.0/ArgonMusic-v3.0.0-arm64-v8a.apk",
+      "arm64_size": 38164606,
+      "arm64_sha256": "672a7d5dfe9ba462b3c29c268910f5222fd15a2794d0726ceff186cefe96e8d4"
     }
   }
 }
