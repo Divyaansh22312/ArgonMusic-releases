@@ -1,58 +1,58 @@
 {
   "manifest": {
-    "latest_version": "3.2.2",
-    "build_number": 51,
+    "latest_version": "3.2.3",
+    "build_number": 52,
     "min_supported_version": "2.0.0",
-    "published_at": "2026-11-25T17:35:36.017Z",
+    "published_at": "2026-11-25T18:22:57.356Z",
     "release_notes": {
-      "en": "### What's New in ArgonMusic v3.2.2\n\n• **PC (Windows) 1080p/720p Official Music Videos**: Powered Windows video playback with D3D11/FFmpeg hardware decoding so Official Music Videos stream in 1080p/720p HD instead of 360p, and enabled Live Animated Covers (.m3u8) on Windows.\n• **Android Downloads Fixed Across Android 8–16**: Fixed native ConnectivityManager Wi-Fi detection, Scoped Storage / write-verified fallback directories, lifecycle interruption (screen-off/app-switch no longer cancels active downloads), and paused download visibility with one-tap resume.\n• **Faster Settings & Smooth Android Discord RPC Login**: Replaced translucent dialog WebView compositing with an opaque full-screen login route, cached Settings async status futures, and lazy-rendered Settings search results.\n• **Listen Together Disabled for This Update**: The Coming Soon Listen Together button in the bottom player bar matches Settings and shows an unavailable notice.",
-      "hi": "### What's New in ArgonMusic v3.2.2\n\n• **PC (Windows) 1080p/720p Official Music Videos**: Powered Windows video playback with D3D11/FFmpeg hardware decoding so Official Music Videos stream in 1080p/720p HD instead of 360p, and enabled Live Animated Covers (.m3u8) on Windows.\n• **Android Downloads Fixed Across Android 8–16**: Fixed native ConnectivityManager Wi-Fi detection, Scoped Storage / write-verified fallback directories, lifecycle interruption (screen-off/app-switch no longer cancels active downloads), and paused download visibility with one-tap resume.\n• **Faster Settings & Smooth Android Discord RPC Login**: Replaced translucent dialog WebView compositing with an opaque full-screen login route, cached Settings async status futures, and lazy-rendered Settings search results.\n• **Listen Together Disabled for This Update**: The Coming Soon Listen Together button in the bottom player bar matches Settings and shows an unavailable notice.",
-      "es": "### What's New in ArgonMusic v3.2.2\n\n• **PC (Windows) 1080p/720p Official Music Videos**: Powered Windows video playback with D3D11/FFmpeg hardware decoding so Official Music Videos stream in 1080p/720p HD instead of 360p, and enabled Live Animated Covers (.m3u8) on Windows.\n• **Android Downloads Fixed Across Android 8–16**: Fixed native ConnectivityManager Wi-Fi detection, Scoped Storage / write-verified fallback directories, lifecycle interruption (screen-off/app-switch no longer cancels active downloads), and paused download visibility with one-tap resume.\n• **Faster Settings & Smooth Android Discord RPC Login**: Replaced translucent dialog WebView compositing with an opaque full-screen login route, cached Settings async status futures, and lazy-rendered Settings search results.\n• **Listen Together Disabled for This Update**: The Coming Soon Listen Together button in the bottom player bar matches Settings and shows an unavailable notice."
+      "en": "### What's New in ArgonMusic v3.2.3\n\n• **Minimalist Mode Audio-First + Complete 3-Dot Menu**: Minimalist Focus mode stays primarily on audio/artwork, adds a Watch Official Music Video toggle inside the 3-dot menu, and exposes all hidden features (Lyrics, Visualizer, Musical Universe 3D, Equalizer, Signal Path, Queue, Add to Playlist, Offline Download, Share, Sonic Match) in the 3-dot menu.\n• **Fixed Android Discord Rich Presence**: Gateway RPC now waits for READY, cleans Gateway OP 3 activity/image payloads, reliably extracts WebView login tokens, and auto-connects on Android startup.\n• **Includes v3.2.2 Windows 1080p/720p Music Video & Android 8–16 Downloads Fixes**.",
+      "hi": "### What's New in ArgonMusic v3.2.3\n\n• **Minimalist Mode Audio-First + Complete 3-Dot Menu**: Minimalist Focus mode stays primarily on audio/artwork, adds a Watch Official Music Video toggle inside the 3-dot menu, and exposes all hidden features (Lyrics, Visualizer, Musical Universe 3D, Equalizer, Signal Path, Queue, Add to Playlist, Offline Download, Share, Sonic Match) in the 3-dot menu.\n• **Fixed Android Discord Rich Presence**: Gateway RPC now waits for READY, cleans Gateway OP 3 activity/image payloads, reliably extracts WebView login tokens, and auto-connects on Android startup.\n• **Includes v3.2.2 Windows 1080p/720p Music Video & Android 8–16 Downloads Fixes**.",
+      "es": "### What's New in ArgonMusic v3.2.3\n\n• **Minimalist Mode Audio-First + Complete 3-Dot Menu**: Minimalist Focus mode stays primarily on audio/artwork, adds a Watch Official Music Video toggle inside the 3-dot menu, and exposes all hidden features (Lyrics, Visualizer, Musical Universe 3D, Equalizer, Signal Path, Queue, Add to Playlist, Offline Download, Share, Sonic Match) in the 3-dot menu.\n• **Fixed Android Discord Rich Presence**: Gateway RPC now waits for READY, cleans Gateway OP 3 activity/image payloads, reliably extracts WebView login tokens, and auto-connects on Android startup.\n• **Includes v3.2.2 Windows 1080p/720p Music Video & Android 8–16 Downloads Fixes**."
     },
     "mandatory": false,
     "platforms": {
       "windows": {
-        "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.2/ArgonMusic-Setup-x64-v3.2.2.exe",
-        "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.2/ArgonMusic-v3.2.2-Windows-x64-Portable.zip",
-        "size": 21733635,
-        "sha256": "9a9df5962bcd942236476d739c3f35ee92f2b8c9d5d22b7f5e7f2382163e6f94"
+        "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.3/ArgonMusic-Setup-x64-v3.2.3.exe",
+        "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.3/ArgonMusic-v3.2.3-Windows-x64-Portable.zip",
+        "size": 21739546,
+        "sha256": "9027b47989cb7b986af79fc414b3f598af46fadd21662f786a4daf11520f939c"
       },
       "android": {
-        "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.2/ArgonMusic-v3.2.2-universal.apk",
-        "universal_size": 134450772,
-        "universal_sha256": "332e96c23e0097400473033317b15f883c81a36d9bcc892fe7f10e18b197f934",
-        "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.2/ArgonMusic-v3.2.2-arm64-v8a.apk",
-        "arm64_size": 50059669,
-        "arm64_sha256": "f8e441aaa7b9e67a890bdeb3cb5dc7dd280086a78bc552b840b04fcd2cc3ee98"
+        "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.3/ArgonMusic-v3.2.3-universal.apk",
+        "universal_size": 134516308,
+        "universal_sha256": "9903ff0f2f62692b9439664bf23d00daee26206f97104d0cf53b5998d8ba4b52",
+        "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.3/ArgonMusic-v3.2.3-arm64-v8a.apk",
+        "arm64_size": 50125205,
+        "arm64_sha256": "44c37db3ec84ad3d3a9a656b432fd66105b09b017c815fcaa03a58f4c2b4e7b8"
       }
     }
   },
-  "signature": "0519ef9d361bd1511284769986def5f6d6d2e3bb4201831890ae7406d4697c8a636154671df8463639270d469c8c7472d6e3a66496bb845f87fbc456dffb0005",
+  "signature": "bb8c75d44eef93060741a0d4d31d90d52aa694e98e5fd51422841d8a2dbbb7d3146b78fbb038f297f0bbd9cb5c3ff34221abb6329dddc4133be35f40c3f2bf0f",
   "public_key": "7c91e1fad4cb6660894dd265d705e2b7fc8dd4f77517e702b49598ebc57e319f",
-  "latest_version": "3.2.2",
-  "build_number": 51,
+  "latest_version": "3.2.3",
+  "build_number": 52,
   "min_supported_version": "2.0.0",
-  "published_at": "2026-11-25T17:35:36.017Z",
+  "published_at": "2026-11-25T18:22:57.356Z",
   "release_notes": {
-    "en": "### What's New in ArgonMusic v3.2.2\n\n• **PC (Windows) 1080p/720p Official Music Videos**: Powered Windows video playback with D3D11/FFmpeg hardware decoding so Official Music Videos stream in 1080p/720p HD instead of 360p, and enabled Live Animated Covers (.m3u8) on Windows.\n• **Android Downloads Fixed Across Android 8–16**: Fixed native ConnectivityManager Wi-Fi detection, Scoped Storage / write-verified fallback directories, lifecycle interruption (screen-off/app-switch no longer cancels active downloads), and paused download visibility with one-tap resume.\n• **Faster Settings & Smooth Android Discord RPC Login**: Replaced translucent dialog WebView compositing with an opaque full-screen login route, cached Settings async status futures, and lazy-rendered Settings search results.\n• **Listen Together Disabled for This Update**: The Coming Soon Listen Together button in the bottom player bar matches Settings and shows an unavailable notice.",
-    "hi": "### What's New in ArgonMusic v3.2.2\n\n• **PC (Windows) 1080p/720p Official Music Videos**: Powered Windows video playback with D3D11/FFmpeg hardware decoding so Official Music Videos stream in 1080p/720p HD instead of 360p, and enabled Live Animated Covers (.m3u8) on Windows.\n• **Android Downloads Fixed Across Android 8–16**: Fixed native ConnectivityManager Wi-Fi detection, Scoped Storage / write-verified fallback directories, lifecycle interruption (screen-off/app-switch no longer cancels active downloads), and paused download visibility with one-tap resume.\n• **Faster Settings & Smooth Android Discord RPC Login**: Replaced translucent dialog WebView compositing with an opaque full-screen login route, cached Settings async status futures, and lazy-rendered Settings search results.\n• **Listen Together Disabled for This Update**: The Coming Soon Listen Together button in the bottom player bar matches Settings and shows an unavailable notice.",
-    "es": "### What's New in ArgonMusic v3.2.2\n\n• **PC (Windows) 1080p/720p Official Music Videos**: Powered Windows video playback with D3D11/FFmpeg hardware decoding so Official Music Videos stream in 1080p/720p HD instead of 360p, and enabled Live Animated Covers (.m3u8) on Windows.\n• **Android Downloads Fixed Across Android 8–16**: Fixed native ConnectivityManager Wi-Fi detection, Scoped Storage / write-verified fallback directories, lifecycle interruption (screen-off/app-switch no longer cancels active downloads), and paused download visibility with one-tap resume.\n• **Faster Settings & Smooth Android Discord RPC Login**: Replaced translucent dialog WebView compositing with an opaque full-screen login route, cached Settings async status futures, and lazy-rendered Settings search results.\n• **Listen Together Disabled for This Update**: The Coming Soon Listen Together button in the bottom player bar matches Settings and shows an unavailable notice."
+    "en": "### What's New in ArgonMusic v3.2.3\n\n• **Minimalist Mode Audio-First + Complete 3-Dot Menu**: Minimalist Focus mode stays primarily on audio/artwork, adds a Watch Official Music Video toggle inside the 3-dot menu, and exposes all hidden features (Lyrics, Visualizer, Musical Universe 3D, Equalizer, Signal Path, Queue, Add to Playlist, Offline Download, Share, Sonic Match) in the 3-dot menu.\n• **Fixed Android Discord Rich Presence**: Gateway RPC now waits for READY, cleans Gateway OP 3 activity/image payloads, reliably extracts WebView login tokens, and auto-connects on Android startup.\n• **Includes v3.2.2 Windows 1080p/720p Music Video & Android 8–16 Downloads Fixes**.",
+    "hi": "### What's New in ArgonMusic v3.2.3\n\n• **Minimalist Mode Audio-First + Complete 3-Dot Menu**: Minimalist Focus mode stays primarily on audio/artwork, adds a Watch Official Music Video toggle inside the 3-dot menu, and exposes all hidden features (Lyrics, Visualizer, Musical Universe 3D, Equalizer, Signal Path, Queue, Add to Playlist, Offline Download, Share, Sonic Match) in the 3-dot menu.\n• **Fixed Android Discord Rich Presence**: Gateway RPC now waits for READY, cleans Gateway OP 3 activity/image payloads, reliably extracts WebView login tokens, and auto-connects on Android startup.\n• **Includes v3.2.2 Windows 1080p/720p Music Video & Android 8–16 Downloads Fixes**.",
+    "es": "### What's New in ArgonMusic v3.2.3\n\n• **Minimalist Mode Audio-First + Complete 3-Dot Menu**: Minimalist Focus mode stays primarily on audio/artwork, adds a Watch Official Music Video toggle inside the 3-dot menu, and exposes all hidden features (Lyrics, Visualizer, Musical Universe 3D, Equalizer, Signal Path, Queue, Add to Playlist, Offline Download, Share, Sonic Match) in the 3-dot menu.\n• **Fixed Android Discord Rich Presence**: Gateway RPC now waits for READY, cleans Gateway OP 3 activity/image payloads, reliably extracts WebView login tokens, and auto-connects on Android startup.\n• **Includes v3.2.2 Windows 1080p/720p Music Video & Android 8–16 Downloads Fixes**."
   },
   "mandatory": false,
   "platforms": {
     "windows": {
-      "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.2/ArgonMusic-Setup-x64-v3.2.2.exe",
-      "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.2/ArgonMusic-v3.2.2-Windows-x64-Portable.zip",
-      "size": 21733635,
-      "sha256": "9a9df5962bcd942236476d739c3f35ee92f2b8c9d5d22b7f5e7f2382163e6f94"
+      "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.3/ArgonMusic-Setup-x64-v3.2.3.exe",
+      "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.3/ArgonMusic-v3.2.3-Windows-x64-Portable.zip",
+      "size": 21739546,
+      "sha256": "9027b47989cb7b986af79fc414b3f598af46fadd21662f786a4daf11520f939c"
     },
     "android": {
-      "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.2/ArgonMusic-v3.2.2-universal.apk",
-      "universal_size": 134450772,
-      "universal_sha256": "332e96c23e0097400473033317b15f883c81a36d9bcc892fe7f10e18b197f934",
-      "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.2/ArgonMusic-v3.2.2-arm64-v8a.apk",
-      "arm64_size": 50059669,
-      "arm64_sha256": "f8e441aaa7b9e67a890bdeb3cb5dc7dd280086a78bc552b840b04fcd2cc3ee98"
+      "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.3/ArgonMusic-v3.2.3-universal.apk",
+      "universal_size": 134516308,
+      "universal_sha256": "9903ff0f2f62692b9439664bf23d00daee26206f97104d0cf53b5998d8ba4b52",
+      "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.3/ArgonMusic-v3.2.3-arm64-v8a.apk",
+      "arm64_size": 50125205,
+      "arm64_sha256": "44c37db3ec84ad3d3a9a656b432fd66105b09b017c815fcaa03a58f4c2b4e7b8"
     }
   }
 }
