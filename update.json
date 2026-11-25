@@ -1,58 +1,58 @@
 {
   "manifest": {
-    "latest_version": "3.0.5",
-    "build_number": 31,
+    "latest_version": "3.1.0",
+    "build_number": 32,
     "min_supported_version": "2.0.0",
-    "published_at": "2026-11-25T09:28:05.980Z",
+    "published_at": "2026-11-25T09:58:02.337Z",
     "release_notes": {
-      "en": "### What's New in ArgonMusic v3.0.5\n\n• **Track-Switch Audio Race Fix**: Immediately silences previous audio and serializes native loading so switching songs never plays old audio with new artwork.\n• **HoloDeck 3D & Pixel Break Upgrades**: Real 8x8 cover-art tile fracture transitions across Standard & Cinematic Focus modes plus auto-calibrated Android gyroscope/tilt sensors.\n• **Instagram Story Studio & Live Lyrics Sync**: Share directly to Instagram Stories with synced live lyrics or custom quotes, plus 15s MP4 audio starting right from where you paused.\n• **Music Video 720p/1080p HD & Smooth 60fps Fix**: Selects crisp HD H.264 streams over 360p fallbacks and removes speed-nudge/seek decoder stutter.\n• **Permissions, Search & Audio Lab**: Prompts Android storage and notification permissions cleanly on launch/upgrades, expands HumSearch with history, preserves Home Widget art, and wires room convolution IR DSP.",
-      "hi": "### What's New in ArgonMusic v3.0.5\n\n• **Track-Switch Audio Race Fix**: Immediately silences previous audio and serializes native loading so switching songs never plays old audio with new artwork.\n• **HoloDeck 3D & Pixel Break Upgrades**: Real 8x8 cover-art tile fracture transitions across Standard & Cinematic Focus modes plus auto-calibrated Android gyroscope/tilt sensors.\n• **Instagram Story Studio & Live Lyrics Sync**: Share directly to Instagram Stories with synced live lyrics or custom quotes, plus 15s MP4 audio starting right from where you paused.\n• **Music Video 720p/1080p HD & Smooth 60fps Fix**: Selects crisp HD H.264 streams over 360p fallbacks and removes speed-nudge/seek decoder stutter.\n• **Permissions, Search & Audio Lab**: Prompts Android storage and notification permissions cleanly on launch/upgrades, expands HumSearch with history, preserves Home Widget art, and wires room convolution IR DSP.",
-      "es": "### What's New in ArgonMusic v3.0.5\n\n• **Track-Switch Audio Race Fix**: Immediately silences previous audio and serializes native loading so switching songs never plays old audio with new artwork.\n• **HoloDeck 3D & Pixel Break Upgrades**: Real 8x8 cover-art tile fracture transitions across Standard & Cinematic Focus modes plus auto-calibrated Android gyroscope/tilt sensors.\n• **Instagram Story Studio & Live Lyrics Sync**: Share directly to Instagram Stories with synced live lyrics or custom quotes, plus 15s MP4 audio starting right from where you paused.\n• **Music Video 720p/1080p HD & Smooth 60fps Fix**: Selects crisp HD H.264 streams over 360p fallbacks and removes speed-nudge/seek decoder stutter.\n• **Permissions, Search & Audio Lab**: Prompts Android storage and notification permissions cleanly on launch/upgrades, expands HumSearch with history, preserves Home Widget art, and wires room convolution IR DSP."
+      "en": "### What's New in ArgonMusic v3.1.0\n\n• **Live Synced Lyrics Video Stories & Paused Audio**: Story Studio now generates 9:16 MP4 videos with animated live lyrics & reactive waveform bars paired with song audio starting right from where you paused playback, sharing cleanly to Instagram Stories.\n• **Official YouTube Music Videos**: Clicking Music Video now searches YouTube specifically for the official widescreen music video (never static 1:1 album cover art), while keeping highest-quality audio sources for regular listening.\n• **My Space in Top-Right Account Icon**: Moved My Space directly into the top-right Account icon on Home (with Account management inside) instead of Settings.\n• **Clean Playback Chrome**: Removed remaining Ultra/320k codec pills during song playback across Now Playing and Mini Player.",
+      "hi": "### What's New in ArgonMusic v3.1.0\n\n• **Live Synced Lyrics Video Stories & Paused Audio**: Story Studio now generates 9:16 MP4 videos with animated live lyrics & reactive waveform bars paired with song audio starting right from where you paused playback, sharing cleanly to Instagram Stories.\n• **Official YouTube Music Videos**: Clicking Music Video now searches YouTube specifically for the official widescreen music video (never static 1:1 album cover art), while keeping highest-quality audio sources for regular listening.\n• **My Space in Top-Right Account Icon**: Moved My Space directly into the top-right Account icon on Home (with Account management inside) instead of Settings.\n• **Clean Playback Chrome**: Removed remaining Ultra/320k codec pills during song playback across Now Playing and Mini Player.",
+      "es": "### What's New in ArgonMusic v3.1.0\n\n• **Live Synced Lyrics Video Stories & Paused Audio**: Story Studio now generates 9:16 MP4 videos with animated live lyrics & reactive waveform bars paired with song audio starting right from where you paused playback, sharing cleanly to Instagram Stories.\n• **Official YouTube Music Videos**: Clicking Music Video now searches YouTube specifically for the official widescreen music video (never static 1:1 album cover art), while keeping highest-quality audio sources for regular listening.\n• **My Space in Top-Right Account Icon**: Moved My Space directly into the top-right Account icon on Home (with Account management inside) instead of Settings.\n• **Clean Playback Chrome**: Removed remaining Ultra/320k codec pills during song playback across Now Playing and Mini Player."
     },
     "mandatory": false,
     "platforms": {
       "windows": {
-        "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.0.5/ArgonMusic-Setup-x64-v3.0.5.exe",
-        "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.0.5/ArgonMusic-v3.0.5-Windows-x64-Portable.zip",
-        "size": 15404124,
-        "sha256": "5f0e39ed66fd569c0f56faad1fd5f3e5944c55513ce659562825986a4d93cc43"
+        "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.1.0/ArgonMusic-Setup-x64-v3.1.0.exe",
+        "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.1.0/ArgonMusic-v3.1.0-Windows-x64-Portable.zip",
+        "size": 15405686,
+        "sha256": "2203b0ca1ac14cd13fedbd709883175d2f0c681edfc3fa2ad8578287aa13993a"
       },
       "android": {
-        "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.0.5/ArgonMusic-v3.0.5-universal.apk",
-        "universal_size": 100928341,
-        "universal_sha256": "f04728206dd8b5ecf3958349ebd93fd96f87528e8f95dac2935644bca65013ad",
-        "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.0.5/ArgonMusic-v3.0.5-arm64-v8a.apk",
-        "arm64_size": 38230142,
-        "arm64_sha256": "2a2d3951deda60f0bbfce35f5fc4779ee16694496cafe483e55e559b21d3a466"
+        "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.1.0/ArgonMusic-v3.1.0-universal.apk",
+        "universal_size": 100944725,
+        "universal_sha256": "eb764200dc00088538e1cc87d50fbc45a1abaa174324a59d418681424795ad31",
+        "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.1.0/ArgonMusic-v3.1.0-arm64-v8a.apk",
+        "arm64_size": 38246526,
+        "arm64_sha256": "e118270fdbd59885683d54db2bdbc6b10e30da95eb3ac69bb4861a46c6d281d7"
       }
     }
   },
-  "signature": "be0eee435fa9166fd3f4865a005f9e4447023c68baed17d4ebc0d0f2a364cfe5cc61131138864ba08e9df01306da749e0a9f9f407d25950de7845ca66dd37405",
+  "signature": "7f7925d61fdfefc2671298d67bb7b3c15b261c8add02ac669d83fa7bcec166909a12e0059c2b061662e8edf41eec13143160e717d253af872c3807d2b1770d0f",
   "public_key": "7c91e1fad4cb6660894dd265d705e2b7fc8dd4f77517e702b49598ebc57e319f",
-  "latest_version": "3.0.5",
-  "build_number": 31,
+  "latest_version": "3.1.0",
+  "build_number": 32,
   "min_supported_version": "2.0.0",
-  "published_at": "2026-11-25T09:28:05.980Z",
+  "published_at": "2026-11-25T09:58:02.337Z",
   "release_notes": {
-    "en": "### What's New in ArgonMusic v3.0.5\n\n• **Track-Switch Audio Race Fix**: Immediately silences previous audio and serializes native loading so switching songs never plays old audio with new artwork.\n• **HoloDeck 3D & Pixel Break Upgrades**: Real 8x8 cover-art tile fracture transitions across Standard & Cinematic Focus modes plus auto-calibrated Android gyroscope/tilt sensors.\n• **Instagram Story Studio & Live Lyrics Sync**: Share directly to Instagram Stories with synced live lyrics or custom quotes, plus 15s MP4 audio starting right from where you paused.\n• **Music Video 720p/1080p HD & Smooth 60fps Fix**: Selects crisp HD H.264 streams over 360p fallbacks and removes speed-nudge/seek decoder stutter.\n• **Permissions, Search & Audio Lab**: Prompts Android storage and notification permissions cleanly on launch/upgrades, expands HumSearch with history, preserves Home Widget art, and wires room convolution IR DSP.",
-    "hi": "### What's New in ArgonMusic v3.0.5\n\n• **Track-Switch Audio Race Fix**: Immediately silences previous audio and serializes native loading so switching songs never plays old audio with new artwork.\n• **HoloDeck 3D & Pixel Break Upgrades**: Real 8x8 cover-art tile fracture transitions across Standard & Cinematic Focus modes plus auto-calibrated Android gyroscope/tilt sensors.\n• **Instagram Story Studio & Live Lyrics Sync**: Share directly to Instagram Stories with synced live lyrics or custom quotes, plus 15s MP4 audio starting right from where you paused.\n• **Music Video 720p/1080p HD & Smooth 60fps Fix**: Selects crisp HD H.264 streams over 360p fallbacks and removes speed-nudge/seek decoder stutter.\n• **Permissions, Search & Audio Lab**: Prompts Android storage and notification permissions cleanly on launch/upgrades, expands HumSearch with history, preserves Home Widget art, and wires room convolution IR DSP.",
-    "es": "### What's New in ArgonMusic v3.0.5\n\n• **Track-Switch Audio Race Fix**: Immediately silences previous audio and serializes native loading so switching songs never plays old audio with new artwork.\n• **HoloDeck 3D & Pixel Break Upgrades**: Real 8x8 cover-art tile fracture transitions across Standard & Cinematic Focus modes plus auto-calibrated Android gyroscope/tilt sensors.\n• **Instagram Story Studio & Live Lyrics Sync**: Share directly to Instagram Stories with synced live lyrics or custom quotes, plus 15s MP4 audio starting right from where you paused.\n• **Music Video 720p/1080p HD & Smooth 60fps Fix**: Selects crisp HD H.264 streams over 360p fallbacks and removes speed-nudge/seek decoder stutter.\n• **Permissions, Search & Audio Lab**: Prompts Android storage and notification permissions cleanly on launch/upgrades, expands HumSearch with history, preserves Home Widget art, and wires room convolution IR DSP."
+    "en": "### What's New in ArgonMusic v3.1.0\n\n• **Live Synced Lyrics Video Stories & Paused Audio**: Story Studio now generates 9:16 MP4 videos with animated live lyrics & reactive waveform bars paired with song audio starting right from where you paused playback, sharing cleanly to Instagram Stories.\n• **Official YouTube Music Videos**: Clicking Music Video now searches YouTube specifically for the official widescreen music video (never static 1:1 album cover art), while keeping highest-quality audio sources for regular listening.\n• **My Space in Top-Right Account Icon**: Moved My Space directly into the top-right Account icon on Home (with Account management inside) instead of Settings.\n• **Clean Playback Chrome**: Removed remaining Ultra/320k codec pills during song playback across Now Playing and Mini Player.",
+    "hi": "### What's New in ArgonMusic v3.1.0\n\n• **Live Synced Lyrics Video Stories & Paused Audio**: Story Studio now generates 9:16 MP4 videos with animated live lyrics & reactive waveform bars paired with song audio starting right from where you paused playback, sharing cleanly to Instagram Stories.\n• **Official YouTube Music Videos**: Clicking Music Video now searches YouTube specifically for the official widescreen music video (never static 1:1 album cover art), while keeping highest-quality audio sources for regular listening.\n• **My Space in Top-Right Account Icon**: Moved My Space directly into the top-right Account icon on Home (with Account management inside) instead of Settings.\n• **Clean Playback Chrome**: Removed remaining Ultra/320k codec pills during song playback across Now Playing and Mini Player.",
+    "es": "### What's New in ArgonMusic v3.1.0\n\n• **Live Synced Lyrics Video Stories & Paused Audio**: Story Studio now generates 9:16 MP4 videos with animated live lyrics & reactive waveform bars paired with song audio starting right from where you paused playback, sharing cleanly to Instagram Stories.\n• **Official YouTube Music Videos**: Clicking Music Video now searches YouTube specifically for the official widescreen music video (never static 1:1 album cover art), while keeping highest-quality audio sources for regular listening.\n• **My Space in Top-Right Account Icon**: Moved My Space directly into the top-right Account icon on Home (with Account management inside) instead of Settings.\n• **Clean Playback Chrome**: Removed remaining Ultra/320k codec pills during song playback across Now Playing and Mini Player."
   },
   "mandatory": false,
   "platforms": {
     "windows": {
-      "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.0.5/ArgonMusic-Setup-x64-v3.0.5.exe",
-      "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.0.5/ArgonMusic-v3.0.5-Windows-x64-Portable.zip",
-      "size": 15404124,
-      "sha256": "5f0e39ed66fd569c0f56faad1fd5f3e5944c55513ce659562825986a4d93cc43"
+      "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.1.0/ArgonMusic-Setup-x64-v3.1.0.exe",
+      "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.1.0/ArgonMusic-v3.1.0-Windows-x64-Portable.zip",
+      "size": 15405686,
+      "sha256": "2203b0ca1ac14cd13fedbd709883175d2f0c681edfc3fa2ad8578287aa13993a"
     },
     "android": {
-      "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.0.5/ArgonMusic-v3.0.5-universal.apk",
-      "universal_size": 100928341,
-      "universal_sha256": "f04728206dd8b5ecf3958349ebd93fd96f87528e8f95dac2935644bca65013ad",
-      "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.0.5/ArgonMusic-v3.0.5-arm64-v8a.apk",
-      "arm64_size": 38230142,
-      "arm64_sha256": "2a2d3951deda60f0bbfce35f5fc4779ee16694496cafe483e55e559b21d3a466"
+      "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.1.0/ArgonMusic-v3.1.0-universal.apk",
+      "universal_size": 100944725,
+      "universal_sha256": "eb764200dc00088538e1cc87d50fbc45a1abaa174324a59d418681424795ad31",
+      "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.1.0/ArgonMusic-v3.1.0-arm64-v8a.apk",
+      "arm64_size": 38246526,
+      "arm64_sha256": "e118270fdbd59885683d54db2bdbc6b10e30da95eb3ac69bb4861a46c6d281d7"
     }
   }
 }
