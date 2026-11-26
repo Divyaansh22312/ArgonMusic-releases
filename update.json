@@ -3,7 +3,7 @@
     "latest_version": "3.2.8",
     "build_number": 58,
     "min_supported_version": "2.0.0",
-    "published_at": "2026-11-26T19:30:12.489Z",
+    "published_at": "2026-11-26T19:39:54.160Z",
     "release_notes": {
       "en": "### What's New in ArgonMusic v3.2.8\n\n• **Edge-to-Edge Fullscreen UI (Standard & Minimalist)**: Redesigned Fullscreen Now Playing with edge-to-edge full-bleed cover/motion artwork fading into deep cover-tinted backdrops, glowing harmonic wave scrubber with negative remaining time, real quality pill, frosted transport capsules, and live synced lyric line preview in Minimalist Mode.\n• **Fixed Video Cover Art Pausing Song in Fullscreen**: Added mixWithOthers audio focus isolation on animated cover controllers so entering fullscreen keeps the song playing smoothly alongside looping artwork.\n• **Spotify Canvas Support & Minimalist \u0007m-lyrics Animation**: Extended motion cover resolution to support vertical Spotify Canvas loops and added expressive left-aligned Minimalist lyrics with spring slide, distance blur, and syllable lift.\n• **Shazam Recognition (Android & Windows)**: Added native Windows WinMM mic capture + Shazam-style spectral constellation peak fingerprinting (plus optional AudD/webhook lookup) accessible right from Search.\n• **Pluggable Lossless Modules + Streaming Fallback, Radio Builder, Daily Replay Mix & 8D Audio**: Added external lossless module configuration & health checks, a multi-artist/song/genre Radio Builder, Daily Replay Mix from your most-played tracks, and Rust DSP 8D 360-degree orbiting audio in Settings.\n• **Fixed Android Local Folder Persistence & Scoped Storage Scanning**: Added native Android SAF persisted tree URI picking & DocumentFile audio/LRC traversal with immediate settings disk flush and startup rescan so added FLAC/local folders never vanish or show 0 tracks.",
       "hi": "### What's New in ArgonMusic v3.2.8\n\n• **Edge-to-Edge Fullscreen UI (Standard & Minimalist)**: Redesigned Fullscreen Now Playing with edge-to-edge full-bleed cover/motion artwork fading into deep cover-tinted backdrops, glowing harmonic wave scrubber with negative remaining time, real quality pill, frosted transport capsules, and live synced lyric line preview in Minimalist Mode.\n• **Fixed Video Cover Art Pausing Song in Fullscreen**: Added mixWithOthers audio focus isolation on animated cover controllers so entering fullscreen keeps the song playing smoothly alongside looping artwork.\n• **Spotify Canvas Support & Minimalist \u0007m-lyrics Animation**: Extended motion cover resolution to support vertical Spotify Canvas loops and added expressive left-aligned Minimalist lyrics with spring slide, distance blur, and syllable lift.\n• **Shazam Recognition (Android & Windows)**: Added native Windows WinMM mic capture + Shazam-style spectral constellation peak fingerprinting (plus optional AudD/webhook lookup) accessible right from Search.\n• **Pluggable Lossless Modules + Streaming Fallback, Radio Builder, Daily Replay Mix & 8D Audio**: Added external lossless module configuration & health checks, a multi-artist/song/genre Radio Builder, Daily Replay Mix from your most-played tracks, and Rust DSP 8D 360-degree orbiting audio in Settings.\n• **Fixed Android Local Folder Persistence & Scoped Storage Scanning**: Added native Android SAF persisted tree URI picking & DocumentFile audio/LRC traversal with immediate settings disk flush and startup rescan so added FLAC/local folders never vanish or show 0 tracks.",
@@ -14,25 +14,25 @@
       "windows": {
         "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.8/ArgonMusic-Setup-x64-v3.2.8.exe",
         "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.8/ArgonMusic-v3.2.8-Windows-x64-Portable.zip",
-        "size": 21905713,
-        "sha256": "7dc9d961351a9af5996e1152cea2c5f15bf69db92012b10968405c52d3ef2d27"
+        "size": 21906649,
+        "sha256": "e5a672bb71df270aeccc18633c7454f5f24b2db39366f5194f0af82b9e24d64f"
       },
       "android": {
         "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.8/ArgonMusic-v3.2.8-universal.apk",
-        "universal_size": 135859796,
-        "universal_sha256": "d0fc0d9c9370b5b44a7bcac8c558dfaafd0db599c244e76fa75bafca296c7f1f",
+        "universal_size": 135908948,
+        "universal_sha256": "37ff990d2084ba0868801f984b6b7468642425f378524547c43b61feef4d01bd",
         "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.8/ArgonMusic-v3.2.8-arm64-v8a.apk",
-        "arm64_size": 50551189,
-        "arm64_sha256": "8f30a0b988af56a9afc229a314e58bc164d894aee9a2df3b2d3249e22d46849f"
+        "arm64_size": 50567573,
+        "arm64_sha256": "85d00e72cec3df0e56ddda3f76f76b8556018237a4e4d9cbbbeadaccaedfdf83"
       }
     }
   },
-  "signature": "48a61456dde75195233321f85ca8b1e20e88dfa19b41dc6142e913ef71abb7e13c859e4be528f9ebb29dd32ed634189604988c7ef3491db9fcedcbcfb0830206",
+  "signature": "f36812172340cad05cd1ff54e6831f413b692c93d46ff02e9199459524204fd1b4205be69058f1969e1dde4acd78f2ccb7e6805f5dbc0de4efd35782c710d101",
   "public_key": "7c91e1fad4cb6660894dd265d705e2b7fc8dd4f77517e702b49598ebc57e319f",
   "latest_version": "3.2.8",
   "build_number": 58,
   "min_supported_version": "2.0.0",
-  "published_at": "2026-11-26T19:30:12.489Z",
+  "published_at": "2026-11-26T19:39:54.160Z",
   "release_notes": {
     "en": "### What's New in ArgonMusic v3.2.8\n\n• **Edge-to-Edge Fullscreen UI (Standard & Minimalist)**: Redesigned Fullscreen Now Playing with edge-to-edge full-bleed cover/motion artwork fading into deep cover-tinted backdrops, glowing harmonic wave scrubber with negative remaining time, real quality pill, frosted transport capsules, and live synced lyric line preview in Minimalist Mode.\n• **Fixed Video Cover Art Pausing Song in Fullscreen**: Added mixWithOthers audio focus isolation on animated cover controllers so entering fullscreen keeps the song playing smoothly alongside looping artwork.\n• **Spotify Canvas Support & Minimalist \u0007m-lyrics Animation**: Extended motion cover resolution to support vertical Spotify Canvas loops and added expressive left-aligned Minimalist lyrics with spring slide, distance blur, and syllable lift.\n• **Shazam Recognition (Android & Windows)**: Added native Windows WinMM mic capture + Shazam-style spectral constellation peak fingerprinting (plus optional AudD/webhook lookup) accessible right from Search.\n• **Pluggable Lossless Modules + Streaming Fallback, Radio Builder, Daily Replay Mix & 8D Audio**: Added external lossless module configuration & health checks, a multi-artist/song/genre Radio Builder, Daily Replay Mix from your most-played tracks, and Rust DSP 8D 360-degree orbiting audio in Settings.\n• **Fixed Android Local Folder Persistence & Scoped Storage Scanning**: Added native Android SAF persisted tree URI picking & DocumentFile audio/LRC traversal with immediate settings disk flush and startup rescan so added FLAC/local folders never vanish or show 0 tracks.",
     "hi": "### What's New in ArgonMusic v3.2.8\n\n• **Edge-to-Edge Fullscreen UI (Standard & Minimalist)**: Redesigned Fullscreen Now Playing with edge-to-edge full-bleed cover/motion artwork fading into deep cover-tinted backdrops, glowing harmonic wave scrubber with negative remaining time, real quality pill, frosted transport capsules, and live synced lyric line preview in Minimalist Mode.\n• **Fixed Video Cover Art Pausing Song in Fullscreen**: Added mixWithOthers audio focus isolation on animated cover controllers so entering fullscreen keeps the song playing smoothly alongside looping artwork.\n• **Spotify Canvas Support & Minimalist \u0007m-lyrics Animation**: Extended motion cover resolution to support vertical Spotify Canvas loops and added expressive left-aligned Minimalist lyrics with spring slide, distance blur, and syllable lift.\n• **Shazam Recognition (Android & Windows)**: Added native Windows WinMM mic capture + Shazam-style spectral constellation peak fingerprinting (plus optional AudD/webhook lookup) accessible right from Search.\n• **Pluggable Lossless Modules + Streaming Fallback, Radio Builder, Daily Replay Mix & 8D Audio**: Added external lossless module configuration & health checks, a multi-artist/song/genre Radio Builder, Daily Replay Mix from your most-played tracks, and Rust DSP 8D 360-degree orbiting audio in Settings.\n• **Fixed Android Local Folder Persistence & Scoped Storage Scanning**: Added native Android SAF persisted tree URI picking & DocumentFile audio/LRC traversal with immediate settings disk flush and startup rescan so added FLAC/local folders never vanish or show 0 tracks.",
@@ -43,16 +43,16 @@
     "windows": {
       "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.8/ArgonMusic-Setup-x64-v3.2.8.exe",
       "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.8/ArgonMusic-v3.2.8-Windows-x64-Portable.zip",
-      "size": 21905713,
-      "sha256": "7dc9d961351a9af5996e1152cea2c5f15bf69db92012b10968405c52d3ef2d27"
+      "size": 21906649,
+      "sha256": "e5a672bb71df270aeccc18633c7454f5f24b2db39366f5194f0af82b9e24d64f"
     },
     "android": {
       "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.8/ArgonMusic-v3.2.8-universal.apk",
-      "universal_size": 135859796,
-      "universal_sha256": "d0fc0d9c9370b5b44a7bcac8c558dfaafd0db599c244e76fa75bafca296c7f1f",
+      "universal_size": 135908948,
+      "universal_sha256": "37ff990d2084ba0868801f984b6b7468642425f378524547c43b61feef4d01bd",
       "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.8/ArgonMusic-v3.2.8-arm64-v8a.apk",
-      "arm64_size": 50551189,
-      "arm64_sha256": "8f30a0b988af56a9afc229a314e58bc164d894aee9a2df3b2d3249e22d46849f"
+      "arm64_size": 50567573,
+      "arm64_sha256": "85d00e72cec3df0e56ddda3f76f76b8556018237a4e4d9cbbbeadaccaedfdf83"
     }
   }
 }
