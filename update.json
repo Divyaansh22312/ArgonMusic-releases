@@ -3,56 +3,56 @@
     "latest_version": "3.2.5",
     "build_number": 54,
     "min_supported_version": "2.0.0",
-    "published_at": "2026-11-26T09:34:22.889Z",
+    "published_at": "2026-11-26T09:49:23.207Z",
     "release_notes": {
-      "en": "### What's New in ArgonMusic v3.2.5\n\n• **Light Mode Readability Fixed Across Windows & Android**: Fixed light theme text, contrast, chips, menus, sheets, and dialogs so track names, headers, and controls render crisply across all screens in Warm Ivory and White & Forest Green themes.\n• **Widescreen Windows Minimalist Mode**: Responsive side-by-side studio layout tailored for desktop screens (>= 820px wide) while keeping compact mobile portrait layout intact.\n• **Optional Windows Desktop Widgets (Resource-Optimized)**: Native Win32 layered overlay suite featuring Floating Synced Lyrics, Rotating Vinyl + 360° Live Radial Audio Visualizer, and Compact Orbital Now-Playing Hub under Settings → Desktop Widgets (Windows), with 15/30/60 FPS caps and 0% animation CPU when paused.",
-      "hi": "### What's New in ArgonMusic v3.2.5\n\n• **Light Mode Readability Fixed Across Windows & Android**: Fixed light theme text, contrast, chips, menus, sheets, and dialogs so track names, headers, and controls render crisply across all screens in Warm Ivory and White & Forest Green themes.\n• **Widescreen Windows Minimalist Mode**: Responsive side-by-side studio layout tailored for desktop screens (>= 820px wide) while keeping compact mobile portrait layout intact.\n• **Optional Windows Desktop Widgets (Resource-Optimized)**: Native Win32 layered overlay suite featuring Floating Synced Lyrics, Rotating Vinyl + 360° Live Radial Audio Visualizer, and Compact Orbital Now-Playing Hub under Settings → Desktop Widgets (Windows), with 15/30/60 FPS caps and 0% animation CPU when paused.",
-      "es": "### What's New in ArgonMusic v3.2.5\n\n• **Light Mode Readability Fixed Across Windows & Android**: Fixed light theme text, contrast, chips, menus, sheets, and dialogs so track names, headers, and controls render crisply across all screens in Warm Ivory and White & Forest Green themes.\n• **Widescreen Windows Minimalist Mode**: Responsive side-by-side studio layout tailored for desktop screens (>= 820px wide) while keeping compact mobile portrait layout intact.\n• **Optional Windows Desktop Widgets (Resource-Optimized)**: Native Win32 layered overlay suite featuring Floating Synced Lyrics, Rotating Vinyl + 360° Live Radial Audio Visualizer, and Compact Orbital Now-Playing Hub under Settings → Desktop Widgets (Windows), with 15/30/60 FPS caps and 0% animation CPU when paused."
+      "en": "### What's New in ArgonMusic v3.2.5\n\n• **Light Mode Readability Fixed Across Windows & Android**: Fixed light theme text, contrast, chips, menus, sheets, and dialogs so track names, headers, and controls render crisply across all screens in Warm Ivory and White & Forest Green themes.\n• **Widescreen Windows Minimalist Mode**: Responsive side-by-side studio layout tailored for desktop screens (>= 820px wide) while keeping compact mobile portrait layout intact.\n• **Optional Windows Desktop Widgets (Resource-Optimized)**: Native Win32 layered overlay suite featuring animated 3-line Synced Live Lyrics (previous / active / next), Rotating Album Cover Vinyl + 360° Live Radial Audio Visualizer, Compact Orbital Now-Playing Hub, custom widget size sliders/presets, and 0% animation CPU when paused.",
+      "hi": "### What's New in ArgonMusic v3.2.5\n\n• **Light Mode Readability Fixed Across Windows & Android**: Fixed light theme text, contrast, chips, menus, sheets, and dialogs so track names, headers, and controls render crisply across all screens in Warm Ivory and White & Forest Green themes.\n• **Widescreen Windows Minimalist Mode**: Responsive side-by-side studio layout tailored for desktop screens (>= 820px wide) while keeping compact mobile portrait layout intact.\n• **Optional Windows Desktop Widgets (Resource-Optimized)**: Native Win32 layered overlay suite featuring animated 3-line Synced Live Lyrics (previous / active / next), Rotating Album Cover Vinyl + 360° Live Radial Audio Visualizer, Compact Orbital Now-Playing Hub, custom widget size sliders/presets, and 0% animation CPU when paused.",
+      "es": "### What's New in ArgonMusic v3.2.5\n\n• **Light Mode Readability Fixed Across Windows & Android**: Fixed light theme text, contrast, chips, menus, sheets, and dialogs so track names, headers, and controls render crisply across all screens in Warm Ivory and White & Forest Green themes.\n• **Widescreen Windows Minimalist Mode**: Responsive side-by-side studio layout tailored for desktop screens (>= 820px wide) while keeping compact mobile portrait layout intact.\n• **Optional Windows Desktop Widgets (Resource-Optimized)**: Native Win32 layered overlay suite featuring animated 3-line Synced Live Lyrics (previous / active / next), Rotating Album Cover Vinyl + 360° Live Radial Audio Visualizer, Compact Orbital Now-Playing Hub, custom widget size sliders/presets, and 0% animation CPU when paused."
     },
     "mandatory": false,
     "platforms": {
       "windows": {
         "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.5/ArgonMusic-Setup-x64-v3.2.5.exe",
         "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.5/ArgonMusic-v3.2.5-Windows-x64-Portable.zip",
-        "size": 21776875,
-        "sha256": "73c11c4ed775d759df7346331b33ee88b9dd14f4975fa8be5b6d69fc903670c9"
+        "size": 21784496,
+        "sha256": "c4b565c35559191caab10ee28c926c3fc5427bcedc689b971760e1c3f3b74f81"
       },
       "android": {
         "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.5/ArgonMusic-v3.2.5-universal.apk",
-        "universal_size": 134647380,
-        "universal_sha256": "278d1828bb27825ece9347314c3975a07aadb08dfa6a765008deeb23541e59dd",
+        "universal_size": 134712916,
+        "universal_sha256": "051acd1f5cf640ecf3ecf306ff15459e2fe1fa74d948bcecc45080c2960c867b",
         "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.5/ArgonMusic-v3.2.5-arm64-v8a.apk",
         "arm64_size": 50190741,
-        "arm64_sha256": "60e86379a830ae6c9dcbe2332c6fc90c304a8a6ebbf7ba00c021b86c37cab25a"
+        "arm64_sha256": "3595483a6a76f402656cdafa444e46d6865b0b1ec17ab7578827d860babb4bf0"
       }
     }
   },
-  "signature": "9ffb2e8e6cd851e98f4ecaed066e83b7211c1401d3be9111eca63d920287b820c7590630a4f192bb53dff96e94af83921b89f7ba17f7440e7878d57e14425d07",
+  "signature": "9050197f416859c4a1c39cc4c7e936b04be7ef0e32ac984e1e38fac2638f9c211438c8e19db152f621d84ec87ede6f4c061828edc5c42a71ce6681a4d75fb603",
   "public_key": "7c91e1fad4cb6660894dd265d705e2b7fc8dd4f77517e702b49598ebc57e319f",
   "latest_version": "3.2.5",
   "build_number": 54,
   "min_supported_version": "2.0.0",
-  "published_at": "2026-11-26T09:34:22.889Z",
+  "published_at": "2026-11-26T09:49:23.207Z",
   "release_notes": {
-    "en": "### What's New in ArgonMusic v3.2.5\n\n• **Light Mode Readability Fixed Across Windows & Android**: Fixed light theme text, contrast, chips, menus, sheets, and dialogs so track names, headers, and controls render crisply across all screens in Warm Ivory and White & Forest Green themes.\n• **Widescreen Windows Minimalist Mode**: Responsive side-by-side studio layout tailored for desktop screens (>= 820px wide) while keeping compact mobile portrait layout intact.\n• **Optional Windows Desktop Widgets (Resource-Optimized)**: Native Win32 layered overlay suite featuring Floating Synced Lyrics, Rotating Vinyl + 360° Live Radial Audio Visualizer, and Compact Orbital Now-Playing Hub under Settings → Desktop Widgets (Windows), with 15/30/60 FPS caps and 0% animation CPU when paused.",
-    "hi": "### What's New in ArgonMusic v3.2.5\n\n• **Light Mode Readability Fixed Across Windows & Android**: Fixed light theme text, contrast, chips, menus, sheets, and dialogs so track names, headers, and controls render crisply across all screens in Warm Ivory and White & Forest Green themes.\n• **Widescreen Windows Minimalist Mode**: Responsive side-by-side studio layout tailored for desktop screens (>= 820px wide) while keeping compact mobile portrait layout intact.\n• **Optional Windows Desktop Widgets (Resource-Optimized)**: Native Win32 layered overlay suite featuring Floating Synced Lyrics, Rotating Vinyl + 360° Live Radial Audio Visualizer, and Compact Orbital Now-Playing Hub under Settings → Desktop Widgets (Windows), with 15/30/60 FPS caps and 0% animation CPU when paused.",
-    "es": "### What's New in ArgonMusic v3.2.5\n\n• **Light Mode Readability Fixed Across Windows & Android**: Fixed light theme text, contrast, chips, menus, sheets, and dialogs so track names, headers, and controls render crisply across all screens in Warm Ivory and White & Forest Green themes.\n• **Widescreen Windows Minimalist Mode**: Responsive side-by-side studio layout tailored for desktop screens (>= 820px wide) while keeping compact mobile portrait layout intact.\n• **Optional Windows Desktop Widgets (Resource-Optimized)**: Native Win32 layered overlay suite featuring Floating Synced Lyrics, Rotating Vinyl + 360° Live Radial Audio Visualizer, and Compact Orbital Now-Playing Hub under Settings → Desktop Widgets (Windows), with 15/30/60 FPS caps and 0% animation CPU when paused."
+    "en": "### What's New in ArgonMusic v3.2.5\n\n• **Light Mode Readability Fixed Across Windows & Android**: Fixed light theme text, contrast, chips, menus, sheets, and dialogs so track names, headers, and controls render crisply across all screens in Warm Ivory and White & Forest Green themes.\n• **Widescreen Windows Minimalist Mode**: Responsive side-by-side studio layout tailored for desktop screens (>= 820px wide) while keeping compact mobile portrait layout intact.\n• **Optional Windows Desktop Widgets (Resource-Optimized)**: Native Win32 layered overlay suite featuring animated 3-line Synced Live Lyrics (previous / active / next), Rotating Album Cover Vinyl + 360° Live Radial Audio Visualizer, Compact Orbital Now-Playing Hub, custom widget size sliders/presets, and 0% animation CPU when paused.",
+    "hi": "### What's New in ArgonMusic v3.2.5\n\n• **Light Mode Readability Fixed Across Windows & Android**: Fixed light theme text, contrast, chips, menus, sheets, and dialogs so track names, headers, and controls render crisply across all screens in Warm Ivory and White & Forest Green themes.\n• **Widescreen Windows Minimalist Mode**: Responsive side-by-side studio layout tailored for desktop screens (>= 820px wide) while keeping compact mobile portrait layout intact.\n• **Optional Windows Desktop Widgets (Resource-Optimized)**: Native Win32 layered overlay suite featuring animated 3-line Synced Live Lyrics (previous / active / next), Rotating Album Cover Vinyl + 360° Live Radial Audio Visualizer, Compact Orbital Now-Playing Hub, custom widget size sliders/presets, and 0% animation CPU when paused.",
+    "es": "### What's New in ArgonMusic v3.2.5\n\n• **Light Mode Readability Fixed Across Windows & Android**: Fixed light theme text, contrast, chips, menus, sheets, and dialogs so track names, headers, and controls render crisply across all screens in Warm Ivory and White & Forest Green themes.\n• **Widescreen Windows Minimalist Mode**: Responsive side-by-side studio layout tailored for desktop screens (>= 820px wide) while keeping compact mobile portrait layout intact.\n• **Optional Windows Desktop Widgets (Resource-Optimized)**: Native Win32 layered overlay suite featuring animated 3-line Synced Live Lyrics (previous / active / next), Rotating Album Cover Vinyl + 360° Live Radial Audio Visualizer, Compact Orbital Now-Playing Hub, custom widget size sliders/presets, and 0% animation CPU when paused."
   },
   "mandatory": false,
   "platforms": {
     "windows": {
       "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.5/ArgonMusic-Setup-x64-v3.2.5.exe",
       "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.5/ArgonMusic-v3.2.5-Windows-x64-Portable.zip",
-      "size": 21776875,
-      "sha256": "73c11c4ed775d759df7346331b33ee88b9dd14f4975fa8be5b6d69fc903670c9"
+      "size": 21784496,
+      "sha256": "c4b565c35559191caab10ee28c926c3fc5427bcedc689b971760e1c3f3b74f81"
     },
     "android": {
       "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.5/ArgonMusic-v3.2.5-universal.apk",
-      "universal_size": 134647380,
-      "universal_sha256": "278d1828bb27825ece9347314c3975a07aadb08dfa6a765008deeb23541e59dd",
+      "universal_size": 134712916,
+      "universal_sha256": "051acd1f5cf640ecf3ecf306ff15459e2fe1fa74d948bcecc45080c2960c867b",
       "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.5/ArgonMusic-v3.2.5-arm64-v8a.apk",
       "arm64_size": 50190741,
-      "arm64_sha256": "60e86379a830ae6c9dcbe2332c6fc90c304a8a6ebbf7ba00c021b86c37cab25a"
+      "arm64_sha256": "3595483a6a76f402656cdafa444e46d6865b0b1ec17ab7578827d860babb4bf0"
     }
   }
 }
