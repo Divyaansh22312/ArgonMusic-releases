@@ -1,58 +1,58 @@
 {
   "manifest": {
-    "latest_version": "3.2.5",
-    "build_number": 54,
+    "latest_version": "3.2.55",
+    "build_number": 55,
     "min_supported_version": "2.0.0",
-    "published_at": "2026-11-26T09:49:23.207Z",
+    "published_at": "2026-11-26T10:53:25.718Z",
     "release_notes": {
-      "en": "### What's New in ArgonMusic v3.2.5\n\n• **Light Mode Readability Fixed Across Windows & Android**: Fixed light theme text, contrast, chips, menus, sheets, and dialogs so track names, headers, and controls render crisply across all screens in Warm Ivory and White & Forest Green themes.\n• **Widescreen Windows Minimalist Mode**: Responsive side-by-side studio layout tailored for desktop screens (>= 820px wide) while keeping compact mobile portrait layout intact.\n• **Optional Windows Desktop Widgets (Resource-Optimized)**: Native Win32 layered overlay suite featuring animated 3-line Synced Live Lyrics (previous / active / next), Rotating Album Cover Vinyl + 360° Live Radial Audio Visualizer, Compact Orbital Now-Playing Hub, custom widget size sliders/presets, and 0% animation CPU when paused.",
-      "hi": "### What's New in ArgonMusic v3.2.5\n\n• **Light Mode Readability Fixed Across Windows & Android**: Fixed light theme text, contrast, chips, menus, sheets, and dialogs so track names, headers, and controls render crisply across all screens in Warm Ivory and White & Forest Green themes.\n• **Widescreen Windows Minimalist Mode**: Responsive side-by-side studio layout tailored for desktop screens (>= 820px wide) while keeping compact mobile portrait layout intact.\n• **Optional Windows Desktop Widgets (Resource-Optimized)**: Native Win32 layered overlay suite featuring animated 3-line Synced Live Lyrics (previous / active / next), Rotating Album Cover Vinyl + 360° Live Radial Audio Visualizer, Compact Orbital Now-Playing Hub, custom widget size sliders/presets, and 0% animation CPU when paused.",
-      "es": "### What's New in ArgonMusic v3.2.5\n\n• **Light Mode Readability Fixed Across Windows & Android**: Fixed light theme text, contrast, chips, menus, sheets, and dialogs so track names, headers, and controls render crisply across all screens in Warm Ivory and White & Forest Green themes.\n• **Widescreen Windows Minimalist Mode**: Responsive side-by-side studio layout tailored for desktop screens (>= 820px wide) while keeping compact mobile portrait layout intact.\n• **Optional Windows Desktop Widgets (Resource-Optimized)**: Native Win32 layered overlay suite featuring animated 3-line Synced Live Lyrics (previous / active / next), Rotating Album Cover Vinyl + 360° Live Radial Audio Visualizer, Compact Orbital Now-Playing Hub, custom widget size sliders/presets, and 0% animation CPU when paused."
+      "en": "### What's New in ArgonMusic v3.2.55\n\n• **Distinct Personalized AI Mixes**: Fixed Daily Taste Mix, Deep Focus Flow, Energy Surge Mix, Nightfall Chill, Discovery Radar, Time-of-Day mixes, Sleep Wind-Down, and Because You Listened mixes so each generates genuinely distinct, mood-tailored tracks with cross-mix deduplication instead of repeating the same playlist.\n• **Openable Spotify-Style AI Playlists**: Tapping any Personalized AI Mix on Home or in AI Mixes now opens a full Spotify-style playlist view with 2x2 cover collage, Featuring/description summary, live **Find in playlist** filter, **Save Playlist** to Library, **Refresh Mix**, Queue All, and track cover thumbnails.\n• **Includes v3.2.5 Windows Widgets & Light Mode Fixes**: Light themes across Windows & Android, widescreen Minimalist Mode, and optional animated 3-line lyrics + rotating vinyl visualizer Windows Desktop Widgets.",
+      "hi": "### What's New in ArgonMusic v3.2.55\n\n• **Distinct Personalized AI Mixes**: Fixed Daily Taste Mix, Deep Focus Flow, Energy Surge Mix, Nightfall Chill, Discovery Radar, Time-of-Day mixes, Sleep Wind-Down, and Because You Listened mixes so each generates genuinely distinct, mood-tailored tracks with cross-mix deduplication instead of repeating the same playlist.\n• **Openable Spotify-Style AI Playlists**: Tapping any Personalized AI Mix on Home or in AI Mixes now opens a full Spotify-style playlist view with 2x2 cover collage, Featuring/description summary, live **Find in playlist** filter, **Save Playlist** to Library, **Refresh Mix**, Queue All, and track cover thumbnails.\n• **Includes v3.2.5 Windows Widgets & Light Mode Fixes**: Light themes across Windows & Android, widescreen Minimalist Mode, and optional animated 3-line lyrics + rotating vinyl visualizer Windows Desktop Widgets.",
+      "es": "### What's New in ArgonMusic v3.2.55\n\n• **Distinct Personalized AI Mixes**: Fixed Daily Taste Mix, Deep Focus Flow, Energy Surge Mix, Nightfall Chill, Discovery Radar, Time-of-Day mixes, Sleep Wind-Down, and Because You Listened mixes so each generates genuinely distinct, mood-tailored tracks with cross-mix deduplication instead of repeating the same playlist.\n• **Openable Spotify-Style AI Playlists**: Tapping any Personalized AI Mix on Home or in AI Mixes now opens a full Spotify-style playlist view with 2x2 cover collage, Featuring/description summary, live **Find in playlist** filter, **Save Playlist** to Library, **Refresh Mix**, Queue All, and track cover thumbnails.\n• **Includes v3.2.5 Windows Widgets & Light Mode Fixes**: Light themes across Windows & Android, widescreen Minimalist Mode, and optional animated 3-line lyrics + rotating vinyl visualizer Windows Desktop Widgets."
     },
     "mandatory": false,
     "platforms": {
       "windows": {
-        "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.5/ArgonMusic-Setup-x64-v3.2.5.exe",
-        "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.5/ArgonMusic-v3.2.5-Windows-x64-Portable.zip",
-        "size": 21784496,
-        "sha256": "c4b565c35559191caab10ee28c926c3fc5427bcedc689b971760e1c3f3b74f81"
+        "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.55/ArgonMusic-Setup-x64-v3.2.55.exe",
+        "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.55/ArgonMusic-v3.2.55-Windows-x64-Portable.zip",
+        "size": 21804525,
+        "sha256": "aa1cb20d4a897a68b9c061c15d8e5ac8822ab08a909dbd76d86d0490ec13e017"
       },
       "android": {
-        "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.5/ArgonMusic-v3.2.5-universal.apk",
-        "universal_size": 134712916,
-        "universal_sha256": "051acd1f5cf640ecf3ecf306ff15459e2fe1fa74d948bcecc45080c2960c867b",
-        "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.5/ArgonMusic-v3.2.5-arm64-v8a.apk",
-        "arm64_size": 50190741,
-        "arm64_sha256": "3595483a6a76f402656cdafa444e46d6865b0b1ec17ab7578827d860babb4bf0"
+        "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.55/ArgonMusic-v3.2.55-universal.apk",
+        "universal_size": 134925908,
+        "universal_sha256": "4f60ab11c525ef9913dd3b7d6a8c8059c0cb22eff16d88926f27200fca78d423",
+        "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.55/ArgonMusic-v3.2.55-arm64-v8a.apk",
+        "arm64_size": 50256277,
+        "arm64_sha256": "8df3792fce0ef13df9e86eb1aca6a5695182581d9a3e5ee296d80e27e1a0919e"
       }
     }
   },
-  "signature": "9050197f416859c4a1c39cc4c7e936b04be7ef0e32ac984e1e38fac2638f9c211438c8e19db152f621d84ec87ede6f4c061828edc5c42a71ce6681a4d75fb603",
+  "signature": "603912ae0e60957095c0ad2f609e36c35118a398394d0cb23502adf4e1a5b8e1024903d7c898e2508bf0549b6943560fbd78ca160fc7a21eb8487ee3410db801",
   "public_key": "7c91e1fad4cb6660894dd265d705e2b7fc8dd4f77517e702b49598ebc57e319f",
-  "latest_version": "3.2.5",
-  "build_number": 54,
+  "latest_version": "3.2.55",
+  "build_number": 55,
   "min_supported_version": "2.0.0",
-  "published_at": "2026-11-26T09:49:23.207Z",
+  "published_at": "2026-11-26T10:53:25.718Z",
   "release_notes": {
-    "en": "### What's New in ArgonMusic v3.2.5\n\n• **Light Mode Readability Fixed Across Windows & Android**: Fixed light theme text, contrast, chips, menus, sheets, and dialogs so track names, headers, and controls render crisply across all screens in Warm Ivory and White & Forest Green themes.\n• **Widescreen Windows Minimalist Mode**: Responsive side-by-side studio layout tailored for desktop screens (>= 820px wide) while keeping compact mobile portrait layout intact.\n• **Optional Windows Desktop Widgets (Resource-Optimized)**: Native Win32 layered overlay suite featuring animated 3-line Synced Live Lyrics (previous / active / next), Rotating Album Cover Vinyl + 360° Live Radial Audio Visualizer, Compact Orbital Now-Playing Hub, custom widget size sliders/presets, and 0% animation CPU when paused.",
-    "hi": "### What's New in ArgonMusic v3.2.5\n\n• **Light Mode Readability Fixed Across Windows & Android**: Fixed light theme text, contrast, chips, menus, sheets, and dialogs so track names, headers, and controls render crisply across all screens in Warm Ivory and White & Forest Green themes.\n• **Widescreen Windows Minimalist Mode**: Responsive side-by-side studio layout tailored for desktop screens (>= 820px wide) while keeping compact mobile portrait layout intact.\n• **Optional Windows Desktop Widgets (Resource-Optimized)**: Native Win32 layered overlay suite featuring animated 3-line Synced Live Lyrics (previous / active / next), Rotating Album Cover Vinyl + 360° Live Radial Audio Visualizer, Compact Orbital Now-Playing Hub, custom widget size sliders/presets, and 0% animation CPU when paused.",
-    "es": "### What's New in ArgonMusic v3.2.5\n\n• **Light Mode Readability Fixed Across Windows & Android**: Fixed light theme text, contrast, chips, menus, sheets, and dialogs so track names, headers, and controls render crisply across all screens in Warm Ivory and White & Forest Green themes.\n• **Widescreen Windows Minimalist Mode**: Responsive side-by-side studio layout tailored for desktop screens (>= 820px wide) while keeping compact mobile portrait layout intact.\n• **Optional Windows Desktop Widgets (Resource-Optimized)**: Native Win32 layered overlay suite featuring animated 3-line Synced Live Lyrics (previous / active / next), Rotating Album Cover Vinyl + 360° Live Radial Audio Visualizer, Compact Orbital Now-Playing Hub, custom widget size sliders/presets, and 0% animation CPU when paused."
+    "en": "### What's New in ArgonMusic v3.2.55\n\n• **Distinct Personalized AI Mixes**: Fixed Daily Taste Mix, Deep Focus Flow, Energy Surge Mix, Nightfall Chill, Discovery Radar, Time-of-Day mixes, Sleep Wind-Down, and Because You Listened mixes so each generates genuinely distinct, mood-tailored tracks with cross-mix deduplication instead of repeating the same playlist.\n• **Openable Spotify-Style AI Playlists**: Tapping any Personalized AI Mix on Home or in AI Mixes now opens a full Spotify-style playlist view with 2x2 cover collage, Featuring/description summary, live **Find in playlist** filter, **Save Playlist** to Library, **Refresh Mix**, Queue All, and track cover thumbnails.\n• **Includes v3.2.5 Windows Widgets & Light Mode Fixes**: Light themes across Windows & Android, widescreen Minimalist Mode, and optional animated 3-line lyrics + rotating vinyl visualizer Windows Desktop Widgets.",
+    "hi": "### What's New in ArgonMusic v3.2.55\n\n• **Distinct Personalized AI Mixes**: Fixed Daily Taste Mix, Deep Focus Flow, Energy Surge Mix, Nightfall Chill, Discovery Radar, Time-of-Day mixes, Sleep Wind-Down, and Because You Listened mixes so each generates genuinely distinct, mood-tailored tracks with cross-mix deduplication instead of repeating the same playlist.\n• **Openable Spotify-Style AI Playlists**: Tapping any Personalized AI Mix on Home or in AI Mixes now opens a full Spotify-style playlist view with 2x2 cover collage, Featuring/description summary, live **Find in playlist** filter, **Save Playlist** to Library, **Refresh Mix**, Queue All, and track cover thumbnails.\n• **Includes v3.2.5 Windows Widgets & Light Mode Fixes**: Light themes across Windows & Android, widescreen Minimalist Mode, and optional animated 3-line lyrics + rotating vinyl visualizer Windows Desktop Widgets.",
+    "es": "### What's New in ArgonMusic v3.2.55\n\n• **Distinct Personalized AI Mixes**: Fixed Daily Taste Mix, Deep Focus Flow, Energy Surge Mix, Nightfall Chill, Discovery Radar, Time-of-Day mixes, Sleep Wind-Down, and Because You Listened mixes so each generates genuinely distinct, mood-tailored tracks with cross-mix deduplication instead of repeating the same playlist.\n• **Openable Spotify-Style AI Playlists**: Tapping any Personalized AI Mix on Home or in AI Mixes now opens a full Spotify-style playlist view with 2x2 cover collage, Featuring/description summary, live **Find in playlist** filter, **Save Playlist** to Library, **Refresh Mix**, Queue All, and track cover thumbnails.\n• **Includes v3.2.5 Windows Widgets & Light Mode Fixes**: Light themes across Windows & Android, widescreen Minimalist Mode, and optional animated 3-line lyrics + rotating vinyl visualizer Windows Desktop Widgets."
   },
   "mandatory": false,
   "platforms": {
     "windows": {
-      "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.5/ArgonMusic-Setup-x64-v3.2.5.exe",
-      "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.5/ArgonMusic-v3.2.5-Windows-x64-Portable.zip",
-      "size": 21784496,
-      "sha256": "c4b565c35559191caab10ee28c926c3fc5427bcedc689b971760e1c3f3b74f81"
+      "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.55/ArgonMusic-Setup-x64-v3.2.55.exe",
+      "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.55/ArgonMusic-v3.2.55-Windows-x64-Portable.zip",
+      "size": 21804525,
+      "sha256": "aa1cb20d4a897a68b9c061c15d8e5ac8822ab08a909dbd76d86d0490ec13e017"
     },
     "android": {
-      "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.5/ArgonMusic-v3.2.5-universal.apk",
-      "universal_size": 134712916,
-      "universal_sha256": "051acd1f5cf640ecf3ecf306ff15459e2fe1fa74d948bcecc45080c2960c867b",
-      "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.5/ArgonMusic-v3.2.5-arm64-v8a.apk",
-      "arm64_size": 50190741,
-      "arm64_sha256": "3595483a6a76f402656cdafa444e46d6865b0b1ec17ab7578827d860babb4bf0"
+      "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.55/ArgonMusic-v3.2.55-universal.apk",
+      "universal_size": 134925908,
+      "universal_sha256": "4f60ab11c525ef9913dd3b7d6a8c8059c0cb22eff16d88926f27200fca78d423",
+      "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.55/ArgonMusic-v3.2.55-arm64-v8a.apk",
+      "arm64_size": 50256277,
+      "arm64_sha256": "8df3792fce0ef13df9e86eb1aca6a5695182581d9a3e5ee296d80e27e1a0919e"
     }
   }
 }
