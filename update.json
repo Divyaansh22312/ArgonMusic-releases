@@ -1,58 +1,58 @@
 {
   "manifest": {
-    "latest_version": "3.2.3",
-    "build_number": 52,
+    "latest_version": "3.2.5",
+    "build_number": 54,
     "min_supported_version": "2.0.0",
-    "published_at": "2026-11-25T18:22:57.356Z",
+    "published_at": "2026-11-26T09:34:22.889Z",
     "release_notes": {
-      "en": "### What's New in ArgonMusic v3.2.3\n\n• **Minimalist Mode Audio-First + Complete 3-Dot Menu**: Minimalist Focus mode stays primarily on audio/artwork, adds a Watch Official Music Video toggle inside the 3-dot menu, and exposes all hidden features (Lyrics, Visualizer, Musical Universe 3D, Equalizer, Signal Path, Queue, Add to Playlist, Offline Download, Share, Sonic Match) in the 3-dot menu.\n• **Fixed Android Discord Rich Presence**: Gateway RPC now waits for READY, cleans Gateway OP 3 activity/image payloads, reliably extracts WebView login tokens, and auto-connects on Android startup.\n• **Includes v3.2.2 Windows 1080p/720p Music Video & Android 8–16 Downloads Fixes**.",
-      "hi": "### What's New in ArgonMusic v3.2.3\n\n• **Minimalist Mode Audio-First + Complete 3-Dot Menu**: Minimalist Focus mode stays primarily on audio/artwork, adds a Watch Official Music Video toggle inside the 3-dot menu, and exposes all hidden features (Lyrics, Visualizer, Musical Universe 3D, Equalizer, Signal Path, Queue, Add to Playlist, Offline Download, Share, Sonic Match) in the 3-dot menu.\n• **Fixed Android Discord Rich Presence**: Gateway RPC now waits for READY, cleans Gateway OP 3 activity/image payloads, reliably extracts WebView login tokens, and auto-connects on Android startup.\n• **Includes v3.2.2 Windows 1080p/720p Music Video & Android 8–16 Downloads Fixes**.",
-      "es": "### What's New in ArgonMusic v3.2.3\n\n• **Minimalist Mode Audio-First + Complete 3-Dot Menu**: Minimalist Focus mode stays primarily on audio/artwork, adds a Watch Official Music Video toggle inside the 3-dot menu, and exposes all hidden features (Lyrics, Visualizer, Musical Universe 3D, Equalizer, Signal Path, Queue, Add to Playlist, Offline Download, Share, Sonic Match) in the 3-dot menu.\n• **Fixed Android Discord Rich Presence**: Gateway RPC now waits for READY, cleans Gateway OP 3 activity/image payloads, reliably extracts WebView login tokens, and auto-connects on Android startup.\n• **Includes v3.2.2 Windows 1080p/720p Music Video & Android 8–16 Downloads Fixes**."
+      "en": "### What's New in ArgonMusic v3.2.5\n\n• **Light Mode Readability Fixed Across Windows & Android**: Fixed light theme text, contrast, chips, menus, sheets, and dialogs so track names, headers, and controls render crisply across all screens in Warm Ivory and White & Forest Green themes.\n• **Widescreen Windows Minimalist Mode**: Responsive side-by-side studio layout tailored for desktop screens (>= 820px wide) while keeping compact mobile portrait layout intact.\n• **Optional Windows Desktop Widgets (Resource-Optimized)**: Native Win32 layered overlay suite featuring Floating Synced Lyrics, Rotating Vinyl + 360° Live Radial Audio Visualizer, and Compact Orbital Now-Playing Hub under Settings → Desktop Widgets (Windows), with 15/30/60 FPS caps and 0% animation CPU when paused.",
+      "hi": "### What's New in ArgonMusic v3.2.5\n\n• **Light Mode Readability Fixed Across Windows & Android**: Fixed light theme text, contrast, chips, menus, sheets, and dialogs so track names, headers, and controls render crisply across all screens in Warm Ivory and White & Forest Green themes.\n• **Widescreen Windows Minimalist Mode**: Responsive side-by-side studio layout tailored for desktop screens (>= 820px wide) while keeping compact mobile portrait layout intact.\n• **Optional Windows Desktop Widgets (Resource-Optimized)**: Native Win32 layered overlay suite featuring Floating Synced Lyrics, Rotating Vinyl + 360° Live Radial Audio Visualizer, and Compact Orbital Now-Playing Hub under Settings → Desktop Widgets (Windows), with 15/30/60 FPS caps and 0% animation CPU when paused.",
+      "es": "### What's New in ArgonMusic v3.2.5\n\n• **Light Mode Readability Fixed Across Windows & Android**: Fixed light theme text, contrast, chips, menus, sheets, and dialogs so track names, headers, and controls render crisply across all screens in Warm Ivory and White & Forest Green themes.\n• **Widescreen Windows Minimalist Mode**: Responsive side-by-side studio layout tailored for desktop screens (>= 820px wide) while keeping compact mobile portrait layout intact.\n• **Optional Windows Desktop Widgets (Resource-Optimized)**: Native Win32 layered overlay suite featuring Floating Synced Lyrics, Rotating Vinyl + 360° Live Radial Audio Visualizer, and Compact Orbital Now-Playing Hub under Settings → Desktop Widgets (Windows), with 15/30/60 FPS caps and 0% animation CPU when paused."
     },
     "mandatory": false,
     "platforms": {
       "windows": {
-        "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.3/ArgonMusic-Setup-x64-v3.2.3.exe",
-        "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.3/ArgonMusic-v3.2.3-Windows-x64-Portable.zip",
-        "size": 21739546,
-        "sha256": "9027b47989cb7b986af79fc414b3f598af46fadd21662f786a4daf11520f939c"
+        "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.5/ArgonMusic-Setup-x64-v3.2.5.exe",
+        "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.5/ArgonMusic-v3.2.5-Windows-x64-Portable.zip",
+        "size": 21776875,
+        "sha256": "73c11c4ed775d759df7346331b33ee88b9dd14f4975fa8be5b6d69fc903670c9"
       },
       "android": {
-        "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.3/ArgonMusic-v3.2.3-universal.apk",
-        "universal_size": 134516308,
-        "universal_sha256": "9903ff0f2f62692b9439664bf23d00daee26206f97104d0cf53b5998d8ba4b52",
-        "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.3/ArgonMusic-v3.2.3-arm64-v8a.apk",
-        "arm64_size": 50125205,
-        "arm64_sha256": "44c37db3ec84ad3d3a9a656b432fd66105b09b017c815fcaa03a58f4c2b4e7b8"
+        "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.5/ArgonMusic-v3.2.5-universal.apk",
+        "universal_size": 134647380,
+        "universal_sha256": "278d1828bb27825ece9347314c3975a07aadb08dfa6a765008deeb23541e59dd",
+        "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.5/ArgonMusic-v3.2.5-arm64-v8a.apk",
+        "arm64_size": 50190741,
+        "arm64_sha256": "60e86379a830ae6c9dcbe2332c6fc90c304a8a6ebbf7ba00c021b86c37cab25a"
       }
     }
   },
-  "signature": "bb8c75d44eef93060741a0d4d31d90d52aa694e98e5fd51422841d8a2dbbb7d3146b78fbb038f297f0bbd9cb5c3ff34221abb6329dddc4133be35f40c3f2bf0f",
+  "signature": "9ffb2e8e6cd851e98f4ecaed066e83b7211c1401d3be9111eca63d920287b820c7590630a4f192bb53dff96e94af83921b89f7ba17f7440e7878d57e14425d07",
   "public_key": "7c91e1fad4cb6660894dd265d705e2b7fc8dd4f77517e702b49598ebc57e319f",
-  "latest_version": "3.2.3",
-  "build_number": 52,
+  "latest_version": "3.2.5",
+  "build_number": 54,
   "min_supported_version": "2.0.0",
-  "published_at": "2026-11-25T18:22:57.356Z",
+  "published_at": "2026-11-26T09:34:22.889Z",
   "release_notes": {
-    "en": "### What's New in ArgonMusic v3.2.3\n\n• **Minimalist Mode Audio-First + Complete 3-Dot Menu**: Minimalist Focus mode stays primarily on audio/artwork, adds a Watch Official Music Video toggle inside the 3-dot menu, and exposes all hidden features (Lyrics, Visualizer, Musical Universe 3D, Equalizer, Signal Path, Queue, Add to Playlist, Offline Download, Share, Sonic Match) in the 3-dot menu.\n• **Fixed Android Discord Rich Presence**: Gateway RPC now waits for READY, cleans Gateway OP 3 activity/image payloads, reliably extracts WebView login tokens, and auto-connects on Android startup.\n• **Includes v3.2.2 Windows 1080p/720p Music Video & Android 8–16 Downloads Fixes**.",
-    "hi": "### What's New in ArgonMusic v3.2.3\n\n• **Minimalist Mode Audio-First + Complete 3-Dot Menu**: Minimalist Focus mode stays primarily on audio/artwork, adds a Watch Official Music Video toggle inside the 3-dot menu, and exposes all hidden features (Lyrics, Visualizer, Musical Universe 3D, Equalizer, Signal Path, Queue, Add to Playlist, Offline Download, Share, Sonic Match) in the 3-dot menu.\n• **Fixed Android Discord Rich Presence**: Gateway RPC now waits for READY, cleans Gateway OP 3 activity/image payloads, reliably extracts WebView login tokens, and auto-connects on Android startup.\n• **Includes v3.2.2 Windows 1080p/720p Music Video & Android 8–16 Downloads Fixes**.",
-    "es": "### What's New in ArgonMusic v3.2.3\n\n• **Minimalist Mode Audio-First + Complete 3-Dot Menu**: Minimalist Focus mode stays primarily on audio/artwork, adds a Watch Official Music Video toggle inside the 3-dot menu, and exposes all hidden features (Lyrics, Visualizer, Musical Universe 3D, Equalizer, Signal Path, Queue, Add to Playlist, Offline Download, Share, Sonic Match) in the 3-dot menu.\n• **Fixed Android Discord Rich Presence**: Gateway RPC now waits for READY, cleans Gateway OP 3 activity/image payloads, reliably extracts WebView login tokens, and auto-connects on Android startup.\n• **Includes v3.2.2 Windows 1080p/720p Music Video & Android 8–16 Downloads Fixes**."
+    "en": "### What's New in ArgonMusic v3.2.5\n\n• **Light Mode Readability Fixed Across Windows & Android**: Fixed light theme text, contrast, chips, menus, sheets, and dialogs so track names, headers, and controls render crisply across all screens in Warm Ivory and White & Forest Green themes.\n• **Widescreen Windows Minimalist Mode**: Responsive side-by-side studio layout tailored for desktop screens (>= 820px wide) while keeping compact mobile portrait layout intact.\n• **Optional Windows Desktop Widgets (Resource-Optimized)**: Native Win32 layered overlay suite featuring Floating Synced Lyrics, Rotating Vinyl + 360° Live Radial Audio Visualizer, and Compact Orbital Now-Playing Hub under Settings → Desktop Widgets (Windows), with 15/30/60 FPS caps and 0% animation CPU when paused.",
+    "hi": "### What's New in ArgonMusic v3.2.5\n\n• **Light Mode Readability Fixed Across Windows & Android**: Fixed light theme text, contrast, chips, menus, sheets, and dialogs so track names, headers, and controls render crisply across all screens in Warm Ivory and White & Forest Green themes.\n• **Widescreen Windows Minimalist Mode**: Responsive side-by-side studio layout tailored for desktop screens (>= 820px wide) while keeping compact mobile portrait layout intact.\n• **Optional Windows Desktop Widgets (Resource-Optimized)**: Native Win32 layered overlay suite featuring Floating Synced Lyrics, Rotating Vinyl + 360° Live Radial Audio Visualizer, and Compact Orbital Now-Playing Hub under Settings → Desktop Widgets (Windows), with 15/30/60 FPS caps and 0% animation CPU when paused.",
+    "es": "### What's New in ArgonMusic v3.2.5\n\n• **Light Mode Readability Fixed Across Windows & Android**: Fixed light theme text, contrast, chips, menus, sheets, and dialogs so track names, headers, and controls render crisply across all screens in Warm Ivory and White & Forest Green themes.\n• **Widescreen Windows Minimalist Mode**: Responsive side-by-side studio layout tailored for desktop screens (>= 820px wide) while keeping compact mobile portrait layout intact.\n• **Optional Windows Desktop Widgets (Resource-Optimized)**: Native Win32 layered overlay suite featuring Floating Synced Lyrics, Rotating Vinyl + 360° Live Radial Audio Visualizer, and Compact Orbital Now-Playing Hub under Settings → Desktop Widgets (Windows), with 15/30/60 FPS caps and 0% animation CPU when paused."
   },
   "mandatory": false,
   "platforms": {
     "windows": {
-      "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.3/ArgonMusic-Setup-x64-v3.2.3.exe",
-      "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.3/ArgonMusic-v3.2.3-Windows-x64-Portable.zip",
-      "size": 21739546,
-      "sha256": "9027b47989cb7b986af79fc414b3f598af46fadd21662f786a4daf11520f939c"
+      "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.5/ArgonMusic-Setup-x64-v3.2.5.exe",
+      "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.5/ArgonMusic-v3.2.5-Windows-x64-Portable.zip",
+      "size": 21776875,
+      "sha256": "73c11c4ed775d759df7346331b33ee88b9dd14f4975fa8be5b6d69fc903670c9"
     },
     "android": {
-      "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.3/ArgonMusic-v3.2.3-universal.apk",
-      "universal_size": 134516308,
-      "universal_sha256": "9903ff0f2f62692b9439664bf23d00daee26206f97104d0cf53b5998d8ba4b52",
-      "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.3/ArgonMusic-v3.2.3-arm64-v8a.apk",
-      "arm64_size": 50125205,
-      "arm64_sha256": "44c37db3ec84ad3d3a9a656b432fd66105b09b017c815fcaa03a58f4c2b4e7b8"
+      "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.5/ArgonMusic-v3.2.5-universal.apk",
+      "universal_size": 134647380,
+      "universal_sha256": "278d1828bb27825ece9347314c3975a07aadb08dfa6a765008deeb23541e59dd",
+      "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.5/ArgonMusic-v3.2.5-arm64-v8a.apk",
+      "arm64_size": 50190741,
+      "arm64_sha256": "60e86379a830ae6c9dcbe2332c6fc90c304a8a6ebbf7ba00c021b86c37cab25a"
     }
   }
 }
