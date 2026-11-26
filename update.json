@@ -1,58 +1,58 @@
 {
   "manifest": {
-    "latest_version": "3.2.6",
-    "build_number": 56,
+    "latest_version": "3.2.7",
+    "build_number": 57,
     "min_supported_version": "2.0.0",
-    "published_at": "2026-11-26T11:16:00.278Z",
+    "published_at": "2026-11-26T16:09:54.944Z",
     "release_notes": {
-      "en": "### What's New in ArgonMusic v3.2.6\n\n• **Fixed Song Search Accuracy (Rust InnerTube + Ranking)**: Fixed InnerTube search params, added Top Result (musicCardShelfRenderer) and musicShelfRenderer extraction, stripped trailing query filler (song, \full song), rejected podcasts/episodes, and added canonical relevance ranking + a **Top result** card so searching queries like \tere liye song puts the main official track at #1.\n• **Includes v3.2.55 Distinct Personalized AI Mixes & Spotify-Style Playlists**: Every AI mix (Daily Taste Mix, Deep Focus, Energy Surge, Nightfall Chill, Discovery, Time-of-Day, Sleep Wind-Down, Artist Mixes) generates distinct tracks and opens as a full Spotify-style playlist.",
-      "hi": "### What's New in ArgonMusic v3.2.6\n\n• **Fixed Song Search Accuracy (Rust InnerTube + Ranking)**: Fixed InnerTube search params, added Top Result (musicCardShelfRenderer) and musicShelfRenderer extraction, stripped trailing query filler (song, \full song), rejected podcasts/episodes, and added canonical relevance ranking + a **Top result** card so searching queries like \tere liye song puts the main official track at #1.\n• **Includes v3.2.55 Distinct Personalized AI Mixes & Spotify-Style Playlists**: Every AI mix (Daily Taste Mix, Deep Focus, Energy Surge, Nightfall Chill, Discovery, Time-of-Day, Sleep Wind-Down, Artist Mixes) generates distinct tracks and opens as a full Spotify-style playlist.",
-      "es": "### What's New in ArgonMusic v3.2.6\n\n• **Fixed Song Search Accuracy (Rust InnerTube + Ranking)**: Fixed InnerTube search params, added Top Result (musicCardShelfRenderer) and musicShelfRenderer extraction, stripped trailing query filler (song, \full song), rejected podcasts/episodes, and added canonical relevance ranking + a **Top result** card so searching queries like \tere liye song puts the main official track at #1.\n• **Includes v3.2.55 Distinct Personalized AI Mixes & Spotify-Style Playlists**: Every AI mix (Daily Taste Mix, Deep Focus, Energy Surge, Nightfall Chill, Discovery, Time-of-Day, Sleep Wind-Down, Artist Mixes) generates distinct tracks and opens as a full Spotify-style playlist."
+      "en": "### What's New in ArgonMusic v3.2.7\n\n• **Fixed Lyrics Sync & Animation Glitching**: Fixed active-line key resets that snapped animations, added instant mid-song scroll & two-stage catch-up so lyrics stay locked to playback, upgraded word-by-word karaoke to smooth 60fps interpolation with 50ms position polling, and removed text-reflow/blur jitter.\n• **Fixed PC Keyboard Shortcuts & Global Hotkeys**: Fixed stale Search focus trapping shortcuts across tabs/fullscreen, fixed key-rebind capture, added shifted/numpad key aliases (?, +, -) & hold-to-repeat for volume/seek, wired Ctrl+F search focus, Ctrl+L lyrics toggle, V visualizer launch, and native Win32 RegisterHotKey for system-wide media keys.\n• **Fixed PC Animation Glitches**: Eliminated full-shell backdrop rebuilds, mouse-hover setState stutter in HoloDeck 3D artwork, and mode-switcher key mismatches in Fullscreen Now Playing.",
+      "hi": "### What's New in ArgonMusic v3.2.7\n\n• **Fixed Lyrics Sync & Animation Glitching**: Fixed active-line key resets that snapped animations, added instant mid-song scroll & two-stage catch-up so lyrics stay locked to playback, upgraded word-by-word karaoke to smooth 60fps interpolation with 50ms position polling, and removed text-reflow/blur jitter.\n• **Fixed PC Keyboard Shortcuts & Global Hotkeys**: Fixed stale Search focus trapping shortcuts across tabs/fullscreen, fixed key-rebind capture, added shifted/numpad key aliases (?, +, -) & hold-to-repeat for volume/seek, wired Ctrl+F search focus, Ctrl+L lyrics toggle, V visualizer launch, and native Win32 RegisterHotKey for system-wide media keys.\n• **Fixed PC Animation Glitches**: Eliminated full-shell backdrop rebuilds, mouse-hover setState stutter in HoloDeck 3D artwork, and mode-switcher key mismatches in Fullscreen Now Playing.",
+      "es": "### What's New in ArgonMusic v3.2.7\n\n• **Fixed Lyrics Sync & Animation Glitching**: Fixed active-line key resets that snapped animations, added instant mid-song scroll & two-stage catch-up so lyrics stay locked to playback, upgraded word-by-word karaoke to smooth 60fps interpolation with 50ms position polling, and removed text-reflow/blur jitter.\n• **Fixed PC Keyboard Shortcuts & Global Hotkeys**: Fixed stale Search focus trapping shortcuts across tabs/fullscreen, fixed key-rebind capture, added shifted/numpad key aliases (?, +, -) & hold-to-repeat for volume/seek, wired Ctrl+F search focus, Ctrl+L lyrics toggle, V visualizer launch, and native Win32 RegisterHotKey for system-wide media keys.\n• **Fixed PC Animation Glitches**: Eliminated full-shell backdrop rebuilds, mouse-hover setState stutter in HoloDeck 3D artwork, and mode-switcher key mismatches in Fullscreen Now Playing."
     },
     "mandatory": false,
     "platforms": {
       "windows": {
-        "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.6/ArgonMusic-Setup-x64-v3.2.6.exe",
-        "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.6/ArgonMusic-v3.2.6-Windows-x64-Portable.zip",
-        "size": 21831863,
-        "sha256": "c7b661a4e36eeb008baaf3f4f963836be18efc3fad03b1c21d981a307d693698"
+        "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.7/ArgonMusic-Setup-x64-v3.2.7.exe",
+        "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.7/ArgonMusic-v3.2.7-Windows-x64-Portable.zip",
+        "size": 21836942,
+        "sha256": "26fbed6ee225e718f25246d8c9724b0a6a1b5556e4e8f3ddd542d7bd731ebc4a"
       },
       "android": {
-        "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.6/ArgonMusic-v3.2.6-universal.apk",
-        "universal_size": 135138900,
-        "universal_sha256": "f5beaf93efb642a54660fa47843f3bd38202047dc09243780c5375879ac19aee",
-        "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.6/ArgonMusic-v3.2.6-arm64-v8a.apk",
-        "arm64_size": 50289045,
-        "arm64_sha256": "18edc1f17b80c78756e4bb3c3c16ee5f8728161c4e3a0041f97bdcd53a6e76ba"
+        "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.7/ArgonMusic-v3.2.7-universal.apk",
+        "universal_size": 135237204,
+        "universal_sha256": "dbd71ffe5e90c1e84a7ef2a7c4a96b58094f071ad55a8b25e2c98d3e3d7b1d39",
+        "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.7/ArgonMusic-v3.2.7-arm64-v8a.apk",
+        "arm64_size": 50354581,
+        "arm64_sha256": "59571d8fc55d9b037dfba803801b9f45cab7c9676aa3396dc75e35798f2e3400"
       }
     }
   },
-  "signature": "67596b6f1ad751bf6584bf65db7e43de67c50459fa47a4e8fd734c1cc335a38b805abbeeae0538dbd63263ec02ecce990e4ed6877c57953f7f14fff6ee13fd0f",
+  "signature": "17ee2ebccb4e04a8d783449b86f46ea1df0a75fdbc218a4cf2ae1ff21de567d6d002c2d3fbddff75ae943e595cf0ba5673073963bffe69d5047aaf89d692ac07",
   "public_key": "7c91e1fad4cb6660894dd265d705e2b7fc8dd4f77517e702b49598ebc57e319f",
-  "latest_version": "3.2.6",
-  "build_number": 56,
+  "latest_version": "3.2.7",
+  "build_number": 57,
   "min_supported_version": "2.0.0",
-  "published_at": "2026-11-26T11:16:00.278Z",
+  "published_at": "2026-11-26T16:09:54.944Z",
   "release_notes": {
-    "en": "### What's New in ArgonMusic v3.2.6\n\n• **Fixed Song Search Accuracy (Rust InnerTube + Ranking)**: Fixed InnerTube search params, added Top Result (musicCardShelfRenderer) and musicShelfRenderer extraction, stripped trailing query filler (song, \full song), rejected podcasts/episodes, and added canonical relevance ranking + a **Top result** card so searching queries like \tere liye song puts the main official track at #1.\n• **Includes v3.2.55 Distinct Personalized AI Mixes & Spotify-Style Playlists**: Every AI mix (Daily Taste Mix, Deep Focus, Energy Surge, Nightfall Chill, Discovery, Time-of-Day, Sleep Wind-Down, Artist Mixes) generates distinct tracks and opens as a full Spotify-style playlist.",
-    "hi": "### What's New in ArgonMusic v3.2.6\n\n• **Fixed Song Search Accuracy (Rust InnerTube + Ranking)**: Fixed InnerTube search params, added Top Result (musicCardShelfRenderer) and musicShelfRenderer extraction, stripped trailing query filler (song, \full song), rejected podcasts/episodes, and added canonical relevance ranking + a **Top result** card so searching queries like \tere liye song puts the main official track at #1.\n• **Includes v3.2.55 Distinct Personalized AI Mixes & Spotify-Style Playlists**: Every AI mix (Daily Taste Mix, Deep Focus, Energy Surge, Nightfall Chill, Discovery, Time-of-Day, Sleep Wind-Down, Artist Mixes) generates distinct tracks and opens as a full Spotify-style playlist.",
-    "es": "### What's New in ArgonMusic v3.2.6\n\n• **Fixed Song Search Accuracy (Rust InnerTube + Ranking)**: Fixed InnerTube search params, added Top Result (musicCardShelfRenderer) and musicShelfRenderer extraction, stripped trailing query filler (song, \full song), rejected podcasts/episodes, and added canonical relevance ranking + a **Top result** card so searching queries like \tere liye song puts the main official track at #1.\n• **Includes v3.2.55 Distinct Personalized AI Mixes & Spotify-Style Playlists**: Every AI mix (Daily Taste Mix, Deep Focus, Energy Surge, Nightfall Chill, Discovery, Time-of-Day, Sleep Wind-Down, Artist Mixes) generates distinct tracks and opens as a full Spotify-style playlist."
+    "en": "### What's New in ArgonMusic v3.2.7\n\n• **Fixed Lyrics Sync & Animation Glitching**: Fixed active-line key resets that snapped animations, added instant mid-song scroll & two-stage catch-up so lyrics stay locked to playback, upgraded word-by-word karaoke to smooth 60fps interpolation with 50ms position polling, and removed text-reflow/blur jitter.\n• **Fixed PC Keyboard Shortcuts & Global Hotkeys**: Fixed stale Search focus trapping shortcuts across tabs/fullscreen, fixed key-rebind capture, added shifted/numpad key aliases (?, +, -) & hold-to-repeat for volume/seek, wired Ctrl+F search focus, Ctrl+L lyrics toggle, V visualizer launch, and native Win32 RegisterHotKey for system-wide media keys.\n• **Fixed PC Animation Glitches**: Eliminated full-shell backdrop rebuilds, mouse-hover setState stutter in HoloDeck 3D artwork, and mode-switcher key mismatches in Fullscreen Now Playing.",
+    "hi": "### What's New in ArgonMusic v3.2.7\n\n• **Fixed Lyrics Sync & Animation Glitching**: Fixed active-line key resets that snapped animations, added instant mid-song scroll & two-stage catch-up so lyrics stay locked to playback, upgraded word-by-word karaoke to smooth 60fps interpolation with 50ms position polling, and removed text-reflow/blur jitter.\n• **Fixed PC Keyboard Shortcuts & Global Hotkeys**: Fixed stale Search focus trapping shortcuts across tabs/fullscreen, fixed key-rebind capture, added shifted/numpad key aliases (?, +, -) & hold-to-repeat for volume/seek, wired Ctrl+F search focus, Ctrl+L lyrics toggle, V visualizer launch, and native Win32 RegisterHotKey for system-wide media keys.\n• **Fixed PC Animation Glitches**: Eliminated full-shell backdrop rebuilds, mouse-hover setState stutter in HoloDeck 3D artwork, and mode-switcher key mismatches in Fullscreen Now Playing.",
+    "es": "### What's New in ArgonMusic v3.2.7\n\n• **Fixed Lyrics Sync & Animation Glitching**: Fixed active-line key resets that snapped animations, added instant mid-song scroll & two-stage catch-up so lyrics stay locked to playback, upgraded word-by-word karaoke to smooth 60fps interpolation with 50ms position polling, and removed text-reflow/blur jitter.\n• **Fixed PC Keyboard Shortcuts & Global Hotkeys**: Fixed stale Search focus trapping shortcuts across tabs/fullscreen, fixed key-rebind capture, added shifted/numpad key aliases (?, +, -) & hold-to-repeat for volume/seek, wired Ctrl+F search focus, Ctrl+L lyrics toggle, V visualizer launch, and native Win32 RegisterHotKey for system-wide media keys.\n• **Fixed PC Animation Glitches**: Eliminated full-shell backdrop rebuilds, mouse-hover setState stutter in HoloDeck 3D artwork, and mode-switcher key mismatches in Fullscreen Now Playing."
   },
   "mandatory": false,
   "platforms": {
     "windows": {
-      "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.6/ArgonMusic-Setup-x64-v3.2.6.exe",
-      "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.6/ArgonMusic-v3.2.6-Windows-x64-Portable.zip",
-      "size": 21831863,
-      "sha256": "c7b661a4e36eeb008baaf3f4f963836be18efc3fad03b1c21d981a307d693698"
+      "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.7/ArgonMusic-Setup-x64-v3.2.7.exe",
+      "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.7/ArgonMusic-v3.2.7-Windows-x64-Portable.zip",
+      "size": 21836942,
+      "sha256": "26fbed6ee225e718f25246d8c9724b0a6a1b5556e4e8f3ddd542d7bd731ebc4a"
     },
     "android": {
-      "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.6/ArgonMusic-v3.2.6-universal.apk",
-      "universal_size": 135138900,
-      "universal_sha256": "f5beaf93efb642a54660fa47843f3bd38202047dc09243780c5375879ac19aee",
-      "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.6/ArgonMusic-v3.2.6-arm64-v8a.apk",
-      "arm64_size": 50289045,
-      "arm64_sha256": "18edc1f17b80c78756e4bb3c3c16ee5f8728161c4e3a0041f97bdcd53a6e76ba"
+      "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.7/ArgonMusic-v3.2.7-universal.apk",
+      "universal_size": 135237204,
+      "universal_sha256": "dbd71ffe5e90c1e84a7ef2a7c4a96b58094f071ad55a8b25e2c98d3e3d7b1d39",
+      "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.7/ArgonMusic-v3.2.7-arm64-v8a.apk",
+      "arm64_size": 50354581,
+      "arm64_sha256": "59571d8fc55d9b037dfba803801b9f45cab7c9676aa3396dc75e35798f2e3400"
     }
   }
 }
