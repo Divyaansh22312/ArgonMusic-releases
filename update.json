@@ -1,58 +1,58 @@
 {
   "manifest": {
-    "latest_version": "3.2.55",
-    "build_number": 55,
+    "latest_version": "3.2.6",
+    "build_number": 56,
     "min_supported_version": "2.0.0",
-    "published_at": "2026-11-26T10:53:25.718Z",
+    "published_at": "2026-11-26T11:16:00.278Z",
     "release_notes": {
-      "en": "### What's New in ArgonMusic v3.2.55\n\n• **Distinct Personalized AI Mixes**: Fixed Daily Taste Mix, Deep Focus Flow, Energy Surge Mix, Nightfall Chill, Discovery Radar, Time-of-Day mixes, Sleep Wind-Down, and Because You Listened mixes so each generates genuinely distinct, mood-tailored tracks with cross-mix deduplication instead of repeating the same playlist.\n• **Openable Spotify-Style AI Playlists**: Tapping any Personalized AI Mix on Home or in AI Mixes now opens a full Spotify-style playlist view with 2x2 cover collage, Featuring/description summary, live **Find in playlist** filter, **Save Playlist** to Library, **Refresh Mix**, Queue All, and track cover thumbnails.\n• **Includes v3.2.5 Windows Widgets & Light Mode Fixes**: Light themes across Windows & Android, widescreen Minimalist Mode, and optional animated 3-line lyrics + rotating vinyl visualizer Windows Desktop Widgets.",
-      "hi": "### What's New in ArgonMusic v3.2.55\n\n• **Distinct Personalized AI Mixes**: Fixed Daily Taste Mix, Deep Focus Flow, Energy Surge Mix, Nightfall Chill, Discovery Radar, Time-of-Day mixes, Sleep Wind-Down, and Because You Listened mixes so each generates genuinely distinct, mood-tailored tracks with cross-mix deduplication instead of repeating the same playlist.\n• **Openable Spotify-Style AI Playlists**: Tapping any Personalized AI Mix on Home or in AI Mixes now opens a full Spotify-style playlist view with 2x2 cover collage, Featuring/description summary, live **Find in playlist** filter, **Save Playlist** to Library, **Refresh Mix**, Queue All, and track cover thumbnails.\n• **Includes v3.2.5 Windows Widgets & Light Mode Fixes**: Light themes across Windows & Android, widescreen Minimalist Mode, and optional animated 3-line lyrics + rotating vinyl visualizer Windows Desktop Widgets.",
-      "es": "### What's New in ArgonMusic v3.2.55\n\n• **Distinct Personalized AI Mixes**: Fixed Daily Taste Mix, Deep Focus Flow, Energy Surge Mix, Nightfall Chill, Discovery Radar, Time-of-Day mixes, Sleep Wind-Down, and Because You Listened mixes so each generates genuinely distinct, mood-tailored tracks with cross-mix deduplication instead of repeating the same playlist.\n• **Openable Spotify-Style AI Playlists**: Tapping any Personalized AI Mix on Home or in AI Mixes now opens a full Spotify-style playlist view with 2x2 cover collage, Featuring/description summary, live **Find in playlist** filter, **Save Playlist** to Library, **Refresh Mix**, Queue All, and track cover thumbnails.\n• **Includes v3.2.5 Windows Widgets & Light Mode Fixes**: Light themes across Windows & Android, widescreen Minimalist Mode, and optional animated 3-line lyrics + rotating vinyl visualizer Windows Desktop Widgets."
+      "en": "### What's New in ArgonMusic v3.2.6\n\n• **Fixed Song Search Accuracy (Rust InnerTube + Ranking)**: Fixed InnerTube search params, added Top Result (musicCardShelfRenderer) and musicShelfRenderer extraction, stripped trailing query filler (song, \full song), rejected podcasts/episodes, and added canonical relevance ranking + a **Top result** card so searching queries like \tere liye song puts the main official track at #1.\n• **Includes v3.2.55 Distinct Personalized AI Mixes & Spotify-Style Playlists**: Every AI mix (Daily Taste Mix, Deep Focus, Energy Surge, Nightfall Chill, Discovery, Time-of-Day, Sleep Wind-Down, Artist Mixes) generates distinct tracks and opens as a full Spotify-style playlist.",
+      "hi": "### What's New in ArgonMusic v3.2.6\n\n• **Fixed Song Search Accuracy (Rust InnerTube + Ranking)**: Fixed InnerTube search params, added Top Result (musicCardShelfRenderer) and musicShelfRenderer extraction, stripped trailing query filler (song, \full song), rejected podcasts/episodes, and added canonical relevance ranking + a **Top result** card so searching queries like \tere liye song puts the main official track at #1.\n• **Includes v3.2.55 Distinct Personalized AI Mixes & Spotify-Style Playlists**: Every AI mix (Daily Taste Mix, Deep Focus, Energy Surge, Nightfall Chill, Discovery, Time-of-Day, Sleep Wind-Down, Artist Mixes) generates distinct tracks and opens as a full Spotify-style playlist.",
+      "es": "### What's New in ArgonMusic v3.2.6\n\n• **Fixed Song Search Accuracy (Rust InnerTube + Ranking)**: Fixed InnerTube search params, added Top Result (musicCardShelfRenderer) and musicShelfRenderer extraction, stripped trailing query filler (song, \full song), rejected podcasts/episodes, and added canonical relevance ranking + a **Top result** card so searching queries like \tere liye song puts the main official track at #1.\n• **Includes v3.2.55 Distinct Personalized AI Mixes & Spotify-Style Playlists**: Every AI mix (Daily Taste Mix, Deep Focus, Energy Surge, Nightfall Chill, Discovery, Time-of-Day, Sleep Wind-Down, Artist Mixes) generates distinct tracks and opens as a full Spotify-style playlist."
     },
     "mandatory": false,
     "platforms": {
       "windows": {
-        "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.55/ArgonMusic-Setup-x64-v3.2.55.exe",
-        "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.55/ArgonMusic-v3.2.55-Windows-x64-Portable.zip",
-        "size": 21804525,
-        "sha256": "aa1cb20d4a897a68b9c061c15d8e5ac8822ab08a909dbd76d86d0490ec13e017"
+        "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.6/ArgonMusic-Setup-x64-v3.2.6.exe",
+        "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.6/ArgonMusic-v3.2.6-Windows-x64-Portable.zip",
+        "size": 21831863,
+        "sha256": "c7b661a4e36eeb008baaf3f4f963836be18efc3fad03b1c21d981a307d693698"
       },
       "android": {
-        "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.55/ArgonMusic-v3.2.55-universal.apk",
-        "universal_size": 134925908,
-        "universal_sha256": "4f60ab11c525ef9913dd3b7d6a8c8059c0cb22eff16d88926f27200fca78d423",
-        "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.55/ArgonMusic-v3.2.55-arm64-v8a.apk",
-        "arm64_size": 50256277,
-        "arm64_sha256": "8df3792fce0ef13df9e86eb1aca6a5695182581d9a3e5ee296d80e27e1a0919e"
+        "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.6/ArgonMusic-v3.2.6-universal.apk",
+        "universal_size": 135138900,
+        "universal_sha256": "f5beaf93efb642a54660fa47843f3bd38202047dc09243780c5375879ac19aee",
+        "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.6/ArgonMusic-v3.2.6-arm64-v8a.apk",
+        "arm64_size": 50289045,
+        "arm64_sha256": "18edc1f17b80c78756e4bb3c3c16ee5f8728161c4e3a0041f97bdcd53a6e76ba"
       }
     }
   },
-  "signature": "603912ae0e60957095c0ad2f609e36c35118a398394d0cb23502adf4e1a5b8e1024903d7c898e2508bf0549b6943560fbd78ca160fc7a21eb8487ee3410db801",
+  "signature": "67596b6f1ad751bf6584bf65db7e43de67c50459fa47a4e8fd734c1cc335a38b805abbeeae0538dbd63263ec02ecce990e4ed6877c57953f7f14fff6ee13fd0f",
   "public_key": "7c91e1fad4cb6660894dd265d705e2b7fc8dd4f77517e702b49598ebc57e319f",
-  "latest_version": "3.2.55",
-  "build_number": 55,
+  "latest_version": "3.2.6",
+  "build_number": 56,
   "min_supported_version": "2.0.0",
-  "published_at": "2026-11-26T10:53:25.718Z",
+  "published_at": "2026-11-26T11:16:00.278Z",
   "release_notes": {
-    "en": "### What's New in ArgonMusic v3.2.55\n\n• **Distinct Personalized AI Mixes**: Fixed Daily Taste Mix, Deep Focus Flow, Energy Surge Mix, Nightfall Chill, Discovery Radar, Time-of-Day mixes, Sleep Wind-Down, and Because You Listened mixes so each generates genuinely distinct, mood-tailored tracks with cross-mix deduplication instead of repeating the same playlist.\n• **Openable Spotify-Style AI Playlists**: Tapping any Personalized AI Mix on Home or in AI Mixes now opens a full Spotify-style playlist view with 2x2 cover collage, Featuring/description summary, live **Find in playlist** filter, **Save Playlist** to Library, **Refresh Mix**, Queue All, and track cover thumbnails.\n• **Includes v3.2.5 Windows Widgets & Light Mode Fixes**: Light themes across Windows & Android, widescreen Minimalist Mode, and optional animated 3-line lyrics + rotating vinyl visualizer Windows Desktop Widgets.",
-    "hi": "### What's New in ArgonMusic v3.2.55\n\n• **Distinct Personalized AI Mixes**: Fixed Daily Taste Mix, Deep Focus Flow, Energy Surge Mix, Nightfall Chill, Discovery Radar, Time-of-Day mixes, Sleep Wind-Down, and Because You Listened mixes so each generates genuinely distinct, mood-tailored tracks with cross-mix deduplication instead of repeating the same playlist.\n• **Openable Spotify-Style AI Playlists**: Tapping any Personalized AI Mix on Home or in AI Mixes now opens a full Spotify-style playlist view with 2x2 cover collage, Featuring/description summary, live **Find in playlist** filter, **Save Playlist** to Library, **Refresh Mix**, Queue All, and track cover thumbnails.\n• **Includes v3.2.5 Windows Widgets & Light Mode Fixes**: Light themes across Windows & Android, widescreen Minimalist Mode, and optional animated 3-line lyrics + rotating vinyl visualizer Windows Desktop Widgets.",
-    "es": "### What's New in ArgonMusic v3.2.55\n\n• **Distinct Personalized AI Mixes**: Fixed Daily Taste Mix, Deep Focus Flow, Energy Surge Mix, Nightfall Chill, Discovery Radar, Time-of-Day mixes, Sleep Wind-Down, and Because You Listened mixes so each generates genuinely distinct, mood-tailored tracks with cross-mix deduplication instead of repeating the same playlist.\n• **Openable Spotify-Style AI Playlists**: Tapping any Personalized AI Mix on Home or in AI Mixes now opens a full Spotify-style playlist view with 2x2 cover collage, Featuring/description summary, live **Find in playlist** filter, **Save Playlist** to Library, **Refresh Mix**, Queue All, and track cover thumbnails.\n• **Includes v3.2.5 Windows Widgets & Light Mode Fixes**: Light themes across Windows & Android, widescreen Minimalist Mode, and optional animated 3-line lyrics + rotating vinyl visualizer Windows Desktop Widgets."
+    "en": "### What's New in ArgonMusic v3.2.6\n\n• **Fixed Song Search Accuracy (Rust InnerTube + Ranking)**: Fixed InnerTube search params, added Top Result (musicCardShelfRenderer) and musicShelfRenderer extraction, stripped trailing query filler (song, \full song), rejected podcasts/episodes, and added canonical relevance ranking + a **Top result** card so searching queries like \tere liye song puts the main official track at #1.\n• **Includes v3.2.55 Distinct Personalized AI Mixes & Spotify-Style Playlists**: Every AI mix (Daily Taste Mix, Deep Focus, Energy Surge, Nightfall Chill, Discovery, Time-of-Day, Sleep Wind-Down, Artist Mixes) generates distinct tracks and opens as a full Spotify-style playlist.",
+    "hi": "### What's New in ArgonMusic v3.2.6\n\n• **Fixed Song Search Accuracy (Rust InnerTube + Ranking)**: Fixed InnerTube search params, added Top Result (musicCardShelfRenderer) and musicShelfRenderer extraction, stripped trailing query filler (song, \full song), rejected podcasts/episodes, and added canonical relevance ranking + a **Top result** card so searching queries like \tere liye song puts the main official track at #1.\n• **Includes v3.2.55 Distinct Personalized AI Mixes & Spotify-Style Playlists**: Every AI mix (Daily Taste Mix, Deep Focus, Energy Surge, Nightfall Chill, Discovery, Time-of-Day, Sleep Wind-Down, Artist Mixes) generates distinct tracks and opens as a full Spotify-style playlist.",
+    "es": "### What's New in ArgonMusic v3.2.6\n\n• **Fixed Song Search Accuracy (Rust InnerTube + Ranking)**: Fixed InnerTube search params, added Top Result (musicCardShelfRenderer) and musicShelfRenderer extraction, stripped trailing query filler (song, \full song), rejected podcasts/episodes, and added canonical relevance ranking + a **Top result** card so searching queries like \tere liye song puts the main official track at #1.\n• **Includes v3.2.55 Distinct Personalized AI Mixes & Spotify-Style Playlists**: Every AI mix (Daily Taste Mix, Deep Focus, Energy Surge, Nightfall Chill, Discovery, Time-of-Day, Sleep Wind-Down, Artist Mixes) generates distinct tracks and opens as a full Spotify-style playlist."
   },
   "mandatory": false,
   "platforms": {
     "windows": {
-      "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.55/ArgonMusic-Setup-x64-v3.2.55.exe",
-      "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.55/ArgonMusic-v3.2.55-Windows-x64-Portable.zip",
-      "size": 21804525,
-      "sha256": "aa1cb20d4a897a68b9c061c15d8e5ac8822ab08a909dbd76d86d0490ec13e017"
+      "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.6/ArgonMusic-Setup-x64-v3.2.6.exe",
+      "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.6/ArgonMusic-v3.2.6-Windows-x64-Portable.zip",
+      "size": 21831863,
+      "sha256": "c7b661a4e36eeb008baaf3f4f963836be18efc3fad03b1c21d981a307d693698"
     },
     "android": {
-      "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.55/ArgonMusic-v3.2.55-universal.apk",
-      "universal_size": 134925908,
-      "universal_sha256": "4f60ab11c525ef9913dd3b7d6a8c8059c0cb22eff16d88926f27200fca78d423",
-      "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.55/ArgonMusic-v3.2.55-arm64-v8a.apk",
-      "arm64_size": 50256277,
-      "arm64_sha256": "8df3792fce0ef13df9e86eb1aca6a5695182581d9a3e5ee296d80e27e1a0919e"
+      "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.6/ArgonMusic-v3.2.6-universal.apk",
+      "universal_size": 135138900,
+      "universal_sha256": "f5beaf93efb642a54660fa47843f3bd38202047dc09243780c5375879ac19aee",
+      "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.2.6/ArgonMusic-v3.2.6-arm64-v8a.apk",
+      "arm64_size": 50289045,
+      "arm64_sha256": "18edc1f17b80c78756e4bb3c3c16ee5f8728161c4e3a0041f97bdcd53a6e76ba"
     }
   }
 }
