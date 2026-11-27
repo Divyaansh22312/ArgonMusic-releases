@@ -3,7 +3,7 @@
     "latest_version": "3.3.1",
     "build_number": 61,
     "min_supported_version": "2.0.0",
-    "published_at": "2026-11-27T12:58:39.673Z",
+    "published_at": "2026-11-27T17:31:19.126Z",
     "release_notes": {
       "en": "### What's New in ArgonMusic v3.3.1\n\n• **Fixed AI Mixes Mobile Header Layout**: Stacked the AI Mixes title/subtitle above the Assistant, Radio Builder, and Music DNA chips on mobile so the heading never wraps vertically or overflows.\n• **Fixed Album Discovery, Search & Playback (v3.3)**: Added real InnerTube album, artist, and playlist search returning canonical album IDs (MPREb_ / OLAK5uy_), real Home & Explore album shelves, local album track lookup, and automatic track-to-album page resolution.\n• **Editorial Album & Artist UI Redesign**: Full-bleed hero artwork, floating translucent + / Share / More top controls, centered title + explicit badge + clickable artist + metadata row, side-by-side Play & Shuffle pills, expandable editorial description/bio, and clean numbered tracklists.\n• **Dynamic Per-Album & Per-Artist Color Palettes**: Added 14 curated color moods (Obsidian Black, Light Sky Blue, Ice Cyan Blue, Midnight Cobalt, Crimson Wine, Emerald Forest, Royal Plum, Warm Espresso, Dusty Rose, Ocean Teal, and more) adapted to both Dark and Light ArgonMusic themes.\n• **Saved Albums & Library Albums Tab**: Save any album to your Library via the + button and browse saved, local, and listened albums in the Library -> Albums tab.",
       "hi": "### What's New in ArgonMusic v3.3.1\n\n• **Fixed AI Mixes Mobile Header Layout**: Stacked the AI Mixes title/subtitle above the Assistant, Radio Builder, and Music DNA chips on mobile so the heading never wraps vertically or overflows.\n• **Fixed Album Discovery, Search & Playback (v3.3)**: Added real InnerTube album, artist, and playlist search returning canonical album IDs (MPREb_ / OLAK5uy_), real Home & Explore album shelves, local album track lookup, and automatic track-to-album page resolution.\n• **Editorial Album & Artist UI Redesign**: Full-bleed hero artwork, floating translucent + / Share / More top controls, centered title + explicit badge + clickable artist + metadata row, side-by-side Play & Shuffle pills, expandable editorial description/bio, and clean numbered tracklists.\n• **Dynamic Per-Album & Per-Artist Color Palettes**: Added 14 curated color moods (Obsidian Black, Light Sky Blue, Ice Cyan Blue, Midnight Cobalt, Crimson Wine, Emerald Forest, Royal Plum, Warm Espresso, Dusty Rose, Ocean Teal, and more) adapted to both Dark and Light ArgonMusic themes.\n• **Saved Albums & Library Albums Tab**: Save any album to your Library via the + button and browse saved, local, and listened albums in the Library -> Albums tab.",
@@ -14,8 +14,8 @@
       "windows": {
         "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.3.1/ArgonMusic-Setup-x64-v3.3.1.exe",
         "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.3.1/ArgonMusic-v3.3.1-Windows-x64-Portable.zip",
-        "size": 21969068,
-        "sha256": "34e4eecf6093597ddee5c1546a52015ccbec41b763c40dbbe7a41dc85b3760ad"
+        "size": 28401073,
+        "sha256": "5b90c2e067875af020917d0388c15de7258501d7b3c5e85acf0fc2eaa68b860f"
       },
       "android": {
         "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.3.1/ArgonMusic-v3.3.1-universal.apk",
@@ -27,12 +27,12 @@
       }
     }
   },
-  "signature": "3ecda527e630e528278874e26be3272b276f2de599409e783999aa6a1b5a9e74d2944883428f9eaa241b0922a1a4564c122a33d28a7d8fd9c94f73da8c79ea0f",
+  "signature": "95e2fd0313cb864594872aa401656712a50b19e70e1674a70b337be2fe161d0a6c574d00ab15b6472f8fdc8b75f13224cbb1d6a81c13bd049dcfd097d1b5b509",
   "public_key": "7c91e1fad4cb6660894dd265d705e2b7fc8dd4f77517e702b49598ebc57e319f",
   "latest_version": "3.3.1",
   "build_number": 61,
   "min_supported_version": "2.0.0",
-  "published_at": "2026-11-27T12:58:39.673Z",
+  "published_at": "2026-11-27T17:31:19.126Z",
   "release_notes": {
     "en": "### What's New in ArgonMusic v3.3.1\n\n• **Fixed AI Mixes Mobile Header Layout**: Stacked the AI Mixes title/subtitle above the Assistant, Radio Builder, and Music DNA chips on mobile so the heading never wraps vertically or overflows.\n• **Fixed Album Discovery, Search & Playback (v3.3)**: Added real InnerTube album, artist, and playlist search returning canonical album IDs (MPREb_ / OLAK5uy_), real Home & Explore album shelves, local album track lookup, and automatic track-to-album page resolution.\n• **Editorial Album & Artist UI Redesign**: Full-bleed hero artwork, floating translucent + / Share / More top controls, centered title + explicit badge + clickable artist + metadata row, side-by-side Play & Shuffle pills, expandable editorial description/bio, and clean numbered tracklists.\n• **Dynamic Per-Album & Per-Artist Color Palettes**: Added 14 curated color moods (Obsidian Black, Light Sky Blue, Ice Cyan Blue, Midnight Cobalt, Crimson Wine, Emerald Forest, Royal Plum, Warm Espresso, Dusty Rose, Ocean Teal, and more) adapted to both Dark and Light ArgonMusic themes.\n• **Saved Albums & Library Albums Tab**: Save any album to your Library via the + button and browse saved, local, and listened albums in the Library -> Albums tab.",
     "hi": "### What's New in ArgonMusic v3.3.1\n\n• **Fixed AI Mixes Mobile Header Layout**: Stacked the AI Mixes title/subtitle above the Assistant, Radio Builder, and Music DNA chips on mobile so the heading never wraps vertically or overflows.\n• **Fixed Album Discovery, Search & Playback (v3.3)**: Added real InnerTube album, artist, and playlist search returning canonical album IDs (MPREb_ / OLAK5uy_), real Home & Explore album shelves, local album track lookup, and automatic track-to-album page resolution.\n• **Editorial Album & Artist UI Redesign**: Full-bleed hero artwork, floating translucent + / Share / More top controls, centered title + explicit badge + clickable artist + metadata row, side-by-side Play & Shuffle pills, expandable editorial description/bio, and clean numbered tracklists.\n• **Dynamic Per-Album & Per-Artist Color Palettes**: Added 14 curated color moods (Obsidian Black, Light Sky Blue, Ice Cyan Blue, Midnight Cobalt, Crimson Wine, Emerald Forest, Royal Plum, Warm Espresso, Dusty Rose, Ocean Teal, and more) adapted to both Dark and Light ArgonMusic themes.\n• **Saved Albums & Library Albums Tab**: Save any album to your Library via the + button and browse saved, local, and listened albums in the Library -> Albums tab.",
@@ -43,8 +43,8 @@
     "windows": {
       "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.3.1/ArgonMusic-Setup-x64-v3.3.1.exe",
       "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.3.1/ArgonMusic-v3.3.1-Windows-x64-Portable.zip",
-      "size": 21969068,
-      "sha256": "34e4eecf6093597ddee5c1546a52015ccbec41b763c40dbbe7a41dc85b3760ad"
+      "size": 28401073,
+      "sha256": "5b90c2e067875af020917d0388c15de7258501d7b3c5e85acf0fc2eaa68b860f"
     },
     "android": {
       "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.3.1/ArgonMusic-v3.3.1-universal.apk",
