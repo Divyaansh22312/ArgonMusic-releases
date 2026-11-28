@@ -1,58 +1,58 @@
 {
   "manifest": {
-    "latest_version": "3.3.3",
-    "build_number": 63,
+    "latest_version": "3.3.31",
+    "build_number": 64,
     "min_supported_version": "2.0.0",
-    "published_at": "2026-11-28T09:47:13.344Z",
+    "published_at": "2026-11-28T10:01:37.301Z",
     "release_notes": {
-      "en": "### What's New in ArgonMusic v3.3.3\n\n• **Strengthened YouTube Music Search & Recommendations**: Always queries unfiltered YouTube Music alongside the Songs filter (plus raw-query fallback) so indie/YouTube-only uploads and official music videos are never hidden behind unrelated Songs-filter matches.\n• **Fixed Official & Music Video Track Filtering**: Stopped dropping tracks with 'Official Video', 'Official Music Video', or 'Music Video' in their titles in both search and related-track recommendations, using only a mild tie-breaker so pure audio still wins ties.\n• **Improved 'Title by Artist' Search Ranking**: Strips 'by' connectors when cleaning queries and boosts combined title + artist token matches so queries like '101 by raihan rahee' surface the exact track at the top.\n• **Previous v3.3.1 Fixes Included**: Stacked AI Mixes mobile header layout, canonical album discovery/search/playback, editorial album & artist UI redesign, and 14 dynamic color palettes.",
-      "hi": "### What's New in ArgonMusic v3.3.3\n\n• **Strengthened YouTube Music Search & Recommendations**: Always queries unfiltered YouTube Music alongside the Songs filter (plus raw-query fallback) so indie/YouTube-only uploads and official music videos are never hidden behind unrelated Songs-filter matches.\n• **Fixed Official & Music Video Track Filtering**: Stopped dropping tracks with 'Official Video', 'Official Music Video', or 'Music Video' in their titles in both search and related-track recommendations, using only a mild tie-breaker so pure audio still wins ties.\n• **Improved 'Title by Artist' Search Ranking**: Strips 'by' connectors when cleaning queries and boosts combined title + artist token matches so queries like '101 by raihan rahee' surface the exact track at the top.\n• **Previous v3.3.1 Fixes Included**: Stacked AI Mixes mobile header layout, canonical album discovery/search/playback, editorial album & artist UI redesign, and 14 dynamic color palettes.",
-      "es": "### What's New in ArgonMusic v3.3.3\n\n• **Strengthened YouTube Music Search & Recommendations**: Always queries unfiltered YouTube Music alongside the Songs filter (plus raw-query fallback) so indie/YouTube-only uploads and official music videos are never hidden behind unrelated Songs-filter matches.\n• **Fixed Official & Music Video Track Filtering**: Stopped dropping tracks with 'Official Video', 'Official Music Video', or 'Music Video' in their titles in both search and related-track recommendations, using only a mild tie-breaker so pure audio still wins ties.\n• **Improved 'Title by Artist' Search Ranking**: Strips 'by' connectors when cleaning queries and boosts combined title + artist token matches so queries like '101 by raihan rahee' surface the exact track at the top.\n• **Previous v3.3.1 Fixes Included**: Stacked AI Mixes mobile header layout, canonical album discovery/search/playback, editorial album & artist UI redesign, and 14 dynamic color palettes."
+      "en": "### What's New in ArgonMusic v3.3.31\n\n• **Strengthened YouTube Music Search & Recommendations**: Always queries unfiltered YouTube Music alongside the Songs filter (plus raw-query fallback) so indie/YouTube-only uploads and official music videos are never hidden behind unrelated Songs-filter matches.\n• **Fixed Official & Music Video Track Filtering**: Stopped dropping tracks with 'Official Video', 'Official Music Video', or 'Music Video' in their titles in both search and related-track recommendations, using only a mild tie-breaker so pure audio still wins ties.\n• **Improved 'Title by Artist' Search Ranking**: Strips 'by' connectors when cleaning queries and boosts combined title + artist token matches so queries like '101 by raihan rahee' surface the exact track at the top.\n• **Previous v3.3.1 Fixes Included**: Stacked AI Mixes mobile header layout, canonical album discovery/search/playback, editorial album & artist UI redesign, and 14 dynamic color palettes.",
+      "hi": "### What's New in ArgonMusic v3.3.31\n\n• **Strengthened YouTube Music Search & Recommendations**: Always queries unfiltered YouTube Music alongside the Songs filter (plus raw-query fallback) so indie/YouTube-only uploads and official music videos are never hidden behind unrelated Songs-filter matches.\n• **Fixed Official & Music Video Track Filtering**: Stopped dropping tracks with 'Official Video', 'Official Music Video', or 'Music Video' in their titles in both search and related-track recommendations, using only a mild tie-breaker so pure audio still wins ties.\n• **Improved 'Title by Artist' Search Ranking**: Strips 'by' connectors when cleaning queries and boosts combined title + artist token matches so queries like '101 by raihan rahee' surface the exact track at the top.\n• **Previous v3.3.1 Fixes Included**: Stacked AI Mixes mobile header layout, canonical album discovery/search/playback, editorial album & artist UI redesign, and 14 dynamic color palettes.",
+      "es": "### What's New in ArgonMusic v3.3.31\n\n• **Strengthened YouTube Music Search & Recommendations**: Always queries unfiltered YouTube Music alongside the Songs filter (plus raw-query fallback) so indie/YouTube-only uploads and official music videos are never hidden behind unrelated Songs-filter matches.\n• **Fixed Official & Music Video Track Filtering**: Stopped dropping tracks with 'Official Video', 'Official Music Video', or 'Music Video' in their titles in both search and related-track recommendations, using only a mild tie-breaker so pure audio still wins ties.\n• **Improved 'Title by Artist' Search Ranking**: Strips 'by' connectors when cleaning queries and boosts combined title + artist token matches so queries like '101 by raihan rahee' surface the exact track at the top.\n• **Previous v3.3.1 Fixes Included**: Stacked AI Mixes mobile header layout, canonical album discovery/search/playback, editorial album & artist UI redesign, and 14 dynamic color palettes."
     },
     "mandatory": false,
     "platforms": {
       "windows": {
-        "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.3.3/ArgonMusic-Setup-x64-v3.3.3.exe",
-        "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.3.3/ArgonMusic-v3.3.3-Windows-x64-Portable.zip",
-        "size": 28401312,
-        "sha256": "61fb1bb7c72d23ab474871d2e88013fcf4232331c581f883678e9aecef11e753"
+        "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.3.31/ArgonMusic-Setup-x64-v3.3.31.exe",
+        "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.3.31/ArgonMusic-v3.3.31-Windows-x64-Portable.zip",
+        "size": 28497061,
+        "sha256": "6e3cea0af819d10c6d0af74b9b95c9fd524ba75de5f8eae9451b17416979c8ad"
       },
       "android": {
-        "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.3.3/ArgonMusic-v3.3.3-universal.apk",
-        "universal_size": 132666372,
-        "universal_sha256": "2acfe3db02ab6dc11432e691317fb995775d7ba51da2d526ec228b0a854bfe77",
-        "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.3.3/ArgonMusic-v3.3.3-arm64-v8a.apk",
-        "arm64_size": 46919493,
-        "arm64_sha256": "0386b61eb8c2993fe379c5276db2ce398bc4505412de87403904ec2111529d15"
+        "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.3.31/ArgonMusic-v3.3.31-universal.apk",
+        "universal_size": 133157892,
+        "universal_sha256": "6b19757165822de9e209aeb94b0d572056da5e736cbbef649d843983d59e4e6e",
+        "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.3.31/ArgonMusic-v3.3.31-arm64-v8a.apk",
+        "arm64_size": 47050565,
+        "arm64_sha256": "fe746153fc46abd32b2bf9e365df1bcc1b197888efe076319b6cf95e1aef9282"
       }
     }
   },
-  "signature": "fd218157bc863cc78c7dc8640b15ba3aa4293a3576819f767be1e973988df54a5d7374b374671498fc29919a809f08a622ccd5bd5c90246a9bc60ea4a4c90e0c",
+  "signature": "66a45f6b1c93a19ba7b52c1af0c49bfc67d9d02d07336c9bb370925a179e35b750d786c0fdec1a02f2594b5e49b0649b5feee3db89f329c7990d538db9f49606",
   "public_key": "7c91e1fad4cb6660894dd265d705e2b7fc8dd4f77517e702b49598ebc57e319f",
-  "latest_version": "3.3.3",
-  "build_number": 63,
+  "latest_version": "3.3.31",
+  "build_number": 64,
   "min_supported_version": "2.0.0",
-  "published_at": "2026-11-28T09:47:13.344Z",
+  "published_at": "2026-11-28T10:01:37.301Z",
   "release_notes": {
-    "en": "### What's New in ArgonMusic v3.3.3\n\n• **Strengthened YouTube Music Search & Recommendations**: Always queries unfiltered YouTube Music alongside the Songs filter (plus raw-query fallback) so indie/YouTube-only uploads and official music videos are never hidden behind unrelated Songs-filter matches.\n• **Fixed Official & Music Video Track Filtering**: Stopped dropping tracks with 'Official Video', 'Official Music Video', or 'Music Video' in their titles in both search and related-track recommendations, using only a mild tie-breaker so pure audio still wins ties.\n• **Improved 'Title by Artist' Search Ranking**: Strips 'by' connectors when cleaning queries and boosts combined title + artist token matches so queries like '101 by raihan rahee' surface the exact track at the top.\n• **Previous v3.3.1 Fixes Included**: Stacked AI Mixes mobile header layout, canonical album discovery/search/playback, editorial album & artist UI redesign, and 14 dynamic color palettes.",
-    "hi": "### What's New in ArgonMusic v3.3.3\n\n• **Strengthened YouTube Music Search & Recommendations**: Always queries unfiltered YouTube Music alongside the Songs filter (plus raw-query fallback) so indie/YouTube-only uploads and official music videos are never hidden behind unrelated Songs-filter matches.\n• **Fixed Official & Music Video Track Filtering**: Stopped dropping tracks with 'Official Video', 'Official Music Video', or 'Music Video' in their titles in both search and related-track recommendations, using only a mild tie-breaker so pure audio still wins ties.\n• **Improved 'Title by Artist' Search Ranking**: Strips 'by' connectors when cleaning queries and boosts combined title + artist token matches so queries like '101 by raihan rahee' surface the exact track at the top.\n• **Previous v3.3.1 Fixes Included**: Stacked AI Mixes mobile header layout, canonical album discovery/search/playback, editorial album & artist UI redesign, and 14 dynamic color palettes.",
-    "es": "### What's New in ArgonMusic v3.3.3\n\n• **Strengthened YouTube Music Search & Recommendations**: Always queries unfiltered YouTube Music alongside the Songs filter (plus raw-query fallback) so indie/YouTube-only uploads and official music videos are never hidden behind unrelated Songs-filter matches.\n• **Fixed Official & Music Video Track Filtering**: Stopped dropping tracks with 'Official Video', 'Official Music Video', or 'Music Video' in their titles in both search and related-track recommendations, using only a mild tie-breaker so pure audio still wins ties.\n• **Improved 'Title by Artist' Search Ranking**: Strips 'by' connectors when cleaning queries and boosts combined title + artist token matches so queries like '101 by raihan rahee' surface the exact track at the top.\n• **Previous v3.3.1 Fixes Included**: Stacked AI Mixes mobile header layout, canonical album discovery/search/playback, editorial album & artist UI redesign, and 14 dynamic color palettes."
+    "en": "### What's New in ArgonMusic v3.3.31\n\n• **Strengthened YouTube Music Search & Recommendations**: Always queries unfiltered YouTube Music alongside the Songs filter (plus raw-query fallback) so indie/YouTube-only uploads and official music videos are never hidden behind unrelated Songs-filter matches.\n• **Fixed Official & Music Video Track Filtering**: Stopped dropping tracks with 'Official Video', 'Official Music Video', or 'Music Video' in their titles in both search and related-track recommendations, using only a mild tie-breaker so pure audio still wins ties.\n• **Improved 'Title by Artist' Search Ranking**: Strips 'by' connectors when cleaning queries and boosts combined title + artist token matches so queries like '101 by raihan rahee' surface the exact track at the top.\n• **Previous v3.3.1 Fixes Included**: Stacked AI Mixes mobile header layout, canonical album discovery/search/playback, editorial album & artist UI redesign, and 14 dynamic color palettes.",
+    "hi": "### What's New in ArgonMusic v3.3.31\n\n• **Strengthened YouTube Music Search & Recommendations**: Always queries unfiltered YouTube Music alongside the Songs filter (plus raw-query fallback) so indie/YouTube-only uploads and official music videos are never hidden behind unrelated Songs-filter matches.\n• **Fixed Official & Music Video Track Filtering**: Stopped dropping tracks with 'Official Video', 'Official Music Video', or 'Music Video' in their titles in both search and related-track recommendations, using only a mild tie-breaker so pure audio still wins ties.\n• **Improved 'Title by Artist' Search Ranking**: Strips 'by' connectors when cleaning queries and boosts combined title + artist token matches so queries like '101 by raihan rahee' surface the exact track at the top.\n• **Previous v3.3.1 Fixes Included**: Stacked AI Mixes mobile header layout, canonical album discovery/search/playback, editorial album & artist UI redesign, and 14 dynamic color palettes.",
+    "es": "### What's New in ArgonMusic v3.3.31\n\n• **Strengthened YouTube Music Search & Recommendations**: Always queries unfiltered YouTube Music alongside the Songs filter (plus raw-query fallback) so indie/YouTube-only uploads and official music videos are never hidden behind unrelated Songs-filter matches.\n• **Fixed Official & Music Video Track Filtering**: Stopped dropping tracks with 'Official Video', 'Official Music Video', or 'Music Video' in their titles in both search and related-track recommendations, using only a mild tie-breaker so pure audio still wins ties.\n• **Improved 'Title by Artist' Search Ranking**: Strips 'by' connectors when cleaning queries and boosts combined title + artist token matches so queries like '101 by raihan rahee' surface the exact track at the top.\n• **Previous v3.3.1 Fixes Included**: Stacked AI Mixes mobile header layout, canonical album discovery/search/playback, editorial album & artist UI redesign, and 14 dynamic color palettes."
   },
   "mandatory": false,
   "platforms": {
     "windows": {
-      "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.3.3/ArgonMusic-Setup-x64-v3.3.3.exe",
-      "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.3.3/ArgonMusic-v3.3.3-Windows-x64-Portable.zip",
-      "size": 28401312,
-      "sha256": "61fb1bb7c72d23ab474871d2e88013fcf4232331c581f883678e9aecef11e753"
+      "installer_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.3.31/ArgonMusic-Setup-x64-v3.3.31.exe",
+      "portable_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.3.31/ArgonMusic-v3.3.31-Windows-x64-Portable.zip",
+      "size": 28497061,
+      "sha256": "6e3cea0af819d10c6d0af74b9b95c9fd524ba75de5f8eae9451b17416979c8ad"
     },
     "android": {
-      "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.3.3/ArgonMusic-v3.3.3-universal.apk",
-      "universal_size": 132666372,
-      "universal_sha256": "2acfe3db02ab6dc11432e691317fb995775d7ba51da2d526ec228b0a854bfe77",
-      "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.3.3/ArgonMusic-v3.3.3-arm64-v8a.apk",
-      "arm64_size": 46919493,
-      "arm64_sha256": "0386b61eb8c2993fe379c5276db2ce398bc4505412de87403904ec2111529d15"
+      "universal_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.3.31/ArgonMusic-v3.3.31-universal.apk",
+      "universal_size": 133157892,
+      "universal_sha256": "6b19757165822de9e209aeb94b0d572056da5e736cbbef649d843983d59e4e6e",
+      "arm64_url": "https://github.com/Divyaansh22312/ArgonMusic-releases/releases/download/v3.3.31/ArgonMusic-v3.3.31-arm64-v8a.apk",
+      "arm64_size": 47050565,
+      "arm64_sha256": "fe746153fc46abd32b2bf9e365df1bcc1b197888efe076319b6cf95e1aef9282"
     }
   }
 }
